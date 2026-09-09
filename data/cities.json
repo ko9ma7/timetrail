@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Seoul",
+    "label": "서울",
+    "lat": 37.5665,
+    "lon": 126.978
+  },
+  {
+    "name": "Busan",
+    "label": "부산",
+    "lat": 35.1796,
+    "lon": 129.0756
+  },
+  {
+    "name": "Beijing",
+    "label": "베이징",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "name": "Tokyo",
+    "label": "도쿄",
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  {
+    "name": "Delhi",
+    "label": "델리",
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  {
+    "name": "Istanbul",
+    "label": "이스탄불",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "name": "Baghdad",
+    "label": "바그다드",
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  {
+    "name": "Samarkand",
+    "label": "사마르칸트",
+    "lat": 39.6542,
+    "lon": 66.9597
+  },
+  {
+    "name": "Cairo",
+    "label": "카이로",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "name": "Timbuktu",
+    "label": "팀북투",
+    "lat": 16.7666,
+    "lon": -3.0026
+  },
+  {
+    "name": "London",
+    "label": "런던",
+    "lat": 51.5072,
+    "lon": -0.1276
+  },
+  {
+    "name": "Paris",
+    "label": "파리",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "name": "Rome",
+    "label": "로마",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "name": "Berlin",
+    "label": "베를린",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "name": "Vienna",
+    "label": "빈",
+    "lat": 48.2082,
+    "lon": 16.3738
+  },
+  {
+    "name": "Lisbon",
+    "label": "리스본",
+    "lat": 38.7223,
+    "lon": -9.1393
+  },
+  {
+    "name": "MexicoCity",
+    "label": "멕시코시티",
+    "lat": 19.4326,
+    "lon": -99.1332
+  },
+  {
+    "name": "Philadelphia",
+    "label": "필라델피아",
+    "lat": 39.9526,
+    "lon": -75.1652
+  },
+  {
+    "name": "Havana",
+    "label": "아바나",
+    "lat": 23.1136,
+    "lon": -82.3666
+  },
+  {
+    "name": "Cusco",
+    "label": "쿠스코",
+    "lat": -13.5319,
+    "lon": -71.9675
+  },
+  {
+    "name": "BuenosAires",
+    "label": "부에노스아이레스",
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  {
+    "name": "Sydney",
+    "label": "시드니",
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "name": "Hanoi",
+    "label": "하노이",
+    "lat": 21.0278,
+    "lon": 105.8342
+  },
+  {
+    "name": "Angkor",
+    "label": "앙코르",
+    "lat": 13.4125,
+    "lon": 103.867
+  }
+]

@@ -1,0 +1,23 @@
+﻿TimeTrail v1.1.4 배포 시작 방법
+===============================
+
+중요: ZIP 안에서 github-bootstrap.cmd를 직접 더블클릭하지 마세요.
+
+1. ZIP 파일을 우클릭합니다.
+2. "모두 압축 풀기"를 선택합니다.
+3. 압축이 풀린 폴더를 엽니다.
+4. 그 폴더 안의 github-bootstrap.cmd를 더블클릭합니다.
+5. 창이 오류로 종료되지 않고 마지막에 반드시 "계속하려면 아무 키나 누르십시오" 상태로 멈춥니다.
+6. 문제가 생기면 같은 폴더의 github-bootstrap.log를 확인합니다.
+
+정상 시작 시 처음에 반드시 다음과 비슷하게 표시됩니다.
+[DATA] Events: 80 / Countries-regions: 40 / Story packs: 9 / Duel cities: 24
+
+이 줄이 나오지 않으면 최신 프로젝트 폴더가 아닙니다.
+
+Windows CMD compatibility note
+------------------------------
+v1.1.4 fixes the previous batch parsing problem by storing the CMD/PowerShell launcher as ASCII-only Windows CRLF files. Console deployment messages are therefore shown in English.
+
+
+v1.1.4 also fixes bootstrap on a newly extracted folder when the GitHub repository already exists but local origin is not configured. The script now adds origin first and safely adopts remote main history before committing.

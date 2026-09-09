@@ -1,0 +1,2179 @@
+[
+  {
+    "id": "seoul-1392",
+    "title": "조선 건국",
+    "year": 1392,
+    "place": "한양(서울)",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "category": "politics",
+    "summary": "이성계가 새 왕조 조선을 세웠고 한양은 곧 수도로 정비되었다.",
+    "significance": "한양의 수도화는 이후 500년 넘게 한반도의 정치·행정 중심 구조를 형성했다.",
+    "people": [
+      "이성계",
+      "정도전"
+    ],
+    "relatedPlaces": [
+      "경복궁",
+      "종묘",
+      "한양도성"
+    ],
+    "keyPoints": [
+      "고려에서 조선으로 왕조가 교체됨",
+      "유교적 국가 체제가 강화됨",
+      "한양이 새 수도로 건설됨"
+    ],
+    "wikiQuery": "조선 건국",
+    "wikiQueryEn": "조선 건국"
+  },
+  {
+    "id": "seoul-1446",
+    "title": "훈민정음 반포",
+    "year": 1446,
+    "place": "한양(서울)",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.58,
+    "lon": 126.99,
+    "category": "culture",
+    "summary": "세종이 창제한 훈민정음이 해례와 함께 반포되었다.",
+    "significance": "문자 생활의 진입 장벽을 크게 낮추었고 오늘날 한글의 기원이 되었다.",
+    "people": [
+      "세종",
+      "정인지"
+    ],
+    "relatedPlaces": [
+      "경복궁",
+      "집현전"
+    ],
+    "keyPoints": [
+      "소리의 원리를 반영한 문자 설계",
+      "백성이 쉽게 익히도록 하는 목적",
+      "해례본은 창제 원리를 설명함"
+    ],
+    "wikiQuery": "훈민정음",
+    "wikiQueryEn": "훈민정음"
+  },
+  {
+    "id": "busan-1592",
+    "title": "부산진 전투",
+    "year": 1592,
+    "place": "부산",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 35.1796,
+    "lon": 129.0756,
+    "category": "war",
+    "summary": "일본군의 조선 침공 초기에 부산진에서 전투가 벌어졌다.",
+    "significance": "임진왜란의 육상 침공이 본격화되는 첫 관문이었다.",
+    "people": [
+      "정발",
+      "고니시 유키나가"
+    ],
+    "relatedPlaces": [
+      "부산진성",
+      "동래성"
+    ],
+    "keyPoints": [
+      "일본군이 부산을 교두보로 삼음",
+      "조선 방어 체계의 취약점이 드러남",
+      "전쟁이 전국으로 급속히 확대됨"
+    ],
+    "wikiQuery": "부산진 전투",
+    "wikiQueryEn": "부산진 전투"
+  },
+  {
+    "id": "hansan-1592",
+    "title": "한산도 대첩",
+    "year": 1592,
+    "place": "통영 한산도",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 34.835,
+    "lon": 128.42,
+    "category": "war",
+    "summary": "이순신이 지휘한 조선 수군이 한산도 앞바다에서 일본 수군을 크게 격파했다.",
+    "significance": "일본군의 해상 보급망에 타격을 주어 전쟁의 전략적 균형에 영향을 주었다.",
+    "people": [
+      "이순신",
+      "이억기",
+      "와키자카 야스하루"
+    ],
+    "relatedPlaces": [
+      "한산도",
+      "통영",
+      "여수"
+    ],
+    "keyPoints": [
+      "학익진 전술로 알려진 해전",
+      "조선 수군의 제해권 확보에 기여",
+      "육상군 보급 계획에 큰 제약을 줌"
+    ],
+    "wikiQuery": "한산도 대첩",
+    "wikiQueryEn": "한산도 대첩"
+  },
+  {
+    "id": "jinju-1592",
+    "title": "진주대첩",
+    "year": 1592,
+    "place": "진주",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 35.18,
+    "lon": 128.108,
+    "category": "war",
+    "summary": "김시민이 지휘한 조선군이 진주성을 방어하며 일본군의 공세를 막았다.",
+    "significance": "호남으로 진출하려는 일본군의 계획을 저지한 대표적 방어전으로 기억된다.",
+    "people": [
+      "김시민"
+    ],
+    "relatedPlaces": [
+      "진주성",
+      "남강"
+    ],
+    "keyPoints": [
+      "성곽 방어전의 대표 사례",
+      "민관이 함께 방어에 참여",
+      "임진왜란 3대 대첩 중 하나로 전해짐"
+    ],
+    "wikiQuery": "진주대첩",
+    "wikiQueryEn": "진주대첩"
+  },
+  {
+    "id": "seoul-1897",
+    "title": "대한제국 선포",
+    "year": 1897,
+    "place": "서울",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.57,
+    "lon": 126.976,
+    "category": "politics",
+    "summary": "고종이 국호를 대한제국으로 바꾸고 황제에 즉위했다.",
+    "significance": "국제 질서 속에서 자주독립국임을 강조하려는 근대 국가 전략의 표현이었다.",
+    "people": [
+      "고종"
+    ],
+    "relatedPlaces": [
+      "환구단",
+      "덕수궁"
+    ],
+    "keyPoints": [
+      "황제국 체제 선언",
+      "광무개혁 추진",
+      "열강 경쟁 속 자주권 강조"
+    ],
+    "wikiQuery": "대한제국",
+    "wikiQueryEn": "대한제국"
+  },
+  {
+    "id": "seoul-1919",
+    "title": "3·1 운동",
+    "year": 1919,
+    "place": "서울",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.57,
+    "lon": 126.983,
+    "category": "politics",
+    "summary": "독립선언서 발표를 계기로 전국적인 만세운동이 확산되었다.",
+    "significance": "비폭력 대중 독립운동이 임시정부 수립과 국제적 독립운동 전개에 큰 영향을 주었다.",
+    "people": [
+      "유관순",
+      "손병희"
+    ],
+    "relatedPlaces": [
+      "탑골공원",
+      "서대문형무소"
+    ],
+    "keyPoints": [
+      "전국적 대중 참여",
+      "대한민국 임시정부 수립의 계기",
+      "독립운동 방식이 다양해짐"
+    ],
+    "wikiQuery": "3·1 운동",
+    "wikiQueryEn": "3·1 운동"
+  },
+  {
+    "id": "seoul-1988",
+    "title": "서울 올림픽",
+    "year": 1988,
+    "place": "서울",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.515,
+    "lon": 127.073,
+    "category": "culture",
+    "summary": "서울에서 제24회 하계 올림픽이 열렸다.",
+    "significance": "냉전 말기 동서 진영이 폭넓게 참가한 국제행사로 한국의 대외 인지도를 크게 높였다.",
+    "people": [
+      "손기정"
+    ],
+    "relatedPlaces": [
+      "잠실종합운동장",
+      "올림픽공원"
+    ],
+    "keyPoints": [
+      "160개국 이상 참가",
+      "도시 인프라 대규모 확충",
+      "한국의 국제적 이미지 변화"
+    ],
+    "wikiQuery": "1988 서울 올림픽",
+    "wikiQueryEn": "1988 서울 올림픽"
+  },
+  {
+    "id": "xian-629",
+    "title": "현장의 서역행 출발",
+    "year": 629,
+    "place": "장안(시안)",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.3416,
+    "lon": 108.9398,
+    "category": "exploration",
+    "summary": "승려 현장이 불교 경전을 구하기 위해 장안을 떠나 중앙아시아와 인도를 향했다.",
+    "significance": "그의 여행 기록은 7세기 아시아의 지리·종교·교류를 이해하는 중요한 자료가 되었다.",
+    "people": [
+      "현장"
+    ],
+    "relatedPlaces": [
+      "둔황",
+      "사마르칸트",
+      "날란다"
+    ],
+    "keyPoints": [
+      "당대 국제 교류망 활용",
+      "불교 경전과 지식의 이동",
+      "대당서역기로 여행 정보가 전해짐"
+    ],
+    "wikiQuery": "현장 삼장",
+    "wikiQueryEn": "현장 삼장"
+  },
+  {
+    "id": "beijing-1420",
+    "title": "자금성 완공",
+    "year": 1420,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9163,
+    "lon": 116.3972,
+    "category": "architecture",
+    "summary": "명 영락제 시기에 자금성이 완성되고 베이징이 제국 수도로 자리잡았다.",
+    "significance": "궁궐 공간 자체가 황제 중심의 정치 질서와 의례 체계를 시각적으로 보여준다.",
+    "people": [
+      "영락제"
+    ],
+    "relatedPlaces": [
+      "자금성",
+      "천단"
+    ],
+    "keyPoints": [
+      "명·청 황궁으로 사용",
+      "중축선 중심의 계획",
+      "정치와 의례 공간이 분리됨"
+    ],
+    "wikiQuery": "자금성",
+    "wikiQueryEn": "자금성"
+  },
+  {
+    "id": "nanjing-1368",
+    "title": "명 왕조 건국",
+    "year": 1368,
+    "place": "난징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 32.0603,
+    "lon": 118.7969,
+    "category": "politics",
+    "summary": "주원장이 명을 세우고 난징을 수도로 삼았다.",
+    "significance": "몽골계 원 왕조 이후 한족 왕조가 재건되며 동아시아 질서가 재편되었다.",
+    "people": [
+      "홍무제"
+    ],
+    "relatedPlaces": [
+      "명효릉",
+      "난징성벽"
+    ],
+    "keyPoints": [
+      "원 말 혼란 이후 통일",
+      "중앙집권 강화",
+      "후대 베이징 천도의 기반 마련"
+    ],
+    "wikiQuery": "명나라",
+    "wikiQueryEn": "명나라"
+  },
+  {
+    "id": "beijing-1644",
+    "title": "명 멸망과 청의 베이징 입성",
+    "year": 1644,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "politics",
+    "summary": "이자성의 반란으로 명이 붕괴한 뒤 청군이 산해관을 넘어 베이징에 들어왔다.",
+    "significance": "중국 본토에서 청 왕조 지배가 본격화되는 전환점이었다.",
+    "people": [
+      "숭정제",
+      "이자성",
+      "도르곤"
+    ],
+    "relatedPlaces": [
+      "자금성",
+      "산해관"
+    ],
+    "keyPoints": [
+      "명 왕조의 종말",
+      "청의 중국 지배 시작",
+      "17세기 동아시아 질서 변화"
+    ],
+    "wikiQuery": "명청교체",
+    "wikiQueryEn": "명청교체"
+  },
+  {
+    "id": "wuhan-1911",
+    "title": "신해혁명과 우창봉기",
+    "year": 1911,
+    "place": "우한",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 30.5928,
+    "lon": 114.3055,
+    "category": "politics",
+    "summary": "우창봉기를 시작으로 청 왕조에 반대하는 혁명이 전국으로 확산됐다.",
+    "significance": "중국의 제정 체제가 무너지고 공화정이 수립되는 계기가 되었다.",
+    "people": [
+      "쑨원",
+      "위안스카이"
+    ],
+    "relatedPlaces": [
+      "우창",
+      "난징"
+    ],
+    "keyPoints": [
+      "청 왕조 붕괴",
+      "중화민국 수립",
+      "근대 중국 정치의 출발점"
+    ],
+    "wikiQuery": "신해혁명",
+    "wikiQueryEn": "신해혁명"
+  },
+  {
+    "id": "kyoto-794",
+    "title": "헤이안쿄 천도",
+    "year": 794,
+    "place": "교토",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "politics",
+    "summary": "일본 조정이 수도를 헤이안쿄로 옮겼다.",
+    "significance": "천 년 가까이 교토가 정치·문화 중심지로 기능하는 출발점이 되었다.",
+    "people": [
+      "간무 천황"
+    ],
+    "relatedPlaces": [
+      "교토고쇼",
+      "헤이안 신궁"
+    ],
+    "keyPoints": [
+      "헤이안 시대 시작",
+      "귀족 문화 발달",
+      "후대 일본 문화의 기반 형성"
+    ],
+    "wikiQuery": "헤이안쿄",
+    "wikiQueryEn": "헤이안쿄"
+  },
+  {
+    "id": "kamakura-1192",
+    "title": "가마쿠라 막부 성립",
+    "year": 1192,
+    "place": "가마쿠라",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.3192,
+    "lon": 139.5467,
+    "category": "politics",
+    "summary": "미나모토노 요리토모가 쇼군으로 임명되어 무사 정권을 확립했다.",
+    "significance": "일본에서 무사 계층이 정치권력의 중심이 되는 장기적 전환을 상징한다.",
+    "people": [
+      "미나모토노 요리토모"
+    ],
+    "relatedPlaces": [
+      "쓰루가오카 하치만궁"
+    ],
+    "keyPoints": [
+      "무사 정권의 제도화",
+      "천황·귀족과 막부 권력의 병존",
+      "봉건적 질서 발전"
+    ],
+    "wikiQuery": "가마쿠라 막부",
+    "wikiQueryEn": "가마쿠라 막부"
+  },
+  {
+    "id": "kyoto-1467",
+    "title": "오닌의 난",
+    "year": 1467,
+    "place": "교토",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "war",
+    "summary": "쇼군 후계 문제와 유력 다이묘 갈등이 교토에서 대규모 내전으로 번졌다.",
+    "significance": "전국시대의 장기적 분열을 촉진하고 지방 세력의 독립성을 키웠다.",
+    "people": [
+      "호소카와 가쓰모토",
+      "야마나 소젠"
+    ],
+    "relatedPlaces": [
+      "교토"
+    ],
+    "keyPoints": [
+      "교토 시가지 큰 피해",
+      "막부 권위 약화",
+      "전국시대의 배경이 됨"
+    ],
+    "wikiQuery": "오닌의 난",
+    "wikiQueryEn": "오닌의 난"
+  },
+  {
+    "id": "sekigahara-1600",
+    "title": "세키가하라 전투",
+    "year": 1600,
+    "place": "세키가하라",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.3653,
+    "lon": 136.4675,
+    "category": "war",
+    "summary": "도쿠가와 이에야스의 동군이 서군을 격파했다.",
+    "significance": "도쿠가와 막부 성립과 약 260년간의 에도 시대를 여는 결정적 전투였다.",
+    "people": [
+      "도쿠가와 이에야스",
+      "이시다 미쓰나리"
+    ],
+    "relatedPlaces": [
+      "세키가하라",
+      "에도"
+    ],
+    "keyPoints": [
+      "전국시대의 권력투쟁 종결",
+      "도쿠가와 패권 확립",
+      "에도 막부 성립으로 이어짐"
+    ],
+    "wikiQuery": "세키가하라 전투",
+    "wikiQueryEn": "세키가하라 전투"
+  },
+  {
+    "id": "tokyo-1868",
+    "title": "메이지 유신과 에도 개칭",
+    "year": 1868,
+    "place": "도쿄",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "category": "politics",
+    "summary": "막부 체제가 무너지고 메이지 정부가 들어서며 에도는 도쿄로 불리게 되었다.",
+    "significance": "근대적 중앙집권 국가와 산업화 정책이 빠르게 추진되는 전환점이었다.",
+    "people": [
+      "메이지 천황"
+    ],
+    "relatedPlaces": [
+      "에도성",
+      "도쿄"
+    ],
+    "keyPoints": [
+      "막부 체제 종결",
+      "중앙집권 강화",
+      "근대화·산업화 정책 추진"
+    ],
+    "wikiQuery": "메이지 유신",
+    "wikiQueryEn": "메이지 유신"
+  },
+  {
+    "id": "delhi-1206",
+    "title": "델리 술탄국 성립",
+    "year": 1206,
+    "place": "델리",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "category": "politics",
+    "summary": "쿠트브 웃딘 아이바크가 델리를 중심으로 술탄국을 세웠다.",
+    "significance": "북인도에서 이슬람계 왕조의 장기적 통치가 시작되며 정치·문화가 새롭게 결합됐다.",
+    "people": [
+      "쿠트브 웃딘 아이바크"
+    ],
+    "relatedPlaces": [
+      "쿠트브 미나르"
+    ],
+    "keyPoints": [
+      "튀르크계 지배층 성장",
+      "페르시아 문화 영향 확대",
+      "후대 무굴 제국의 배경"
+    ],
+    "wikiQuery": "델리 술탄국",
+    "wikiQueryEn": "델리 술탄국"
+  },
+  {
+    "id": "panipat-1526",
+    "title": "제1차 파니파트 전투",
+    "year": 1526,
+    "place": "파니파트",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 29.39,
+    "lon": 76.9635,
+    "category": "war",
+    "summary": "바부르가 로디 왕조를 물리치며 북인도에 무굴 제국의 기반을 세웠다.",
+    "significance": "화포와 기동전술이 결합된 전투로 무굴 제국 성립의 출발점이었다.",
+    "people": [
+      "바부르",
+      "이브라힘 로디"
+    ],
+    "relatedPlaces": [
+      "파니파트",
+      "델리",
+      "아그라"
+    ],
+    "keyPoints": [
+      "무굴 제국 성립",
+      "화포 활용",
+      "중앙아시아와 인도의 정치 연결"
+    ],
+    "wikiQuery": "제1차 파니파트 전투",
+    "wikiQueryEn": "제1차 파니파트 전투"
+  },
+  {
+    "id": "agra-1653",
+    "title": "타지마할 완공",
+    "year": 1653,
+    "place": "아그라",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 27.1751,
+    "lon": 78.0421,
+    "category": "architecture",
+    "summary": "샤 자한이 왕비 뭄타즈 마할을 기리기 위해 건설한 영묘가 완성 단계에 이르렀다.",
+    "significance": "무굴 건축이 페르시아·인도·이슬람 미술 전통을 결합한 대표 사례다.",
+    "people": [
+      "샤 자한",
+      "뭄타즈 마할"
+    ],
+    "relatedPlaces": [
+      "타지마할",
+      "아그라 요새"
+    ],
+    "keyPoints": [
+      "대칭적 정원 설계",
+      "흰 대리석 장식",
+      "무굴 건축의 상징"
+    ],
+    "wikiQuery": "타지마할",
+    "wikiQueryEn": "타지마할"
+  },
+  {
+    "id": "delhi-1947",
+    "title": "인도 독립",
+    "year": 1947,
+    "place": "델리",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "category": "politics",
+    "summary": "영국령 인도가 독립하며 인도와 파키스탄으로 분리되었다.",
+    "significance": "식민지 지배의 종식과 동시에 대규모 인구 이동·종교 갈등이라는 비극도 동반했다.",
+    "people": [
+      "자와할랄 네루",
+      "마하트마 간디",
+      "무함마드 알리 진나"
+    ],
+    "relatedPlaces": [
+      "델리",
+      "라호르"
+    ],
+    "keyPoints": [
+      "영국 식민 통치 종식",
+      "인도·파키스탄 분할",
+      "대규모 난민 이동"
+    ],
+    "wikiQuery": "인도의 독립",
+    "wikiQueryEn": "인도의 독립"
+  },
+  {
+    "id": "sigiriya-477",
+    "title": "시기리야 왕궁 건설",
+    "year": 477,
+    "place": "시기리야",
+    "country": "스리랑카",
+    "region": "남아시아",
+    "lat": 7.957,
+    "lon": 80.7603,
+    "category": "architecture",
+    "summary": "카샤파 1세가 거대한 바위산 시기리야에 요새·왕궁 복합체를 조성했다.",
+    "significance": "도시계획·수리시설·벽화가 결합된 고대 스리랑카 건축의 대표 사례다.",
+    "people": [
+      "카샤파 1세"
+    ],
+    "relatedPlaces": [
+      "시기리야"
+    ],
+    "keyPoints": [
+      "바위산 요새",
+      "정교한 수경 정원",
+      "벽화와 도시계획"
+    ],
+    "wikiQuery": "시기리야",
+    "wikiQueryEn": "시기리야"
+  },
+  {
+    "id": "angkor-802",
+    "title": "크메르 제국 성립",
+    "year": 802,
+    "place": "앙코르 지역",
+    "country": "캄보디아",
+    "region": "동남아시아",
+    "lat": 13.4125,
+    "lon": 103.867,
+    "category": "politics",
+    "summary": "자야바르만 2세가 크메르 왕권을 통합하며 제국의 기반을 마련했다.",
+    "significance": "이후 앙코르를 중심으로 동남아시아 최대 규모의 도시·수리 문명이 성장했다.",
+    "people": [
+      "자야바르만 2세"
+    ],
+    "relatedPlaces": [
+      "앙코르",
+      "프놈쿨렌"
+    ],
+    "keyPoints": [
+      "왕권 통합",
+      "대규모 관개 체계 발전",
+      "앙코르 문명의 출발"
+    ],
+    "wikiQuery": "크메르 제국",
+    "wikiQueryEn": "크메르 제국"
+  },
+  {
+    "id": "angkor-1150",
+    "title": "앙코르와트 건설",
+    "year": 1150,
+    "place": "앙코르",
+    "country": "캄보디아",
+    "region": "동남아시아",
+    "lat": 13.4125,
+    "lon": 103.867,
+    "category": "architecture",
+    "summary": "수리야바르만 2세 시기 거대한 사원 앙코르와트가 건설되었다.",
+    "significance": "힌두교 우주관과 크메르 제국의 정치적 권위를 건축으로 표현한 대표 유산이다.",
+    "people": [
+      "수리야바르만 2세"
+    ],
+    "relatedPlaces": [
+      "앙코르와트",
+      "앙코르톰"
+    ],
+    "keyPoints": [
+      "비슈누 신앙과 연결",
+      "거대한 부조와 회랑",
+      "크메르 건축 기술의 정점"
+    ],
+    "wikiQuery": "앙코르와트",
+    "wikiQueryEn": "앙코르와트"
+  },
+  {
+    "id": "malacca-1511",
+    "title": "말라카 점령",
+    "year": 1511,
+    "place": "말라카",
+    "country": "말레이시아",
+    "region": "동남아시아",
+    "lat": 2.1896,
+    "lon": 102.2501,
+    "category": "war",
+    "summary": "포르투갈이 말라카 술탄국의 핵심 항구를 점령했다.",
+    "significance": "인도양과 동남아 해상교역망에 유럽 세력이 직접 개입하는 중요한 전환이었다.",
+    "people": [
+      "아폰수 드 알부케르크"
+    ],
+    "relatedPlaces": [
+      "말라카 해협"
+    ],
+    "keyPoints": [
+      "향신료 무역로 통제 경쟁",
+      "유럽 세력의 동남아 진출",
+      "말라카 해협의 전략성 부각"
+    ],
+    "wikiQuery": "말라카 점령",
+    "wikiQueryEn": "말라카 점령"
+  },
+  {
+    "id": "batavia-1619",
+    "title": "바타비아 건설",
+    "year": 1619,
+    "place": "자카르타",
+    "country": "인도네시아",
+    "region": "동남아시아",
+    "lat": -6.1754,
+    "lon": 106.8272,
+    "category": "politics",
+    "summary": "네덜란드 동인도회사가 자야카르타를 점령하고 바타비아를 식민 통치 거점으로 건설했다.",
+    "significance": "네덜란드의 인도네시아 식민 지배와 아시아 무역 네트워크의 핵심 기지가 되었다.",
+    "people": [
+      "얀 피터르스존 쿤"
+    ],
+    "relatedPlaces": [
+      "자카르타 구시가"
+    ],
+    "keyPoints": [
+      "VOC의 아시아 본부",
+      "향신료 무역 통제",
+      "식민 도시의 성장"
+    ],
+    "wikiQuery": "바타비아",
+    "wikiQueryEn": "바타비아"
+  },
+  {
+    "id": "hanoi-1945",
+    "title": "베트남 독립 선언",
+    "year": 1945,
+    "place": "하노이",
+    "country": "베트남",
+    "region": "동남아시아",
+    "lat": 21.0278,
+    "lon": 105.8342,
+    "category": "politics",
+    "summary": "호찌민이 바딘 광장에서 베트남 민주공화국의 독립을 선언했다.",
+    "significance": "프랑스 식민지배와 일본 점령 이후 베트남 현대사의 새로운 정치 질서를 선언한 사건이었다.",
+    "people": [
+      "호찌민"
+    ],
+    "relatedPlaces": [
+      "바딘 광장"
+    ],
+    "keyPoints": [
+      "식민지 지배 종식 요구",
+      "제1차 인도차이나 전쟁으로 이어짐",
+      "현대 베트남 국가 형성"
+    ],
+    "wikiQuery": "베트남 독립 선언",
+    "wikiQueryEn": "베트남 독립 선언"
+  },
+  {
+    "id": "baghdad-762",
+    "title": "바그다드 건설",
+    "year": 762,
+    "place": "바그다드",
+    "country": "이라크",
+    "region": "중동",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "category": "architecture",
+    "summary": "아바스 왕조의 칼리프 알만수르가 새로운 수도 바그다드를 건설했다.",
+    "significance": "이후 바그다드는 이슬람 세계의 정치·학문·상업 중심지로 성장했다.",
+    "people": [
+      "알만수르"
+    ],
+    "relatedPlaces": [
+      "원형도시",
+      "티그리스강"
+    ],
+    "keyPoints": [
+      "아바스 왕조 수도",
+      "동서 교역의 중심",
+      "학문 번역 운동의 토대"
+    ],
+    "wikiQuery": "바그다드",
+    "wikiQueryEn": "바그다드"
+  },
+  {
+    "id": "baghdad-1258",
+    "title": "바그다드 함락",
+    "year": 1258,
+    "place": "바그다드",
+    "country": "이라크",
+    "region": "중동",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "category": "war",
+    "summary": "훌라구가 이끄는 몽골군이 바그다드를 점령해 아바스 칼리프의 정치적 지배를 끝냈다.",
+    "significance": "중세 이슬람 정치 질서와 중동의 권력 구조에 큰 충격을 준 사건이었다.",
+    "people": [
+      "훌라구",
+      "알무스타심"
+    ],
+    "relatedPlaces": [
+      "바그다드"
+    ],
+    "keyPoints": [
+      "아바스 칼리프 정치권력 종말",
+      "도시와 학문기관 큰 피해",
+      "몽골계 일한국의 영향 확대"
+    ],
+    "wikiQuery": "바그다드 전투 1258",
+    "wikiQueryEn": "바그다드 전투 1258"
+  },
+  {
+    "id": "jerusalem-1099",
+    "title": "십자군의 예루살렘 점령",
+    "year": 1099,
+    "place": "예루살렘",
+    "country": "이스라엘/팔레스타인",
+    "region": "중동",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "category": "war",
+    "summary": "제1차 십자군이 예루살렘을 점령하고 예루살렘 왕국을 세웠다.",
+    "significance": "종교·정치·교역이 얽힌 지중해 동부의 장기적 충돌을 상징한다.",
+    "people": [
+      "고드프루아 드 부용"
+    ],
+    "relatedPlaces": [
+      "성묘교회",
+      "예루살렘 성벽"
+    ],
+    "keyPoints": [
+      "제1차 십자군의 목표 달성",
+      "라틴계 국가 수립",
+      "기독교·이슬람 관계에 장기 영향"
+    ],
+    "wikiQuery": "예루살렘 공방전 1099",
+    "wikiQueryEn": "예루살렘 공방전 1099"
+  },
+  {
+    "id": "jerusalem-1187",
+    "title": "살라딘의 예루살렘 탈환",
+    "year": 1187,
+    "place": "예루살렘",
+    "country": "이스라엘/팔레스타인",
+    "region": "중동",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "category": "war",
+    "summary": "하틴 전투 승리 뒤 살라딘이 예루살렘을 다시 장악했다.",
+    "significance": "제3차 십자군을 촉발했고 중세 지중해 국제정치의 핵심 사건이 되었다.",
+    "people": [
+      "살라딘"
+    ],
+    "relatedPlaces": [
+      "하틴",
+      "예루살렘"
+    ],
+    "keyPoints": [
+      "아이유브 왕조의 세력 확대",
+      "제3차 십자군의 배경",
+      "성지 지배권 재편"
+    ],
+    "wikiQuery": "살라딘 예루살렘",
+    "wikiQueryEn": "살라딘 예루살렘"
+  },
+  {
+    "id": "constantinople-1453",
+    "title": "콘스탄티노폴리스 함락",
+    "year": 1453,
+    "place": "이스탄불",
+    "country": "튀르키예",
+    "region": "중동/유럽",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "category": "war",
+    "summary": "메흐메드 2세가 이끄는 오스만군이 콘스탄티노폴리스를 점령했다.",
+    "significance": "비잔티움 제국이 막을 내리고 오스만 제국이 동지중해의 강대국으로 도약했다.",
+    "people": [
+      "메흐메드 2세",
+      "콘스탄티노스 11세"
+    ],
+    "relatedPlaces": [
+      "하기아 소피아",
+      "테오도시우스 성벽"
+    ],
+    "keyPoints": [
+      "비잔티움 제국 종말",
+      "오스만 수도로 발전",
+      "대포를 활용한 공성전의 상징"
+    ],
+    "wikiQuery": "콘스탄티노폴리스의 함락",
+    "wikiQueryEn": "콘스탄티노폴리스의 함락"
+  },
+  {
+    "id": "istanbul-1923",
+    "title": "터키 공화국 수립",
+    "year": 1923,
+    "place": "앙카라/이스탄불",
+    "country": "튀르키예",
+    "region": "중동/유럽",
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "category": "politics",
+    "summary": "터키 독립전쟁 이후 무스타파 케말이 이끄는 터키 공화국이 수립됐다.",
+    "significance": "오스만 제국에서 세속적 국민국가로 전환하는 제도적 출발점이었다.",
+    "people": [
+      "무스타파 케말 아타튀르크"
+    ],
+    "relatedPlaces": [
+      "앙카라",
+      "이스탄불"
+    ],
+    "keyPoints": [
+      "술탄제 폐지",
+      "공화정 수립",
+      "세속화·근대화 개혁 추진"
+    ],
+    "wikiQuery": "터키 공화국",
+    "wikiQueryEn": "터키 공화국"
+  },
+  {
+    "id": "samarkand-1370",
+    "title": "티무르의 사마르칸트 수도화",
+    "year": 1370,
+    "place": "사마르칸트",
+    "country": "우즈베키스탄",
+    "region": "중앙아시아",
+    "lat": 39.6542,
+    "lon": 66.9597,
+    "category": "politics",
+    "summary": "티무르가 사마르칸트를 제국의 중심으로 삼아 대규모 건축과 인재 집결을 추진했다.",
+    "significance": "실크로드 도시가 정치 권력과 페르시아계 문화가 결합된 제국 수도로 변모했다.",
+    "people": [
+      "티무르"
+    ],
+    "relatedPlaces": [
+      "레기스탄",
+      "비비하눔 모스크"
+    ],
+    "keyPoints": [
+      "중앙아시아 제국의 수도",
+      "장인·학자 이동 촉진",
+      "티무르 건축양식 발전"
+    ],
+    "wikiQuery": "티무르 사마르칸트",
+    "wikiQueryEn": "티무르 사마르칸트"
+  },
+  {
+    "id": "bukhara-892",
+    "title": "사만 왕조의 부하라",
+    "year": 892,
+    "place": "부하라",
+    "country": "우즈베키스탄",
+    "region": "중앙아시아",
+    "lat": 39.7681,
+    "lon": 64.4556,
+    "category": "culture",
+    "summary": "사만 왕조 시기 부하라는 페르시아어 문화와 이슬람 학문의 주요 중심지로 성장했다.",
+    "significance": "중앙아시아에서 페르시아 문학·학문 전통이 크게 번성한 시기를 보여준다.",
+    "people": [
+      "이스마일 사마니"
+    ],
+    "relatedPlaces": [
+      "부하라",
+      "사마니 영묘"
+    ],
+    "keyPoints": [
+      "페르시아 문화 부흥",
+      "이슬람 학문 발전",
+      "실크로드 교역 중심"
+    ],
+    "wikiQuery": "사만 왕조",
+    "wikiQueryEn": "사만 왕조"
+  },
+  {
+    "id": "aachen-800",
+    "title": "샤를마뉴 황제 대관",
+    "year": 800,
+    "place": "아헨",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 50.7753,
+    "lon": 6.0839,
+    "category": "politics",
+    "summary": "프랑크 왕 샤를마뉴가 로마에서 황제관을 받은 뒤 아헨을 주요 정치 중심으로 삼았다.",
+    "significance": "서유럽에서 황제권과 기독교 세계 질서가 결합되는 상징적 사건이었다.",
+    "people": [
+      "샤를마뉴"
+    ],
+    "relatedPlaces": [
+      "아헨 대성당",
+      "로마"
+    ],
+    "keyPoints": [
+      "카롤루스 제국의 권위 강화",
+      "서유럽 황제 전통 부활",
+      "교육·행정 개혁 촉진"
+    ],
+    "wikiQuery": "샤를마뉴",
+    "wikiQueryEn": "샤를마뉴"
+  },
+  {
+    "id": "london-1066",
+    "title": "노르만 정복",
+    "year": 1066,
+    "place": "런던",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 51.5072,
+    "lon": -0.1276,
+    "category": "war",
+    "summary": "헤이스팅스 전투 승리 후 윌리엄 1세가 잉글랜드 왕이 되었다.",
+    "significance": "영국 귀족·토지 제도·언어와 행정에 장기적 변화를 가져왔다.",
+    "people": [
+      "윌리엄 1세",
+      "해럴드 2세"
+    ],
+    "relatedPlaces": [
+      "헤이스팅스",
+      "웨스트민스터"
+    ],
+    "keyPoints": [
+      "노르만 귀족층 형성",
+      "영어 어휘에 프랑스어 영향",
+      "봉건 토지제도 강화"
+    ],
+    "wikiQuery": "노르만인의 잉글랜드 정복",
+    "wikiQueryEn": "노르만인의 잉글랜드 정복"
+  },
+  {
+    "id": "london-1215",
+    "title": "마그나 카르타",
+    "year": 1215,
+    "place": "러니미드/런던",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 51.4445,
+    "lon": -0.5656,
+    "category": "politics",
+    "summary": "존 왕이 귀족들의 압력으로 마그나 카르타에 동의했다.",
+    "significance": "왕권도 법 아래에 있다는 원칙의 역사적 상징으로 이후 입헌주의 담론에 영향을 주었다.",
+    "people": [
+      "존 왕"
+    ],
+    "relatedPlaces": [
+      "러니미드",
+      "런던"
+    ],
+    "keyPoints": [
+      "왕의 과세 권한 제한",
+      "법적 절차 강조",
+      "후대 의회주의 전통에 영향"
+    ],
+    "wikiQuery": "마그나 카르타",
+    "wikiQueryEn": "마그나 카르타"
+  },
+  {
+    "id": "florence-1401",
+    "title": "르네상스 조각 경쟁",
+    "year": 1401,
+    "place": "피렌체",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "category": "culture",
+    "summary": "피렌체 세례당 청동문 설계 경쟁에 기베르티와 브루넬레스키 등이 참여했다.",
+    "significance": "고전 양식과 사실적 표현을 추구한 이탈리아 르네상스 미술의 상징적 출발점 중 하나다.",
+    "people": [
+      "로렌초 기베르티",
+      "필리포 브루넬레스키"
+    ],
+    "relatedPlaces": [
+      "피렌체 세례당",
+      "두오모"
+    ],
+    "keyPoints": [
+      "고전 고대에 대한 관심",
+      "원근법·해부학 연구 확대",
+      "도시 후원 문화의 성장"
+    ],
+    "wikiQuery": "피렌체 르네상스",
+    "wikiQueryEn": "피렌체 르네상스"
+  },
+  {
+    "id": "mainz-1455",
+    "title": "구텐베르크 성서 인쇄",
+    "year": 1455,
+    "place": "마인츠",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 49.9929,
+    "lon": 8.2473,
+    "category": "technology",
+    "summary": "구텐베르크의 금속활자 인쇄술로 대규모 성서 인쇄가 이루어졌다.",
+    "significance": "책의 복제 비용과 시간을 낮추어 지식 확산과 종교·과학 논쟁의 속도를 바꾸었다.",
+    "people": [
+      "요하네스 구텐베르크"
+    ],
+    "relatedPlaces": [
+      "마인츠"
+    ],
+    "keyPoints": [
+      "금속활자와 인쇄기 결합",
+      "책 가격 하락",
+      "문해와 지식 유통 확대"
+    ],
+    "wikiQuery": "구텐베르크 성서",
+    "wikiQueryEn": "구텐베르크 성서"
+  },
+  {
+    "id": "granada-1492",
+    "title": "그라나다 함락",
+    "year": 1492,
+    "place": "그라나다",
+    "country": "스페인",
+    "region": "유럽",
+    "lat": 37.1773,
+    "lon": -3.5986,
+    "category": "war",
+    "summary": "카스티야와 아라곤 연합군이 그라나다를 점령하며 이베리아의 이슬람 왕국이 사라졌다.",
+    "significance": "레콩키스타의 종결과 스페인 왕권 강화의 상징이 되었다.",
+    "people": [
+      "이사벨 1세",
+      "페르난도 2세",
+      "보아브딜"
+    ],
+    "relatedPlaces": [
+      "알함브라"
+    ],
+    "keyPoints": [
+      "나스르 왕조 종말",
+      "스페인 왕권 통합 강화",
+      "종교 정책의 강경화"
+    ],
+    "wikiQuery": "그라나다 전쟁",
+    "wikiQueryEn": "그라나다 전쟁"
+  },
+  {
+    "id": "lisbon-1497",
+    "title": "바스쿠 다 가마 출항",
+    "year": 1497,
+    "place": "리스본",
+    "country": "포르투갈",
+    "region": "유럽",
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "category": "exploration",
+    "summary": "바스쿠 다 가마가 인도로 가는 해로를 찾기 위해 리스본을 출항했다.",
+    "significance": "유럽과 인도양 사이의 직접 해상교역망이 열리며 세계 무역 구조가 크게 변했다.",
+    "people": [
+      "바스쿠 다 가마"
+    ],
+    "relatedPlaces": [
+      "리스본",
+      "희망봉",
+      "캘리컷"
+    ],
+    "keyPoints": [
+      "대서양-인도양 해로 연결",
+      "향신료 무역 경쟁 심화",
+      "포르투갈 해상제국 확대"
+    ],
+    "wikiQuery": "바스쿠 다 가마",
+    "wikiQueryEn": "바스쿠 다 가마"
+  },
+  {
+    "id": "wit-1517",
+    "title": "루터의 95개조",
+    "year": 1517,
+    "place": "비텐베르크",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 51.866,
+    "lon": 12.646,
+    "category": "religion",
+    "summary": "마르틴 루터가 면벌부와 교회 관행을 비판하는 95개조 논제를 제시했다.",
+    "significance": "종교개혁이 확산되며 서유럽 종교·정치 질서가 장기적으로 재편되었다.",
+    "people": [
+      "마르틴 루터"
+    ],
+    "relatedPlaces": [
+      "비텐베르크 성교회"
+    ],
+    "keyPoints": [
+      "면벌부 비판",
+      "성서와 신앙 강조",
+      "가톨릭·개신교 분화 촉진"
+    ],
+    "wikiQuery": "95개조 반박문",
+    "wikiQueryEn": "95개조 반박문"
+  },
+  {
+    "id": "rome-1633",
+    "title": "갈릴레오 재판",
+    "year": 1633,
+    "place": "로마",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "science",
+    "summary": "갈릴레오가 지동설 옹호와 관련해 로마 종교재판에 출석했다.",
+    "significance": "근대 과학 지식과 종교·제도 권위의 관계를 논할 때 자주 언급되는 사건이다.",
+    "people": [
+      "갈릴레오 갈릴레이"
+    ],
+    "relatedPlaces": [
+      "로마"
+    ],
+    "keyPoints": [
+      "망원경 관측의 영향",
+      "코페르니쿠스 체계 논쟁",
+      "과학적 권위의 변화"
+    ],
+    "wikiQuery": "갈릴레오 갈릴레이 재판",
+    "wikiQueryEn": "갈릴레오 갈릴레이 재판"
+  },
+  {
+    "id": "london-1666",
+    "title": "런던 대화재",
+    "year": 1666,
+    "place": "런던",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 51.5072,
+    "lon": -0.1276,
+    "category": "disaster",
+    "summary": "런던 도심에서 대화재가 발생해 수많은 건물이 소실됐다.",
+    "significance": "재건 과정에서 도시 건축 규제와 위생·소방 체계가 변화했다.",
+    "people": [
+      "크리스토퍼 렌"
+    ],
+    "relatedPlaces": [
+      "세인트폴 대성당",
+      "푸딩 레인"
+    ],
+    "keyPoints": [
+      "목조건물 밀집이 피해 확대",
+      "도시 재건 계획 시행",
+      "세인트폴 대성당 재건"
+    ],
+    "wikiQuery": "런던 대화재",
+    "wikiQueryEn": "런던 대화재"
+  },
+  {
+    "id": "paris-1789",
+    "title": "프랑스 혁명 발발",
+    "year": 1789,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "politics",
+    "summary": "바스티유 습격과 국민의회 활동을 거치며 프랑스의 정치 질서가 급격히 변했다.",
+    "significance": "시민권·국민주권·법 앞의 평등이 근대 정치의 핵심 언어로 확산되는 계기가 되었다.",
+    "people": [
+      "루이 16세",
+      "라파예트"
+    ],
+    "relatedPlaces": [
+      "바스티유",
+      "베르사유"
+    ],
+    "keyPoints": [
+      "절대왕정 위기",
+      "인권선언 채택",
+      "유럽 전역에 정치적 영향"
+    ],
+    "wikiQuery": "프랑스 혁명",
+    "wikiQueryEn": "프랑스 혁명"
+  },
+  {
+    "id": "waterloo-1815",
+    "title": "워털루 전투",
+    "year": 1815,
+    "place": "워털루",
+    "country": "벨기에",
+    "region": "유럽",
+    "lat": 50.6806,
+    "lon": 4.412,
+    "category": "war",
+    "summary": "나폴레옹이 영국·프로이센 연합군에 패배했다.",
+    "significance": "나폴레옹 전쟁이 사실상 끝나고 빈 체제의 유럽 질서가 강화됐다.",
+    "people": [
+      "나폴레옹",
+      "웰링턴",
+      "블뤼허"
+    ],
+    "relatedPlaces": [
+      "워털루",
+      "브뤼셀"
+    ],
+    "keyPoints": [
+      "나폴레옹 최종 패배",
+      "유럽 세력균형 재정비",
+      "빈 체제 안정화"
+    ],
+    "wikiQuery": "워털루 전투",
+    "wikiQueryEn": "워털루 전투"
+  },
+  {
+    "id": "manchester-1760",
+    "title": "산업혁명기의 맨체스터",
+    "year": 1760,
+    "place": "맨체스터",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 53.4808,
+    "lon": -2.2426,
+    "category": "technology",
+    "summary": "18세기 후반 면직물 공업과 기계화가 맨체스터 일대에서 빠르게 성장했다.",
+    "significance": "공장제 생산·도시화·노동문제라는 근대 산업사회의 특징이 집중적으로 나타났다.",
+    "people": [
+      "제임스 와트",
+      "리처드 아크라이트"
+    ],
+    "relatedPlaces": [
+      "맨체스터",
+      "리버풀"
+    ],
+    "keyPoints": [
+      "증기기관과 기계화",
+      "공장 노동 확대",
+      "급격한 도시화"
+    ],
+    "wikiQuery": "산업혁명",
+    "wikiQueryEn": "산업혁명"
+  },
+  {
+    "id": "vienna-1815",
+    "title": "빈 회의",
+    "year": 1815,
+    "place": "빈",
+    "country": "오스트리아",
+    "region": "유럽",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "category": "politics",
+    "summary": "나폴레옹 전쟁 이후 유럽 열강이 국경과 국제질서를 재조정했다.",
+    "significance": "세력균형과 보수주의를 바탕으로 19세기 유럽 국제정치의 틀이 마련됐다.",
+    "people": [
+      "메테르니히",
+      "탈레랑"
+    ],
+    "relatedPlaces": [
+      "빈"
+    ],
+    "keyPoints": [
+      "세력균형 원칙",
+      "왕정 복고",
+      "유럽 협조체제 형성"
+    ],
+    "wikiQuery": "빈 회의",
+    "wikiQueryEn": "빈 회의"
+  },
+  {
+    "id": "sarajevo-1914",
+    "title": "사라예보 암살 사건",
+    "year": 1914,
+    "place": "사라예보",
+    "country": "보스니아 헤르체고비나",
+    "region": "유럽",
+    "lat": 43.8563,
+    "lon": 18.4131,
+    "category": "war",
+    "summary": "오스트리아 황태자 프란츠 페르디난트가 사라예보에서 암살됐다.",
+    "significance": "동맹 체제와 민족주의 갈등이 연쇄적으로 폭발해 제1차 세계대전으로 이어졌다.",
+    "people": [
+      "프란츠 페르디난트",
+      "가브릴로 프린치프"
+    ],
+    "relatedPlaces": [
+      "라틴교"
+    ],
+    "keyPoints": [
+      "발칸 민족주의",
+      "오스트리아-세르비아 갈등",
+      "동맹국의 연쇄 참전"
+    ],
+    "wikiQuery": "사라예보 사건",
+    "wikiQueryEn": "사라예보 사건"
+  },
+  {
+    "id": "petrograd-1917",
+    "title": "러시아 혁명",
+    "year": 1917,
+    "place": "상트페테르부르크",
+    "country": "러시아",
+    "region": "유럽",
+    "lat": 59.9311,
+    "lon": 30.3609,
+    "category": "politics",
+    "summary": "1917년 두 차례 혁명으로 제정 러시아가 무너지고 볼셰비키가 권력을 장악했다.",
+    "significance": "세계 최초의 사회주의 국가 형성으로 20세기 국제정치와 이념 경쟁에 거대한 영향을 주었다.",
+    "people": [
+      "레닌",
+      "니콜라이 2세"
+    ],
+    "relatedPlaces": [
+      "겨울궁전"
+    ],
+    "keyPoints": [
+      "제정 러시아 붕괴",
+      "볼셰비키 집권",
+      "소련 수립으로 이어짐"
+    ],
+    "wikiQuery": "러시아 혁명",
+    "wikiQueryEn": "러시아 혁명"
+  },
+  {
+    "id": "berlin-1945",
+    "title": "베를린 전투",
+    "year": 1945,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "war",
+    "summary": "소련군이 베를린을 점령하면서 나치 독일이 붕괴했다.",
+    "significance": "유럽에서 제2차 세계대전이 끝나는 결정적 단계였고 이후 독일 분단으로 이어졌다.",
+    "people": [
+      "게오르기 주코프",
+      "아돌프 히틀러"
+    ],
+    "relatedPlaces": [
+      "국회의사당",
+      "브란덴부르크문"
+    ],
+    "keyPoints": [
+      "나치 독일 붕괴",
+      "유럽 전쟁 종결",
+      "연합국 점령과 독일 분단"
+    ],
+    "wikiQuery": "베를린 전투",
+    "wikiQueryEn": "베를린 전투"
+  },
+  {
+    "id": "normandy-1944",
+    "title": "노르망디 상륙작전",
+    "year": 1944,
+    "place": "노르망디",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 49.4144,
+    "lon": -0.8322,
+    "category": "war",
+    "summary": "연합군이 프랑스 노르망디 해안에 대규모 상륙작전을 실시했다.",
+    "significance": "서유럽 해방과 나치 독일의 양면전 압박을 본격화했다.",
+    "people": [
+      "드와이트 아이젠하워",
+      "버나드 몽고메리"
+    ],
+    "relatedPlaces": [
+      "오마하 해변",
+      "유타 해변"
+    ],
+    "keyPoints": [
+      "대규모 합동상륙작전",
+      "프랑스 해방의 시작",
+      "독일 서부전선 붕괴 촉진"
+    ],
+    "wikiQuery": "노르망디 상륙작전",
+    "wikiQueryEn": "노르망디 상륙작전"
+  },
+  {
+    "id": "berlin-1989",
+    "title": "베를린 장벽 붕괴",
+    "year": 1989,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.5163,
+    "lon": 13.3777,
+    "category": "politics",
+    "summary": "동독의 여행 규제 완화 발표 뒤 시민들이 장벽 검문소로 몰려들며 장벽이 사실상 개방됐다.",
+    "significance": "냉전 종식과 독일 통일의 상징적 순간이 되었다.",
+    "people": [
+      "미하일 고르바초프",
+      "헬무트 콜"
+    ],
+    "relatedPlaces": [
+      "브란덴부르크문",
+      "체크포인트 찰리"
+    ],
+    "keyPoints": [
+      "동유럽 민주화 물결",
+      "독일 통일 촉진",
+      "냉전 상징의 붕괴"
+    ],
+    "wikiQuery": "베를린 장벽 붕괴",
+    "wikiQueryEn": "베를린 장벽 붕괴"
+  },
+  {
+    "id": "timbuktu-1325",
+    "title": "팀북투의 황금기",
+    "year": 1325,
+    "place": "팀북투",
+    "country": "말리",
+    "region": "아프리카",
+    "lat": 16.7666,
+    "lon": -3.0026,
+    "category": "culture",
+    "summary": "말리 제국과 교역망의 성장 속에서 팀북투가 학문·상업 중심지로 발전했다.",
+    "significance": "사하라 횡단무역이 금·소금뿐 아니라 책과 지식도 이동시켰음을 보여준다.",
+    "people": [
+      "만사 무사"
+    ],
+    "relatedPlaces": [
+      "상코레 모스크",
+      "젠네"
+    ],
+    "keyPoints": [
+      "사하라 횡단무역",
+      "이슬람 학문 중심",
+      "필사본 문화 발전"
+    ],
+    "wikiQuery": "팀북투",
+    "wikiQueryEn": "팀북투"
+  },
+  {
+    "id": "cairo-969",
+    "title": "카이로 건설",
+    "year": 969,
+    "place": "카이로",
+    "country": "이집트",
+    "region": "아프리카",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "category": "architecture",
+    "summary": "파티마 왕조가 푸스타트 북쪽에 새 수도 알카히라를 건설했다.",
+    "significance": "카이로가 이후 이슬람 세계의 핵심 정치·교육·상업 도시로 성장하는 출발점이었다.",
+    "people": [
+      "알무이즈"
+    ],
+    "relatedPlaces": [
+      "알아즈하르 모스크",
+      "푸스타트"
+    ],
+    "keyPoints": [
+      "파티마 왕조 수도",
+      "알아즈하르 설립",
+      "나일 교역의 중심"
+    ],
+    "wikiQuery": "카이로 역사",
+    "wikiQueryEn": "카이로 역사"
+  },
+  {
+    "id": "cairo-1798",
+    "title": "나폴레옹의 이집트 원정",
+    "year": 1798,
+    "place": "카이로",
+    "country": "이집트",
+    "region": "아프리카",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "category": "war",
+    "summary": "프랑스군이 이집트를 침공하며 카이로를 점령했다.",
+    "significance": "군사 원정과 함께 학술조사가 진행되어 유럽의 이집트학 발전에도 영향을 주었다.",
+    "people": [
+      "나폴레옹"
+    ],
+    "relatedPlaces": [
+      "피라미드",
+      "카이로"
+    ],
+    "keyPoints": [
+      "영국-프랑스 경쟁",
+      "로제타석 발견으로 이어짐",
+      "근대 이집트 정치 변화의 배경"
+    ],
+    "wikiQuery": "이집트-시리아 원정",
+    "wikiQueryEn": "이집트-시리아 원정"
+  },
+  {
+    "id": "cape-1652",
+    "title": "케이프 식민 거점 건설",
+    "year": 1652,
+    "place": "케이프타운",
+    "country": "남아프리카공화국",
+    "region": "아프리카",
+    "lat": -33.9249,
+    "lon": 18.4241,
+    "category": "politics",
+    "summary": "네덜란드 동인도회사가 희망봉 항로의 보급기지를 건설했다.",
+    "significance": "남아프리카 식민 정착과 토지 갈등의 장기적 출발점이 되었다.",
+    "people": [
+      "얀 판 리베이크"
+    ],
+    "relatedPlaces": [
+      "희망봉",
+      "테이블베이"
+    ],
+    "keyPoints": [
+      "유럽 정착 확대",
+      "해상 무역 보급기지",
+      "코이코이 공동체와 갈등"
+    ],
+    "wikiQuery": "케이프 식민지",
+    "wikiQueryEn": "케이프 식민지"
+  },
+  {
+    "id": "adwa-1896",
+    "title": "아드와 전투",
+    "year": 1896,
+    "place": "아드와",
+    "country": "에티오피아",
+    "region": "아프리카",
+    "lat": 14.164,
+    "lon": 38.895,
+    "category": "war",
+    "summary": "에티오피아군이 이탈리아군을 격파했다.",
+    "significance": "아프리카 국가가 유럽 식민 세력을 물리친 상징적 승리로 반식민주의에 큰 의미를 가졌다.",
+    "people": [
+      "메넬리크 2세",
+      "타이투 베툴"
+    ],
+    "relatedPlaces": [
+      "아드와"
+    ],
+    "keyPoints": [
+      "에티오피아 독립 유지",
+      "식민주의에 상징적 타격",
+      "범아프리카주의에 영감"
+    ],
+    "wikiQuery": "아드와 전투",
+    "wikiQueryEn": "아드와 전투"
+  },
+  {
+    "id": "accra-1957",
+    "title": "가나 독립",
+    "year": 1957,
+    "place": "아크라",
+    "country": "가나",
+    "region": "아프리카",
+    "lat": 5.6037,
+    "lon": -0.187,
+    "category": "politics",
+    "summary": "가나가 영국 식민통치에서 독립했다.",
+    "significance": "사하라 이남 아프리카 탈식민화 운동을 가속한 대표적 사건이었다.",
+    "people": [
+      "콰메 은크루마"
+    ],
+    "relatedPlaces": [
+      "아크라"
+    ],
+    "keyPoints": [
+      "서아프리카 탈식민화",
+      "범아프리카주의 확산",
+      "독립국가 건설의 모델"
+    ],
+    "wikiQuery": "가나 독립",
+    "wikiQueryEn": "가나 독립"
+  },
+  {
+    "id": "johannesburg-1994",
+    "title": "남아공 첫 다인종 총선",
+    "year": 1994,
+    "place": "요하네스버그/프리토리아",
+    "country": "남아프리카공화국",
+    "region": "아프리카",
+    "lat": -25.7479,
+    "lon": 28.2293,
+    "category": "politics",
+    "summary": "모든 인종이 참여한 총선에서 ANC가 승리하고 넬슨 만델라가 대통령이 되었다.",
+    "significance": "아파르트헤이트 체제가 공식적으로 종결되고 민주적 다인종 국가가 출범했다.",
+    "people": [
+      "넬슨 만델라",
+      "F. W. 데클레르크"
+    ],
+    "relatedPlaces": [
+      "프리토리아",
+      "소웨토"
+    ],
+    "keyPoints": [
+      "아파르트헤이트 종식",
+      "보통선거 실시",
+      "진실화해위원회로 이어짐"
+    ],
+    "wikiQuery": "1994 남아프리카 공화국 총선",
+    "wikiQueryEn": "1994 남아프리카 공화국 총선"
+  },
+  {
+    "id": "tenochtitlan-1325",
+    "title": "테노치티틀란 건설",
+    "year": 1325,
+    "place": "멕시코시티",
+    "country": "멕시코",
+    "region": "북아메리카",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "category": "architecture",
+    "summary": "멕시카인이 텍스코코 호수의 섬에 테노치티틀란을 건설했다고 전해진다.",
+    "significance": "거대한 수상도시와 농업·수로 시스템은 아즈텍 제국의 도시문명을 보여준다.",
+    "people": [
+      "멕시카"
+    ],
+    "relatedPlaces": [
+      "템플로 마요르",
+      "텍스코코 호수"
+    ],
+    "keyPoints": [
+      "치남파 농업",
+      "제방·수로 시스템",
+      "아즈텍 제국 수도로 성장"
+    ],
+    "wikiQuery": "테노치티틀란",
+    "wikiQueryEn": "테노치티틀란"
+  },
+  {
+    "id": "tenochtitlan-1521",
+    "title": "테노치티틀란 함락",
+    "year": 1521,
+    "place": "멕시코시티",
+    "country": "멕시코",
+    "region": "북아메리카",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "category": "war",
+    "summary": "에르난 코르테스와 동맹 원주민 세력이 테노치티틀란을 점령했다.",
+    "significance": "아즈텍 제국이 붕괴하고 스페인 식민 통치가 본격화되는 전환점이었다.",
+    "people": [
+      "에르난 코르테스",
+      "쿠아우테목"
+    ],
+    "relatedPlaces": [
+      "템플로 마요르"
+    ],
+    "keyPoints": [
+      "원주민 동맹의 중요성",
+      "전염병이 전쟁에 영향",
+      "누에바에스파냐 체제 형성"
+    ],
+    "wikiQuery": "테노치티틀란 함락",
+    "wikiQueryEn": "테노치티틀란 함락"
+  },
+  {
+    "id": "cusco-1533",
+    "title": "쿠스코 점령",
+    "year": 1533,
+    "place": "쿠스코",
+    "country": "페루",
+    "region": "남아메리카",
+    "lat": -13.5319,
+    "lon": -71.9675,
+    "category": "war",
+    "summary": "스페인 정복자들이 잉카 제국의 수도 쿠스코를 점령했다.",
+    "significance": "잉카 정치 질서 붕괴와 스페인 식민 체제 형성의 핵심 단계였다.",
+    "people": [
+      "프란시스코 피사로",
+      "아타우알파"
+    ],
+    "relatedPlaces": [
+      "쿠스코",
+      "사크사이우아만"
+    ],
+    "keyPoints": [
+      "잉카 내전의 여파",
+      "스페인 정복 확대",
+      "식민 도시 재편"
+    ],
+    "wikiQuery": "스페인의 페루 정복",
+    "wikiQueryEn": "스페인의 페루 정복"
+  },
+  {
+    "id": "havana-1519",
+    "title": "아바나 건설과 항구 성장",
+    "year": 1519,
+    "place": "아바나",
+    "country": "쿠바",
+    "region": "카리브",
+    "lat": 23.1136,
+    "lon": -82.3666,
+    "category": "architecture",
+    "summary": "스페인이 아바나 정착지를 현재 위치에 확립했다.",
+    "significance": "대서양 식민무역과 스페인 보물선단 체계의 핵심 항구로 성장했다.",
+    "people": [
+      "디에고 벨라스케스 데 쿠에야르"
+    ],
+    "relatedPlaces": [
+      "아바나 항구"
+    ],
+    "keyPoints": [
+      "대서양 교역 거점",
+      "보물선단 중계항",
+      "카리브 식민 네트워크"
+    ],
+    "wikiQuery": "아바나 역사",
+    "wikiQueryEn": "아바나 역사"
+  },
+  {
+    "id": "jamestown-1607",
+    "title": "제임스타운 건설",
+    "year": 1607,
+    "place": "제임스타운",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 37.208,
+    "lon": -76.775,
+    "category": "politics",
+    "summary": "버지니아 회사가 북미에 지속적인 영국 식민 정착지를 세웠다.",
+    "significance": "영국의 북미 식민 확대와 원주민 사회·대서양 경제의 변화가 본격화됐다.",
+    "people": [
+      "존 스미스"
+    ],
+    "relatedPlaces": [
+      "체서피크만"
+    ],
+    "keyPoints": [
+      "영국의 지속적 식민지",
+      "담배 플랜테이션 성장",
+      "원주민과 갈등 확대"
+    ],
+    "wikiQuery": "제임스타운 버지니아",
+    "wikiQueryEn": "제임스타운 버지니아"
+  },
+  {
+    "id": "boston-1773",
+    "title": "보스턴 차 사건",
+    "year": 1773,
+    "place": "보스턴",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "category": "politics",
+    "summary": "식민지 주민들이 영국의 차 세금에 항의해 화물을 바다에 버렸다.",
+    "significance": "미국 독립혁명으로 향하는 영국과 식민지 간 갈등을 크게 격화했다.",
+    "people": [
+      "새뮤얼 애덤스"
+    ],
+    "relatedPlaces": [
+      "보스턴 항"
+    ],
+    "keyPoints": [
+      "대표 없는 과세 반대",
+      "영국의 보복법 제정",
+      "독립전쟁 전 긴장 고조"
+    ],
+    "wikiQuery": "보스턴 차 사건",
+    "wikiQueryEn": "보스턴 차 사건"
+  },
+  {
+    "id": "philadelphia-1776",
+    "title": "미국 독립선언",
+    "year": 1776,
+    "place": "필라델피아",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 39.9526,
+    "lon": -75.1652,
+    "category": "politics",
+    "summary": "13개 식민지가 독립선언을 채택해 영국으로부터의 분리를 공식화했다.",
+    "significance": "자연권과 정부 정당성에 대한 선언은 이후 여러 혁명과 헌법 논의에 영향을 주었다.",
+    "people": [
+      "토머스 제퍼슨",
+      "벤저민 프랭클린"
+    ],
+    "relatedPlaces": [
+      "인디펜던스 홀"
+    ],
+    "keyPoints": [
+      "자연권·평등 선언",
+      "공화정 건설 논리",
+      "미국 독립전쟁의 정치적 목표"
+    ],
+    "wikiQuery": "미국 독립선언",
+    "wikiQueryEn": "미국 독립선언"
+  },
+  {
+    "id": "washington-1863",
+    "title": "노예해방선언",
+    "year": 1863,
+    "place": "워싱턴 D.C.",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "category": "politics",
+    "summary": "링컨 대통령의 노예해방선언이 남부 반란 지역의 노예 해방을 전쟁 목표와 연결했다.",
+    "significance": "남북전쟁의 성격을 연방 보존에서 노예제 폐지 문제까지 확대했다.",
+    "people": [
+      "에이브러햄 링컨"
+    ],
+    "relatedPlaces": [
+      "워싱턴 D.C."
+    ],
+    "keyPoints": [
+      "노예제 폐지 방향 강화",
+      "흑인 병사의 연방군 입대 확대",
+      "수정헌법 13조의 배경"
+    ],
+    "wikiQuery": "노예해방선언",
+    "wikiQueryEn": "노예해방선언"
+  },
+  {
+    "id": "sanfrancisco-1849",
+    "title": "캘리포니아 골드러시",
+    "year": 1849,
+    "place": "샌프란시스코",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "category": "economy",
+    "summary": "금 발견 소식으로 세계 각지에서 사람들이 캘리포니아로 몰려들었다.",
+    "significance": "미국 서부의 인구·경제 성장을 가속했지만 원주민 공동체에는 파괴적 영향을 주었다.",
+    "people": [
+      "제임스 W. 마셜"
+    ],
+    "relatedPlaces": [
+      "서터스 밀",
+      "샌프란시스코"
+    ],
+    "keyPoints": [
+      "급격한 인구 증가",
+      "태평양 무역 확대",
+      "원주민 토지와 삶에 큰 피해"
+    ],
+    "wikiQuery": "캘리포니아 골드 러시",
+    "wikiQueryEn": "캘리포니아 골드 러시"
+  },
+  {
+    "id": "montreal-1967",
+    "title": "몬트리올 엑스포 67",
+    "year": 1967,
+    "place": "몬트리올",
+    "country": "캐나다",
+    "region": "북아메리카",
+    "lat": 45.5019,
+    "lon": -73.5674,
+    "category": "culture",
+    "summary": "캐나다 건국 100주년을 기념한 세계박람회가 몬트리올에서 열렸다.",
+    "significance": "현대 건축과 국제 문화 교류를 보여준 20세기 대표 박람회 중 하나다.",
+    "people": [
+      "모셰 사프디"
+    ],
+    "relatedPlaces": [
+      "해비타트 67",
+      "세인트헬렌섬"
+    ],
+    "keyPoints": [
+      "모더니즘 건축 실험",
+      "세계 각국 전시관",
+      "도시 인프라 확충"
+    ],
+    "wikiQuery": "Expo 67",
+    "wikiQueryEn": "Expo 67"
+  },
+  {
+    "id": "haiti-1804",
+    "title": "아이티 독립",
+    "year": 1804,
+    "place": "고나이브",
+    "country": "아이티",
+    "region": "카리브",
+    "lat": 19.445,
+    "lon": -72.688,
+    "category": "politics",
+    "summary": "생도맹그의 노예혁명 끝에 아이티가 프랑스로부터 독립했다.",
+    "significance": "노예 반란으로 탄생한 최초의 독립 흑인 공화국이라는 세계사적 의미가 있다.",
+    "people": [
+      "장자크 데살린",
+      "투생 루베르튀르"
+    ],
+    "relatedPlaces": [
+      "고나이브",
+      "포르토프랭스"
+    ],
+    "keyPoints": [
+      "노예제 식민 체제 타격",
+      "대서양 혁명 확장",
+      "식민 강대국에 큰 충격"
+    ],
+    "wikiQuery": "아이티 혁명",
+    "wikiQueryEn": "아이티 혁명"
+  },
+  {
+    "id": "buenosaires-1810",
+    "title": "5월 혁명",
+    "year": 1810,
+    "place": "부에노스아이레스",
+    "country": "아르헨티나",
+    "region": "남아메리카",
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "category": "politics",
+    "summary": "부에노스아이레스에서 스페인 식민 총독 체제가 무너지고 자치 정부가 수립됐다.",
+    "significance": "리오데라플라타 지역 독립운동과 아르헨티나 국가 형성의 출발점이 되었다.",
+    "people": [
+      "마누엘 벨그라노",
+      "마리아노 모레노"
+    ],
+    "relatedPlaces": [
+      "마요 광장"
+    ],
+    "keyPoints": [
+      "스페인 식민 통치 약화",
+      "자치정부 수립",
+      "남미 독립전쟁으로 연결"
+    ],
+    "wikiQuery": "5월 혁명",
+    "wikiQueryEn": "5월 혁명"
+  },
+  {
+    "id": "rio-1822",
+    "title": "브라질 독립",
+    "year": 1822,
+    "place": "상파울루/리우데자네이루",
+    "country": "브라질",
+    "region": "남아메리카",
+    "lat": -23.5505,
+    "lon": -46.6333,
+    "category": "politics",
+    "summary": "페드루가 포르투갈로부터 브라질의 독립을 선언했다.",
+    "significance": "공화국이 아닌 제국 형태로 독립했다는 점에서 라틴아메리카 독립사에서 독특한 경로를 보였다.",
+    "people": [
+      "페드루 1세"
+    ],
+    "relatedPlaces": [
+      "이피랑가",
+      "리우데자네이루"
+    ],
+    "keyPoints": [
+      "포르투갈과 정치적 분리",
+      "브라질 제국 성립",
+      "왕정 체제 유지"
+    ],
+    "wikiQuery": "브라질 독립",
+    "wikiQueryEn": "브라질 독립"
+  },
+  {
+    "id": "panama-1914",
+    "title": "파나마 운하 개통",
+    "year": 1914,
+    "place": "파나마",
+    "country": "파나마",
+    "region": "중앙아메리카",
+    "lat": 9.1012,
+    "lon": -79.4029,
+    "category": "technology",
+    "summary": "대서양과 태평양을 잇는 파나마 운하가 상업 운항을 시작했다.",
+    "significance": "세계 해운 거리와 비용을 크게 줄여 국제무역과 해군 전략을 바꿨다.",
+    "people": [
+      "시어도어 루스벨트"
+    ],
+    "relatedPlaces": [
+      "파나마 운하",
+      "가툰호"
+    ],
+    "keyPoints": [
+      "두 대양을 직접 연결",
+      "해운 거리 단축",
+      "미국의 중남미 영향력 강화"
+    ],
+    "wikiQuery": "파나마 운하",
+    "wikiQueryEn": "파나마 운하"
+  },
+  {
+    "id": "sydney-1788",
+    "title": "시드니 식민지 정착",
+    "year": 1788,
+    "place": "시드니",
+    "country": "호주",
+    "region": "오세아니아",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "category": "politics",
+    "summary": "영국 제1함대가 포트잭슨에 도착해 뉴사우스웨일스 식민지를 세웠다.",
+    "significance": "현대 호주 식민사회의 시작이지만 원주민 공동체에 토지 상실과 질병을 초래했다.",
+    "people": [
+      "아서 필립"
+    ],
+    "relatedPlaces": [
+      "시드니 코브"
+    ],
+    "keyPoints": [
+      "죄수 식민지 시작",
+      "영국 정착 확대",
+      "원주민 사회에 심각한 영향"
+    ],
+    "wikiQuery": "First Fleet",
+    "wikiQueryEn": "First Fleet"
+  },
+  {
+    "id": "waitangi-1840",
+    "title": "와이탕이 조약",
+    "year": 1840,
+    "place": "와이탕이",
+    "country": "뉴질랜드",
+    "region": "오세아니아",
+    "lat": -35.265,
+    "lon": 174.08,
+    "category": "politics",
+    "summary": "영국 왕실 대표와 여러 마오리 추장이 와이탕이 조약에 서명했다.",
+    "significance": "영문과 마오리문 해석 차이로 주권·토지권 논쟁이 이어져 현대 뉴질랜드 정치의 핵심 쟁점이 되었다.",
+    "people": [
+      "윌리엄 홉슨",
+      "호네 헤케"
+    ],
+    "relatedPlaces": [
+      "와이탕이"
+    ],
+    "keyPoints": [
+      "영국 식민 통치의 근거",
+      "번역 차이로 해석 분쟁",
+      "마오리 권리 회복 논의의 기반"
+    ],
+    "wikiQuery": "와이탕이 조약",
+    "wikiQueryEn": "와이탕이 조약"
+  },
+  {
+    "id": "guadalcanal-1942",
+    "title": "과달카날 전역",
+    "year": 1942,
+    "place": "과달카날",
+    "country": "솔로몬 제도",
+    "region": "오세아니아",
+    "lat": -9.577,
+    "lon": 160.145,
+    "category": "war",
+    "summary": "미군과 연합군이 일본군과 장기간 육해공 전투를 벌였다.",
+    "significance": "태평양 전쟁에서 연합군이 전략적 공세로 전환하는 중요한 계기였다.",
+    "people": [
+      "알렉산더 밴더그리프트",
+      "야마모토 이소로쿠"
+    ],
+    "relatedPlaces": [
+      "헨더슨 비행장"
+    ],
+    "keyPoints": [
+      "태평양 전쟁 공세 전환",
+      "해상 보급전의 중요성",
+      "장기 소모전 양상"
+    ],
+    "wikiQuery": "과달카날 전역",
+    "wikiQueryEn": "과달카날 전역"
+  },
+  {
+    "id": "canberra-1927",
+    "title": "캔버라 국회의사당 개관",
+    "year": 1927,
+    "place": "캔버라",
+    "country": "호주",
+    "region": "오세아니아",
+    "lat": -35.2809,
+    "lon": 149.13,
+    "category": "architecture",
+    "summary": "호주의 임시 국회의사당이 캔버라에서 문을 열었다.",
+    "significance": "시드니와 멜버른 사이에 계획된 새로운 연방 수도가 국가 행정 중심으로 자리잡는 계기였다.",
+    "people": [
+      "스탠리 브루스"
+    ],
+    "relatedPlaces": [
+      "구 국회의사당"
+    ],
+    "keyPoints": [
+      "계획도시 수도",
+      "연방 정부 이전",
+      "호주 국가 정체성 상징"
+    ],
+    "wikiQuery": "Canberra history",
+    "wikiQueryEn": "Canberra history"
+  }
+]

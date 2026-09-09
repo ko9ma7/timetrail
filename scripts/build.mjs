@@ -11,6 +11,8 @@ const files = [
 
 await rm('dist', { recursive: true, force: true });
 await mkdir('dist', { recursive: true });
+await mkdir('dist/data', { recursive: true });
 for (const file of files) await cp(file, `dist/${file}`);
+await cp('data', 'dist/data', { recursive: true });
 await writeFile('dist/.nojekyll', '');
 console.log(`Built ${files.length} static files into dist/`);
