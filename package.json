@@ -1,0 +1,14 @@
+{
+  "name": "timetrail",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "build": "node scripts/build.mjs",
+    "check": "node --check app.js",
+    "configure:repo": "node scripts/configure-repo.mjs"
+  },
+  "description": "Interactive historical map for exploring places, people and events through time.",
+  "license": "MIT"
+}

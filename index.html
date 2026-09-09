@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TimeTrail — 지도를 클릭하면 그 장소의 과거로</title>
+  <meta name="description" content="시간 슬라이더와 세계지도로 같은 시대의 도시, 인물의 여정, 역사 사건을 탐험하는 인터랙티브 역사 지도." />
+  <meta name="theme-color" content="#07101d" />
+  <link rel="canonical" href="https://ko9ma7.github.io/timetrail/" />
+  <meta name="color-scheme" content="dark light" />
+  <link rel="icon" href="./favicon.ico" sizes="any" />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="./favicon-32x32.png" sizes="32x32" />
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+  <link rel="manifest" href="./site.webmanifest" />
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@6.8.0/dist/maplibre-gl.css" />
+  <link rel="stylesheet" href="./styles.css" />
+  <meta property="og:title" content="TimeTrail — 지도를 클릭하면 그 장소의 과거로" />
+  <meta property="og:description" content="연도를 움직이고 도시를 클릭해 그 장소의 역사와 인물의 여정을 탐험하세요." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ko9ma7.github.io/timetrail/" />
+  <meta property="og:image" content="https://ko9ma7.github.io/timetrail/og-image.png" />
+  <meta property="og:site_name" content="TimeTrail" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="TimeTrail" />
+  <meta name="twitter:description" content="지도를 클릭하면 그 장소의 과거로 시간여행." />
+  <meta name="twitter:image" content="https://ko9ma7.github.io/timetrail/og-image.png" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"TimeTrail","applicationCategory":"EducationalApplication","operatingSystem":"Web","description":"Interactive historical map and story route explorer."}</script>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <button class="brand" id="homeBtn" aria-label="TimeTrail 홈"><span class="brand-mark">◷</span><span><b>TimeTrail</b><small>History, mapped.</small></span></button>
+      <nav class="nav-tabs" aria-label="주요 메뉴">
+        <button class="active" data-mode="explore">⌖ <span>탐험</span></button>
+        <button data-mode="stories">⌁ <span>Story Packs</span></button>
+        <button data-mode="duel">⚔ <span>Time Duel</span></button>
+      </nav>
+      <button class="icon-btn" id="themeBtn" aria-label="테마 전환">☀</button>
+    </header>
+
+    <section class="workspace">
+      <aside class="sidebar">
+        <div class="eyebrow">◷ TIME MACHINE</div>
+        <h1>지도를 클릭하면<br><em>그 장소의 과거</em>로.</h1>
+        <p class="intro">연도를 고르고 도시를 클릭하세요. 같은 땅 위에서 서로 다른 시대가 어떻게 흘렀는지 비교할 수 있습니다.</p>
+        <label class="search-box">⌕<input id="searchInput" placeholder="장소, 사건, 인물 검색" /></label>
+        <div id="sidebarContent"></div>
+        <div class="source-note"><span>▣</span><p><b>출처 우선 설계</b><br>AI가 사실을 만드는 대신, 확인 가능한 원문을 카드에 연결합니다.</p></div>
+      </aside>
+
+      <section class="map-panel">
+        <div class="map-shell"><div id="map" class="map"></div><div class="map-hint">지도의 아무 곳이나 클릭해 당시의 가장 가까운 사건을 찾아보세요.</div></div>
+        <div class="timeline-card">
+          <div class="timeline-value"><span id="yearLabel">1592년</span><small id="yearSubtitle">조선 · 임진왜란 원년</small></div>
+          <input id="yearSlider" aria-label="연도 선택" type="range" min="500" max="2026" value="1592" />
+          <div class="ticks"><span>500</span><span>1000</span><span>1500</span><span>1800</span><span>2026</span></div>
+        </div>
+      </section>
+      <aside class="detail-panel" id="detailPanel"></aside>
+    </section>
+    <div class="toast" id="toast" hidden><span></span><button aria-label="닫기">×</button></div>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
