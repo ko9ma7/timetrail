@@ -1,0 +1,5910 @@
+[
+  {
+    "id": "backbone-0001",
+    "title": "수메르 도시국가의 성장",
+    "year": -3500,
+    "place": "우루크",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 31.3222,
+    "lon": 45.6361,
+    "category": "culture",
+    "summary": "우루크를 비롯한 남부 메소포타미아 도시들이 행정·종교·교역의 중심으로 성장했다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "우루크"
+    ],
+    "keyPoints": [
+      "우루크를 비롯한 남부 메소포타미아 도시들이 행정·종교·교역의 중심으로 성장했다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 3500년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "수메르 도시국가의 성장",
+    "wikiQueryEn": "수메르 도시국가의 성장",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0002",
+    "title": "초기 쐐기문자 사용",
+    "year": -3200,
+    "place": "우루크",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 31.3222,
+    "lon": 45.6361,
+    "category": "culture",
+    "summary": "점토판 기록 체계가 발달하며 세금·물자·행정 정보를 기록하는 문자 문화가 형성되었다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "우루크"
+    ],
+    "keyPoints": [
+      "점토판 기록 체계가 발달하며 세금·물자·행정 정보를 기록하는 문자 문화가 형성되었다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 3200년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "초기 쐐기문자 사용",
+    "wikiQueryEn": "초기 쐐기문자 사용",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0003",
+    "title": "이집트 통일 왕국 형성",
+    "year": -3100,
+    "place": "멤피스",
+    "country": "이집트",
+    "region": "북아프리카",
+    "lat": 29.8449,
+    "lon": 31.2508,
+    "category": "politics",
+    "summary": "상·하이집트가 통합되며 장기간 지속될 파라오 국가의 틀이 형성되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "멤피스"
+    ],
+    "keyPoints": [
+      "상·하이집트가 통합되며 장기간 지속될 파라오 국가의 틀이 형성되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 3100년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이집트 통일 왕국 형성",
+    "wikiQueryEn": "이집트 통일 왕국 형성",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0004",
+    "title": "기자 대피라미드 건설",
+    "year": -2560,
+    "place": "기자",
+    "country": "이집트",
+    "region": "북아프리카",
+    "lat": 29.9792,
+    "lon": 31.1342,
+    "category": "architecture",
+    "summary": "쿠푸의 피라미드는 고왕국의 행정력·노동 조직·측량 기술을 보여준다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "기자"
+    ],
+    "keyPoints": [
+      "쿠푸의 피라미드는 고왕국의 행정력·노동 조직·측량 기술을 보여준다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "기원전 2560년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "기자 대피라미드 건설",
+    "wikiQueryEn": "기자 대피라미드 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0005",
+    "title": "인더스 문명 도시화",
+    "year": -2600,
+    "place": "모헨조다로",
+    "country": "파키스탄",
+    "region": "남아시아",
+    "lat": 27.3249,
+    "lon": 68.1382,
+    "category": "culture",
+    "summary": "계획도시·배수 시설·표준화된 도량형을 갖춘 인더스 도시 문명이 번성했다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "모헨조다로"
+    ],
+    "keyPoints": [
+      "계획도시·배수 시설·표준화된 도량형을 갖춘 인더스 도시 문명이 번성했다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 2600년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "인더스 문명 도시화",
+    "wikiQueryEn": "인더스 문명 도시화",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0006",
+    "title": "아카드 제국 성립",
+    "year": -2334,
+    "place": "아카드 지역",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 33.1,
+    "lon": 44.1,
+    "category": "politics",
+    "summary": "사르곤이 메소포타미아의 여러 도시국가를 통합해 초기 영토 제국의 모델을 만들었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "아카드 지역"
+    ],
+    "keyPoints": [
+      "사르곤이 메소포타미아의 여러 도시국가를 통합해 초기 영토 제국의 모델을 만들었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 2334년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아카드 제국 성립",
+    "wikiQueryEn": "아카드 제국 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0007",
+    "title": "우르 제3왕조",
+    "year": -2112,
+    "place": "우르",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 30.9625,
+    "lon": 46.103,
+    "category": "politics",
+    "summary": "우르를 중심으로 관료제와 기록 행정이 다시 강화되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "우르"
+    ],
+    "keyPoints": [
+      "우르를 중심으로 관료제와 기록 행정이 다시 강화되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 2112년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "우르 제3왕조",
+    "wikiQueryEn": "우르 제3왕조",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0008",
+    "title": "함무라비 통치 시작",
+    "year": -1792,
+    "place": "바빌론",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 32.5421,
+    "lon": 44.4214,
+    "category": "politics",
+    "summary": "함무라비 시대 바빌론이 메소포타미아의 주요 강국으로 성장했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "바빌론"
+    ],
+    "keyPoints": [
+      "함무라비 시대 바빌론이 메소포타미아의 주요 강국으로 성장했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 1792년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "함무라비 통치 시작",
+    "wikiQueryEn": "함무라비 통치 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0009",
+    "title": "함무라비 법전",
+    "year": -1754,
+    "place": "바빌론",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 32.5421,
+    "lon": 44.4214,
+    "category": "society",
+    "summary": "왕권 아래 법과 처벌 원칙을 공개적으로 제시한 대표적인 고대 법전이 편찬되었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "바빌론"
+    ],
+    "keyPoints": [
+      "왕권 아래 법과 처벌 원칙을 공개적으로 제시한 대표적인 고대 법전이 편찬되었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "기원전 1754년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "함무라비 법전",
+    "wikiQueryEn": "함무라비 법전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0010",
+    "title": "히타이트 제국 성장",
+    "year": -1600,
+    "place": "하투샤",
+    "country": "튀르키예",
+    "region": "서아시아",
+    "lat": 40.0194,
+    "lon": 34.6153,
+    "category": "politics",
+    "summary": "아나톨리아의 히타이트가 전차·금속기술과 외교를 바탕으로 강국이 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "하투샤"
+    ],
+    "keyPoints": [
+      "아나톨리아의 히타이트가 전차·금속기술과 외교를 바탕으로 강국이 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 1600년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "히타이트 제국 성장",
+    "wikiQueryEn": "히타이트 제국 성장",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0011",
+    "title": "상 왕조의 은허",
+    "year": -1300,
+    "place": "안양",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 36.099,
+    "lon": 114.393,
+    "category": "culture",
+    "summary": "갑골문과 청동기 유물이 남은 은허는 중국 초기 국가와 문자 문화를 보여준다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "안양"
+    ],
+    "keyPoints": [
+      "갑골문과 청동기 유물이 남은 은허는 중국 초기 국가와 문자 문화를 보여준다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 1300년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "상 왕조의 은허",
+    "wikiQueryEn": "상 왕조의 은허",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0012",
+    "title": "카데시 전투",
+    "year": -1274,
+    "place": "카데시",
+    "country": "시리아",
+    "region": "서아시아",
+    "lat": 34.55,
+    "lon": 36.52,
+    "category": "war",
+    "summary": "이집트 람세스 2세와 히타이트가 시리아 지배권을 두고 대규모 전차전을 벌였다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "카데시"
+    ],
+    "keyPoints": [
+      "이집트 람세스 2세와 히타이트가 시리아 지배권을 두고 대규모 전차전을 벌였다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 1274년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "카데시 전투",
+    "wikiQueryEn": "카데시 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0013",
+    "title": "이집트-히타이트 평화조약",
+    "year": -1259,
+    "place": "피람세스",
+    "country": "이집트",
+    "region": "북아프리카",
+    "lat": 30.8,
+    "lon": 31.83,
+    "category": "politics",
+    "summary": "카데시 전투 이후 양국이 상호 방위와 평화를 약속한 초기 국제 조약 사례다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "피람세스"
+    ],
+    "keyPoints": [
+      "카데시 전투 이후 양국이 상호 방위와 평화를 약속한 초기 국제 조약 사례다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 1259년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이집트-히타이트 평화조약",
+    "wikiQueryEn": "이집트-히타이트 평화조약",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0014",
+    "title": "주 왕조 성립",
+    "year": -1046,
+    "place": "호경",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.2,
+    "lon": 108.9,
+    "category": "politics",
+    "summary": "주가 상을 무너뜨리고 천명 사상을 정치적 정당성의 핵심으로 발전시켰다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "호경"
+    ],
+    "keyPoints": [
+      "주가 상을 무너뜨리고 천명 사상을 정치적 정당성의 핵심으로 발전시켰다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 1046년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "주 왕조 성립",
+    "wikiQueryEn": "주 왕조 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0015",
+    "title": "페니키아 해상교역",
+    "year": -1000,
+    "place": "티레",
+    "country": "레바논",
+    "region": "서아시아",
+    "lat": 33.2705,
+    "lon": 35.2038,
+    "category": "economy",
+    "summary": "동지중해 상인 네트워크와 알파벳 전파가 지중해 문화 교류에 큰 영향을 주었다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "티레"
+    ],
+    "keyPoints": [
+      "동지중해 상인 네트워크와 알파벳 전파가 지중해 문화 교류에 큰 영향을 주었다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "기원전 1000년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "페니키아 해상교역",
+    "wikiQueryEn": "페니키아 해상교역",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0016",
+    "title": "이스라엘 왕국의 예루살렘 중심화",
+    "year": -1000,
+    "place": "예루살렘",
+    "country": "이스라엘/팔레스타인",
+    "region": "서아시아",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "category": "politics",
+    "summary": "예루살렘이 고대 이스라엘 정치·종교의 핵심 중심지로 자리 잡았다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "예루살렘"
+    ],
+    "keyPoints": [
+      "예루살렘이 고대 이스라엘 정치·종교의 핵심 중심지로 자리 잡았다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 1000년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이스라엘 왕국의 예루살렘 중심화",
+    "wikiQueryEn": "이스라엘 왕국의 예루살렘 중심화",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0017",
+    "title": "아시리아 제국 팽창",
+    "year": -900,
+    "place": "니네베",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 36.359,
+    "lon": 43.152,
+    "category": "war",
+    "summary": "신아시리아가 전문 군대와 속주 통치로 서아시아의 광대한 지역을 지배했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "니네베"
+    ],
+    "keyPoints": [
+      "신아시리아가 전문 군대와 속주 통치로 서아시아의 광대한 지역을 지배했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 900년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아시리아 제국 팽창",
+    "wikiQueryEn": "아시리아 제국 팽창",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0018",
+    "title": "카르타고 건설",
+    "year": -814,
+    "place": "카르타고",
+    "country": "튀니지",
+    "region": "북아프리카",
+    "lat": 36.8529,
+    "lon": 10.323,
+    "category": "economy",
+    "summary": "페니키아계 정착민이 세운 카르타고가 서지중해의 상업·해군 강국으로 성장했다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "카르타고"
+    ],
+    "keyPoints": [
+      "페니키아계 정착민이 세운 카르타고가 서지중해의 상업·해군 강국으로 성장했다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "기원전 814년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "카르타고 건설",
+    "wikiQueryEn": "카르타고 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0019",
+    "title": "로마 건국 전승",
+    "year": -753,
+    "place": "로마",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "politics",
+    "summary": "로마 전통에서 도시의 기원을 설명하는 상징적 연대로 후대 로마 정체성의 기준이 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "로마"
+    ],
+    "keyPoints": [
+      "로마 전통에서 도시의 기원을 설명하는 상징적 연대로 후대 로마 정체성의 기준이 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 753년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "로마 건국 전승",
+    "wikiQueryEn": "로마 건국 전승",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0020",
+    "title": "올림피아 고대 올림픽",
+    "year": -776,
+    "place": "올림피아",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 37.6386,
+    "lon": 21.63,
+    "category": "culture",
+    "summary": "그리스 세계의 도시국가들이 공통 종교 축제와 경기로 연결되었다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "올림피아"
+    ],
+    "keyPoints": [
+      "그리스 세계의 도시국가들이 공통 종교 축제와 경기로 연결되었다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 776년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "올림피아 고대 올림픽",
+    "wikiQueryEn": "올림피아 고대 올림픽",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0021",
+    "title": "신바빌로니아 제국",
+    "year": -626,
+    "place": "바빌론",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 32.5421,
+    "lon": 44.4214,
+    "category": "politics",
+    "summary": "아시리아 붕괴 뒤 바빌론이 다시 메소포타미아의 제국 중심이 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "바빌론"
+    ],
+    "keyPoints": [
+      "아시리아 붕괴 뒤 바빌론이 다시 메소포타미아의 제국 중심이 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 626년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "신바빌로니아 제국",
+    "wikiQueryEn": "신바빌로니아 제국",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0022",
+    "title": "아테네 민주정 개혁",
+    "year": -508,
+    "place": "아테네",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "category": "politics",
+    "summary": "클레이스테네스 개혁으로 시민 참여와 지역 기반 정치 조직이 확대되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "아테네"
+    ],
+    "keyPoints": [
+      "클레이스테네스 개혁으로 시민 참여와 지역 기반 정치 조직이 확대되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 508년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아테네 민주정 개혁",
+    "wikiQueryEn": "아테네 민주정 개혁",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0023",
+    "title": "아케메네스 페르시아 제국",
+    "year": -550,
+    "place": "파사르가다에",
+    "country": "이란",
+    "region": "서아시아",
+    "lat": 30.1938,
+    "lon": 53.1679,
+    "category": "politics",
+    "summary": "키루스 2세가 광대한 다민족 제국을 세우고 속주·도로·관용 정책을 발전시켰다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파사르가다에"
+    ],
+    "keyPoints": [
+      "키루스 2세가 광대한 다민족 제국을 세우고 속주·도로·관용 정책을 발전시켰다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 550년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아케메네스 페르시아 제국",
+    "wikiQueryEn": "아케메네스 페르시아 제국",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0024",
+    "title": "석가모니의 활동",
+    "year": -500,
+    "place": "바라나시",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 25.3176,
+    "lon": 82.9739,
+    "category": "religion",
+    "summary": "북인도에서 불교가 형성되어 이후 아시아 전역으로 확산되었다.",
+    "significance": "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "바라나시"
+    ],
+    "keyPoints": [
+      "북인도에서 불교가 형성되어 이후 아시아 전역으로 확산되었다.",
+      "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+      "기원전 500년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "석가모니의 활동",
+    "wikiQueryEn": "석가모니의 활동",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0025",
+    "title": "공자의 활동",
+    "year": -500,
+    "place": "취푸",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 35.58,
+    "lon": 116.9865,
+    "category": "culture",
+    "summary": "공자의 가르침이 후대 동아시아 정치 윤리와 교육 전통의 핵심 자원이 되었다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "취푸"
+    ],
+    "keyPoints": [
+      "공자의 가르침이 후대 동아시아 정치 윤리와 교육 전통의 핵심 자원이 되었다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 500년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "공자의 활동",
+    "wikiQueryEn": "공자의 활동",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0026",
+    "title": "페르시아 전쟁 시작",
+    "year": -499,
+    "place": "이오니아",
+    "country": "튀르키예",
+    "region": "유럽/서아시아",
+    "lat": 38.3,
+    "lon": 27.2,
+    "category": "war",
+    "summary": "그리스 도시국가와 아케메네스 페르시아의 충돌이 에게해 권력 질서를 바꾸었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "이오니아"
+    ],
+    "keyPoints": [
+      "그리스 도시국가와 아케메네스 페르시아의 충돌이 에게해 권력 질서를 바꾸었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 499년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "페르시아 전쟁 시작",
+    "wikiQueryEn": "페르시아 전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0027",
+    "title": "마라톤 전투",
+    "year": -490,
+    "place": "마라톤",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 38.153,
+    "lon": 23.962,
+    "category": "war",
+    "summary": "아테네군이 페르시아군을 격퇴해 그리스-페르시아 전쟁의 상징적 승리가 되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "마라톤"
+    ],
+    "keyPoints": [
+      "아테네군이 페르시아군을 격퇴해 그리스-페르시아 전쟁의 상징적 승리가 되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 490년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "마라톤 전투",
+    "wikiQueryEn": "마라톤 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0028",
+    "title": "살라미스 해전",
+    "year": -480,
+    "place": "살라미스",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 37.949,
+    "lon": 23.539,
+    "category": "war",
+    "summary": "그리스 연합 함대가 좁은 해협에서 페르시아 해군을 격파했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "살라미스"
+    ],
+    "keyPoints": [
+      "그리스 연합 함대가 좁은 해협에서 페르시아 해군을 격파했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 480년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "살라미스 해전",
+    "wikiQueryEn": "살라미스 해전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0029",
+    "title": "펠로폰네소스 전쟁",
+    "year": -431,
+    "place": "아테네",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "category": "war",
+    "summary": "아테네와 스파르타 동맹권의 장기전으로 고전기 그리스의 세력 균형이 붕괴했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "아테네"
+    ],
+    "keyPoints": [
+      "아테네와 스파르타 동맹권의 장기전으로 고전기 그리스의 세력 균형이 붕괴했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 431년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "펠로폰네소스 전쟁",
+    "wikiQueryEn": "펠로폰네소스 전쟁",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0030",
+    "title": "알렉산드로스 동방 원정 시작",
+    "year": -334,
+    "place": "헬레스폰트",
+    "country": "튀르키예",
+    "region": "유럽/서아시아",
+    "lat": 40.2,
+    "lon": 26.4,
+    "category": "war",
+    "summary": "마케도니아군이 아시아로 건너가 아케메네스 제국 정복을 시작했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "헬레스폰트"
+    ],
+    "keyPoints": [
+      "마케도니아군이 아시아로 건너가 아케메네스 제국 정복을 시작했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 334년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "알렉산드로스 동방 원정 시작",
+    "wikiQueryEn": "알렉산드로스 동방 원정 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0031",
+    "title": "가우가멜라 전투",
+    "year": -331,
+    "place": "가우가멜라",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 36.35,
+    "lon": 43.25,
+    "category": "war",
+    "summary": "알렉산드로스가 다리우스 3세의 주력을 격파하며 페르시아 제국의 붕괴를 확정지었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "가우가멜라"
+    ],
+    "keyPoints": [
+      "알렉산드로스가 다리우스 3세의 주력을 격파하며 페르시아 제국의 붕괴를 확정지었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 331년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "가우가멜라 전투",
+    "wikiQueryEn": "가우가멜라 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0032",
+    "title": "알렉산드리아 건설",
+    "year": -331,
+    "place": "알렉산드리아",
+    "country": "이집트",
+    "region": "북아프리카",
+    "lat": 31.2001,
+    "lon": 29.9187,
+    "category": "culture",
+    "summary": "지중해와 나일강을 잇는 항구도시가 헬레니즘 학문·상업의 중심으로 성장했다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "알렉산드리아"
+    ],
+    "keyPoints": [
+      "지중해와 나일강을 잇는 항구도시가 헬레니즘 학문·상업의 중심으로 성장했다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "기원전 331년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "알렉산드리아 건설",
+    "wikiQueryEn": "알렉산드리아 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0033",
+    "title": "마우리아 제국 성립",
+    "year": -322,
+    "place": "파탈리푸트라",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 25.5941,
+    "lon": 85.1376,
+    "category": "politics",
+    "summary": "찬드라굽타 마우리아가 북인도의 광범위한 지역을 통합했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파탈리푸트라"
+    ],
+    "keyPoints": [
+      "찬드라굽타 마우리아가 북인도의 광범위한 지역을 통합했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 322년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "마우리아 제국 성립",
+    "wikiQueryEn": "마우리아 제국 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0034",
+    "title": "아소카의 칼링가 전쟁",
+    "year": -261,
+    "place": "칼링가",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 20.3,
+    "lon": 85.8,
+    "category": "war",
+    "summary": "전쟁의 참화를 계기로 아소카의 통치 이념과 불교 후원이 강화되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "칼링가"
+    ],
+    "keyPoints": [
+      "전쟁의 참화를 계기로 아소카의 통치 이념과 불교 후원이 강화되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 261년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아소카의 칼링가 전쟁",
+    "wikiQueryEn": "아소카의 칼링가 전쟁",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0035",
+    "title": "진의 중국 통일",
+    "year": -221,
+    "place": "셴양",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.3296,
+    "lon": 108.708,
+    "category": "politics",
+    "summary": "진시황이 전국시대를 끝내고 군현제·도량형·문자 표준화를 추진했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "셴양"
+    ],
+    "keyPoints": [
+      "진시황이 전국시대를 끝내고 군현제·도량형·문자 표준화를 추진했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 221년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "진의 중국 통일",
+    "wikiQueryEn": "진의 중국 통일",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0036",
+    "title": "만리장성 초기 연결",
+    "year": -214,
+    "place": "중국 북부",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 40.4,
+    "lon": 116.0,
+    "category": "architecture",
+    "summary": "기존 방어벽 일부가 연결·정비되며 북방 방어 체계의 상징이 형성되었다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "중국 북부"
+    ],
+    "keyPoints": [
+      "기존 방어벽 일부가 연결·정비되며 북방 방어 체계의 상징이 형성되었다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "기원전 214년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "만리장성 초기 연결",
+    "wikiQueryEn": "만리장성 초기 연결",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0037",
+    "title": "한 왕조 성립",
+    "year": -202,
+    "place": "장안",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.3416,
+    "lon": 108.9398,
+    "category": "politics",
+    "summary": "한 고조가 진 말 혼란을 수습하고 장기 제국의 기반을 세웠다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "장안"
+    ],
+    "keyPoints": [
+      "한 고조가 진 말 혼란을 수습하고 장기 제국의 기반을 세웠다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 202년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "한 왕조 성립",
+    "wikiQueryEn": "한 왕조 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0038",
+    "title": "실크로드 교역 확대",
+    "year": -130,
+    "place": "둔황",
+    "country": "중국",
+    "region": "중앙/동아시아",
+    "lat": 40.1421,
+    "lon": 94.6619,
+    "category": "economy",
+    "summary": "한대 서역 교류 확대로 동서 유라시아의 상품·종교·기술 이동이 활발해졌다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "둔황"
+    ],
+    "keyPoints": [
+      "한대 서역 교류 확대로 동서 유라시아의 상품·종교·기술 이동이 활발해졌다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "기원전 130년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "실크로드 교역 확대",
+    "wikiQueryEn": "실크로드 교역 확대",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0039",
+    "title": "포에니 전쟁 종료",
+    "year": -146,
+    "place": "카르타고",
+    "country": "튀니지",
+    "region": "북아프리카",
+    "lat": 36.8529,
+    "lon": 10.323,
+    "category": "war",
+    "summary": "로마가 카르타고를 파괴하면서 서지중해의 지배적 세력으로 자리 잡았다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "카르타고"
+    ],
+    "keyPoints": [
+      "로마가 카르타고를 파괴하면서 서지중해의 지배적 세력으로 자리 잡았다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 146년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "포에니 전쟁 종료",
+    "wikiQueryEn": "포에니 전쟁 종료",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0040",
+    "title": "로마 공화정 내전 시대",
+    "year": -49,
+    "place": "로마",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "politics",
+    "summary": "카이사르가 루비콘을 건너며 공화정의 권력 갈등이 전면 내전으로 확대되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "로마"
+    ],
+    "keyPoints": [
+      "카이사르가 루비콘을 건너며 공화정의 권력 갈등이 전면 내전으로 확대되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 49년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "로마 공화정 내전 시대",
+    "wikiQueryEn": "로마 공화정 내전 시대",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0041",
+    "title": "악티움 해전",
+    "year": -31,
+    "place": "악티움",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 38.94,
+    "lon": 20.77,
+    "category": "war",
+    "summary": "옥타비아누스가 안토니우스와 클레오파트라 세력을 격파해 지중해 단독 지배를 확보했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "악티움"
+    ],
+    "keyPoints": [
+      "옥타비아누스가 안토니우스와 클레오파트라 세력을 격파해 지중해 단독 지배를 확보했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "기원전 31년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "악티움 해전",
+    "wikiQueryEn": "악티움 해전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0042",
+    "title": "로마 제정 시작",
+    "year": -27,
+    "place": "로마",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "politics",
+    "summary": "옥타비아누스가 아우구스투스 칭호를 받아 원수정 체제가 확립되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "로마"
+    ],
+    "keyPoints": [
+      "옥타비아누스가 아우구스투스 칭호를 받아 원수정 체제가 확립되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "기원전 27년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "로마 제정 시작",
+    "wikiQueryEn": "로마 제정 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0043",
+    "title": "예수 활동",
+    "year": 30,
+    "place": "예루살렘",
+    "country": "이스라엘/팔레스타인",
+    "region": "서아시아",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "category": "religion",
+    "summary": "1세기 유대 지역에서 시작된 예수 운동이 이후 기독교 형성의 출발점이 되었다.",
+    "significance": "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "예루살렘"
+    ],
+    "keyPoints": [
+      "1세기 유대 지역에서 시작된 예수 운동이 이후 기독교 형성의 출발점이 되었다.",
+      "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+      "30년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "예수 활동",
+    "wikiQueryEn": "예수 활동",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0044",
+    "title": "폼페이 베수비오 분화",
+    "year": 79,
+    "place": "폼페이",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 40.7497,
+    "lon": 14.4869,
+    "category": "society",
+    "summary": "베수비오 화산 분화로 도시가 매몰되어 로마 도시 생활의 귀중한 고고학 자료가 남았다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "폼페이"
+    ],
+    "keyPoints": [
+      "베수비오 화산 분화로 도시가 매몰되어 로마 도시 생활의 귀중한 고고학 자료가 남았다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "79년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "폼페이 베수비오 분화",
+    "wikiQueryEn": "폼페이 베수비오 분화",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0045",
+    "title": "후한 붕괴와 삼국시대",
+    "year": 220,
+    "place": "뤄양",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.6197,
+    "lon": 112.454,
+    "category": "politics",
+    "summary": "후한 왕조가 끝나고 위·촉·오의 경쟁이 본격화되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "뤄양"
+    ],
+    "keyPoints": [
+      "후한 왕조가 끝나고 위·촉·오의 경쟁이 본격화되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "220년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "후한 붕괴와 삼국시대",
+    "wikiQueryEn": "후한 붕괴와 삼국시대",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0046",
+    "title": "니케아 공의회",
+    "year": 325,
+    "place": "니케아",
+    "country": "튀르키예",
+    "region": "서아시아",
+    "lat": 40.4286,
+    "lon": 29.7211,
+    "category": "religion",
+    "summary": "로마 제국 내 기독교 교리 논쟁을 조정하기 위한 최초의 보편 공의회가 열렸다.",
+    "significance": "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "니케아"
+    ],
+    "keyPoints": [
+      "로마 제국 내 기독교 교리 논쟁을 조정하기 위한 최초의 보편 공의회가 열렸다.",
+      "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+      "325년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "니케아 공의회",
+    "wikiQueryEn": "니케아 공의회",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0047",
+    "title": "콘스탄티노폴리스 천도",
+    "year": 330,
+    "place": "콘스탄티노폴리스",
+    "country": "튀르키예",
+    "region": "유럽/서아시아",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "category": "politics",
+    "summary": "콘스탄티누스가 비잔티움을 새 제국 수도로 확대해 동로마의 중심 기반을 만들었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "콘스탄티노폴리스"
+    ],
+    "keyPoints": [
+      "콘스탄티누스가 비잔티움을 새 제국 수도로 확대해 동로마의 중심 기반을 만들었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "330년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "콘스탄티노폴리스 천도",
+    "wikiQueryEn": "콘스탄티노폴리스 천도",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0048",
+    "title": "굽타 제국 전성기",
+    "year": 375,
+    "place": "파탈리푸트라",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 25.5941,
+    "lon": 85.1376,
+    "category": "culture",
+    "summary": "수학·천문학·문학·예술이 발전하며 고전 인도 문화의 중요한 시기가 형성되었다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "파탈리푸트라"
+    ],
+    "keyPoints": [
+      "수학·천문학·문학·예술이 발전하며 고전 인도 문화의 중요한 시기가 형성되었다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "375년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "굽타 제국 전성기",
+    "wikiQueryEn": "굽타 제국 전성기",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0049",
+    "title": "서로마 제국 멸망",
+    "year": 476,
+    "place": "라벤나",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 44.4184,
+    "lon": 12.2035,
+    "category": "politics",
+    "summary": "서방 황제 폐위는 서유럽 고대에서 중세로의 전환을 상징하는 연대로 자주 사용된다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "라벤나"
+    ],
+    "keyPoints": [
+      "서방 황제 폐위는 서유럽 고대에서 중세로의 전환을 상징하는 연대로 자주 사용된다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "476년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "서로마 제국 멸망",
+    "wikiQueryEn": "서로마 제국 멸망",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0050",
+    "title": "수 왕조 중국 재통일",
+    "year": 589,
+    "place": "장안",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.3416,
+    "lon": 108.9398,
+    "category": "politics",
+    "summary": "수 왕조가 남북조 분열을 끝내고 중국을 다시 통일했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "장안"
+    ],
+    "keyPoints": [
+      "수 왕조가 남북조 분열을 끝내고 중국을 다시 통일했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "589년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "수 왕조 중국 재통일",
+    "wikiQueryEn": "수 왕조 중국 재통일",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0051",
+    "title": "수의 대운하 건설",
+    "year": 605,
+    "place": "뤄양",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.6197,
+    "lon": 112.454,
+    "category": "architecture",
+    "summary": "남북의 곡물·물자 수송을 연결하는 대규모 운하망이 확장되었다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "뤄양"
+    ],
+    "keyPoints": [
+      "남북의 곡물·물자 수송을 연결하는 대규모 운하망이 확장되었다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "605년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "수의 대운하 건설",
+    "wikiQueryEn": "수의 대운하 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0052",
+    "title": "이슬람 공동체 형성",
+    "year": 622,
+    "place": "메디나",
+    "country": "사우디아라비아",
+    "region": "서아시아",
+    "lat": 24.5247,
+    "lon": 39.5692,
+    "category": "religion",
+    "summary": "무함마드의 히즈라는 이슬람 공동체의 정치·종교적 전환점이 되었다.",
+    "significance": "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "메디나"
+    ],
+    "keyPoints": [
+      "무함마드의 히즈라는 이슬람 공동체의 정치·종교적 전환점이 되었다.",
+      "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+      "622년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이슬람 공동체 형성",
+    "wikiQueryEn": "이슬람 공동체 형성",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0053",
+    "title": "야르무크 전투",
+    "year": 636,
+    "place": "야르무크",
+    "country": "요르단/시리아",
+    "region": "서아시아",
+    "lat": 32.7,
+    "lon": 35.9,
+    "category": "war",
+    "summary": "라시둔 칼리파군이 비잔티움군을 격파해 레반트의 권력 질서를 바꾸었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "야르무크"
+    ],
+    "keyPoints": [
+      "라시둔 칼리파군이 비잔티움군을 격파해 레반트의 권력 질서를 바꾸었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "636년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "야르무크 전투",
+    "wikiQueryEn": "야르무크 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0054",
+    "title": "당 왕조 성립",
+    "year": 618,
+    "place": "장안",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.3416,
+    "lon": 108.9398,
+    "category": "politics",
+    "summary": "당이 통일 제국을 재건하고 동아시아 국제 질서의 핵심 강국으로 성장했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "장안"
+    ],
+    "keyPoints": [
+      "당이 통일 제국을 재건하고 동아시아 국제 질서의 핵심 강국으로 성장했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "618년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "당 왕조 성립",
+    "wikiQueryEn": "당 왕조 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0055",
+    "title": "탈라스 전투",
+    "year": 751,
+    "place": "탈라스",
+    "country": "키르기스스탄/카자흐스탄",
+    "region": "중앙아시아",
+    "lat": 42.9,
+    "lon": 71.4,
+    "category": "war",
+    "summary": "압바스 세력과 당군의 충돌은 중앙아시아 세력 재편의 상징적 사건이다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "탈라스"
+    ],
+    "keyPoints": [
+      "압바스 세력과 당군의 충돌은 중앙아시아 세력 재편의 상징적 사건이다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "751년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "탈라스 전투",
+    "wikiQueryEn": "탈라스 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0056",
+    "title": "바그다드 건설",
+    "year": 762,
+    "place": "바그다드",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "category": "architecture",
+    "summary": "압바스 왕조가 새 수도를 건설해 학문·상업·행정의 중심지로 발전시켰다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "바그다드"
+    ],
+    "keyPoints": [
+      "압바스 왕조가 새 수도를 건설해 학문·상업·행정의 중심지로 발전시켰다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "762년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "바그다드 건설",
+    "wikiQueryEn": "바그다드 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0057",
+    "title": "카롤루스 대제 대관",
+    "year": 800,
+    "place": "로마",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "politics",
+    "summary": "교황이 카롤루스를 황제로 대관하며 서유럽 황제권과 교황권의 관계가 새롭게 형성되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "로마"
+    ],
+    "keyPoints": [
+      "교황이 카롤루스를 황제로 대관하며 서유럽 황제권과 교황권의 관계가 새롭게 형성되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "800년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "카롤루스 대제 대관",
+    "wikiQueryEn": "카롤루스 대제 대관",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0058",
+    "title": "바이킹의 린디스판 약탈",
+    "year": 793,
+    "place": "린디스판",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 55.669,
+    "lon": -1.801,
+    "category": "war",
+    "summary": "수도원 약탈은 북유럽 바이킹 활동이 서유럽에 본격적으로 알려진 상징적 사건이다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "린디스판"
+    ],
+    "keyPoints": [
+      "수도원 약탈은 북유럽 바이킹 활동이 서유럽에 본격적으로 알려진 상징적 사건이다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "793년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "바이킹의 린디스판 약탈",
+    "wikiQueryEn": "바이킹의 린디스판 약탈",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0059",
+    "title": "앙코르 건설과 크메르 성장",
+    "year": 802,
+    "place": "앙코르",
+    "country": "캄보디아",
+    "region": "동남아시아",
+    "lat": 13.4125,
+    "lon": 103.867,
+    "category": "politics",
+    "summary": "크메르 왕권이 관개·사원 건설과 함께 메콩 지역의 강력한 국가 체제를 발전시켰다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "앙코르"
+    ],
+    "keyPoints": [
+      "크메르 왕권이 관개·사원 건설과 함께 메콩 지역의 강력한 국가 체제를 발전시켰다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "802년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "앙코르 건설과 크메르 성장",
+    "wikiQueryEn": "앙코르 건설과 크메르 성장",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0060",
+    "title": "키예프 루스 형성",
+    "year": 882,
+    "place": "키이우",
+    "country": "우크라이나",
+    "region": "유럽",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "category": "politics",
+    "summary": "동유럽 교역로를 기반으로 한 루스 국가가 형성되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "키이우"
+    ],
+    "keyPoints": [
+      "동유럽 교역로를 기반으로 한 루스 국가가 형성되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "882년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "키예프 루스 형성",
+    "wikiQueryEn": "키예프 루스 형성",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0061",
+    "title": "고려 건국",
+    "year": 918,
+    "place": "개성",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.9708,
+    "lon": 126.5544,
+    "category": "politics",
+    "summary": "왕건이 고려를 세우고 후삼국 통일의 기반을 마련했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "개성"
+    ],
+    "keyPoints": [
+      "왕건이 고려를 세우고 후삼국 통일의 기반을 마련했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "918년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "고려 건국",
+    "wikiQueryEn": "고려 건국",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0062",
+    "title": "송 왕조 성립",
+    "year": 960,
+    "place": "카이펑",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 34.7973,
+    "lon": 114.3076,
+    "category": "politics",
+    "summary": "송은 문치 관료제와 상업·도시 경제의 발전으로 동아시아 경제사에 큰 변화를 만들었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "카이펑"
+    ],
+    "keyPoints": [
+      "송은 문치 관료제와 상업·도시 경제의 발전으로 동아시아 경제사에 큰 변화를 만들었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "960년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "송 왕조 성립",
+    "wikiQueryEn": "송 왕조 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0063",
+    "title": "노르만 잉글랜드 정복",
+    "year": 1066,
+    "place": "헤이스팅스",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 50.8543,
+    "lon": 0.5735,
+    "category": "war",
+    "summary": "노르망디 공 윌리엄의 승리로 잉글랜드의 정치 엘리트와 언어·토지제도가 크게 재편되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "헤이스팅스"
+    ],
+    "keyPoints": [
+      "노르망디 공 윌리엄의 승리로 잉글랜드의 정치 엘리트와 언어·토지제도가 크게 재편되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1066년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "노르만 잉글랜드 정복",
+    "wikiQueryEn": "노르만 잉글랜드 정복",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0064",
+    "title": "카노사의 굴욕",
+    "year": 1077,
+    "place": "카노사",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 44.577,
+    "lon": 10.456,
+    "category": "politics",
+    "summary": "서임권 분쟁에서 교황권과 황제권의 긴장이 상징적으로 드러난 사건이다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "카노사"
+    ],
+    "keyPoints": [
+      "서임권 분쟁에서 교황권과 황제권의 긴장이 상징적으로 드러난 사건이다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1077년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "카노사의 굴욕",
+    "wikiQueryEn": "카노사의 굴욕",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0065",
+    "title": "제1차 십자군 예루살렘 점령",
+    "year": 1099,
+    "place": "예루살렘",
+    "country": "이스라엘/팔레스타인",
+    "region": "서아시아",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "category": "war",
+    "summary": "십자군이 예루살렘을 점령하고 레반트에 십자군 국가를 세웠다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "예루살렘"
+    ],
+    "keyPoints": [
+      "십자군이 예루살렘을 점령하고 레반트에 십자군 국가를 세웠다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1099년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "제1차 십자군 예루살렘 점령",
+    "wikiQueryEn": "제1차 십자군 예루살렘 점령",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0066",
+    "title": "마추픽추 건설 시작",
+    "year": 1450,
+    "place": "마추픽추",
+    "country": "페루",
+    "region": "남아메리카",
+    "lat": -13.1631,
+    "lon": -72.545,
+    "category": "architecture",
+    "summary": "잉카 제국의 산악 건축·농업·도로 체계를 보여주는 대표 유적이 조성되었다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "마추픽추"
+    ],
+    "keyPoints": [
+      "잉카 제국의 산악 건축·농업·도로 체계를 보여주는 대표 유적이 조성되었다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "1450년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "마추픽추 건설 시작",
+    "wikiQueryEn": "마추픽추 건설 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0067",
+    "title": "앙코르와트 건설",
+    "year": 1122,
+    "place": "앙코르",
+    "country": "캄보디아",
+    "region": "동남아시아",
+    "lat": 13.4125,
+    "lon": 103.867,
+    "category": "architecture",
+    "summary": "크메르 제국의 종교·왕권·토목 기술을 보여주는 거대한 사원 단지가 건설되었다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "앙코르"
+    ],
+    "keyPoints": [
+      "크메르 제국의 종교·왕권·토목 기술을 보여주는 거대한 사원 단지가 건설되었다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "1122년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "앙코르와트 건설",
+    "wikiQueryEn": "앙코르와트 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0068",
+    "title": "칭기즈 칸 몽골 통일",
+    "year": 1206,
+    "place": "오논강 지역",
+    "country": "몽골",
+    "region": "중앙아시아",
+    "lat": 48.0,
+    "lon": 110.0,
+    "category": "politics",
+    "summary": "테무진이 칭기즈 칸으로 추대되어 몽골 부족 통합과 대제국 확장의 기반을 만들었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "오논강 지역"
+    ],
+    "keyPoints": [
+      "테무진이 칭기즈 칸으로 추대되어 몽골 부족 통합과 대제국 확장의 기반을 만들었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1206년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "칭기즈 칸 몽골 통일",
+    "wikiQueryEn": "칭기즈 칸 몽골 통일",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0069",
+    "title": "몽골의 중도 정복",
+    "year": 1215,
+    "place": "중도(베이징)",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "war",
+    "summary": "몽골군이 금의 수도를 점령하며 북중국 지배를 확대했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "중도(베이징)"
+    ],
+    "keyPoints": [
+      "몽골군이 금의 수도를 점령하며 북중국 지배를 확대했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1215년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "몽골의 중도 정복",
+    "wikiQueryEn": "몽골의 중도 정복",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0070",
+    "title": "바그다드 함락",
+    "year": 1258,
+    "place": "바그다드",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "category": "war",
+    "summary": "훌라구의 몽골군이 바그다드를 점령해 압바스 칼리프 권력의 큰 전환을 만들었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "바그다드"
+    ],
+    "keyPoints": [
+      "훌라구의 몽골군이 바그다드를 점령해 압바스 칼리프 권력의 큰 전환을 만들었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1258년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "바그다드 함락",
+    "wikiQueryEn": "바그다드 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0071",
+    "title": "원 왕조 국호 확정",
+    "year": 1271,
+    "place": "대도(베이징)",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "politics",
+    "summary": "쿠빌라이가 원을 국호로 삼아 중국식 제국 통치와 몽골 제국 전통을 결합했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "대도(베이징)"
+    ],
+    "keyPoints": [
+      "쿠빌라이가 원을 국호로 삼아 중국식 제국 통치와 몽골 제국 전통을 결합했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1271년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "원 왕조 국호 확정",
+    "wikiQueryEn": "원 왕조 국호 확정",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0072",
+    "title": "마르코 폴로 동방 여행",
+    "year": 1271,
+    "place": "베네치아",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "category": "exploration",
+    "summary": "베네치아 상인의 장거리 여행 기록은 유럽인의 아시아 인식에 큰 영향을 주었다.",
+    "significance": "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "베네치아"
+    ],
+    "keyPoints": [
+      "베네치아 상인의 장거리 여행 기록은 유럽인의 아시아 인식에 큰 영향을 주었다.",
+      "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+      "1271년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "마르코 폴로 동방 여행",
+    "wikiQueryEn": "마르코 폴로 동방 여행",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0073",
+    "title": "오스만 국가 형성",
+    "year": 1299,
+    "place": "쇠위트",
+    "country": "튀르키예",
+    "region": "서아시아",
+    "lat": 40.014,
+    "lon": 30.184,
+    "category": "politics",
+    "summary": "아나톨리아 북서부의 작은 세력이 이후 동지중해 대제국으로 성장하기 시작했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "쇠위트"
+    ],
+    "keyPoints": [
+      "아나톨리아 북서부의 작은 세력이 이후 동지중해 대제국으로 성장하기 시작했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1299년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "오스만 국가 형성",
+    "wikiQueryEn": "오스만 국가 형성",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0074",
+    "title": "말리 만사 무사 순례",
+    "year": 1324,
+    "place": "팀북투",
+    "country": "말리",
+    "region": "서아프리카",
+    "lat": 16.7666,
+    "lon": -3.0026,
+    "category": "economy",
+    "summary": "막대한 금과 수행단을 동반한 순례가 서아프리카 말리 제국을 지중해 세계에 널리 알렸다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "팀북투"
+    ],
+    "keyPoints": [
+      "막대한 금과 수행단을 동반한 순례가 서아프리카 말리 제국을 지중해 세계에 널리 알렸다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "1324년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "말리 만사 무사 순례",
+    "wikiQueryEn": "말리 만사 무사 순례",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0075",
+    "title": "흑사병 유럽 확산",
+    "year": 1347,
+    "place": "메시나",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 38.1938,
+    "lon": 15.554,
+    "category": "society",
+    "summary": "대규모 전염병이 인구·노동·경제·종교생활에 장기적인 충격을 주었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "메시나"
+    ],
+    "keyPoints": [
+      "대규모 전염병이 인구·노동·경제·종교생활에 장기적인 충격을 주었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1347년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "흑사병 유럽 확산",
+    "wikiQueryEn": "흑사병 유럽 확산",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0076",
+    "title": "백년전쟁 시작",
+    "year": 1337,
+    "place": "프랑스 북부",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 49.5,
+    "lon": 2.5,
+    "category": "war",
+    "summary": "잉글랜드와 프랑스 왕권의 왕위·영토 분쟁이 장기전으로 이어졌다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "프랑스 북부"
+    ],
+    "keyPoints": [
+      "잉글랜드와 프랑스 왕권의 왕위·영토 분쟁이 장기전으로 이어졌다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1337년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "백년전쟁 시작",
+    "wikiQueryEn": "백년전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0077",
+    "title": "명 왕조 성립",
+    "year": 1368,
+    "place": "난징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 32.0603,
+    "lon": 118.7969,
+    "category": "politics",
+    "summary": "주원장이 원을 몰아내고 명을 세워 중국 왕조 질서를 재편했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "난징"
+    ],
+    "keyPoints": [
+      "주원장이 원을 몰아내고 명을 세워 중국 왕조 질서를 재편했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1368년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "명 왕조 성립",
+    "wikiQueryEn": "명 왕조 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0078",
+    "title": "조선 건국",
+    "year": 1392,
+    "place": "한양",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "category": "politics",
+    "summary": "이성계가 조선을 세우고 유교적 관료 국가를 새롭게 정비했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "한양"
+    ],
+    "keyPoints": [
+      "이성계가 조선을 세우고 유교적 관료 국가를 새롭게 정비했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1392년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "조선 건국",
+    "wikiQueryEn": "조선 건국",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0079",
+    "title": "정화의 첫 항해",
+    "year": 1405,
+    "place": "난징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 32.0603,
+    "lon": 118.7969,
+    "category": "exploration",
+    "summary": "명 조정의 대규모 함대가 동남아와 인도양의 외교·교역망을 순항했다.",
+    "significance": "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "난징"
+    ],
+    "keyPoints": [
+      "명 조정의 대규모 함대가 동남아와 인도양의 외교·교역망을 순항했다.",
+      "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+      "1405년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "정화의 첫 항해",
+    "wikiQueryEn": "정화의 첫 항해",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0080",
+    "title": "금속활자 직지 인쇄",
+    "year": 1377,
+    "place": "청주",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 36.6424,
+    "lon": 127.489,
+    "category": "culture",
+    "summary": "현존하는 가장 오래된 금속활자 인쇄본으로 알려진 직지가 간행되었다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "청주"
+    ],
+    "keyPoints": [
+      "현존하는 가장 오래된 금속활자 인쇄본으로 알려진 직지가 간행되었다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "1377년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "금속활자 직지 인쇄",
+    "wikiQueryEn": "금속활자 직지 인쇄",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0081",
+    "title": "구텐베르크 인쇄술 확산",
+    "year": 1450,
+    "place": "마인츠",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 49.9929,
+    "lon": 8.2473,
+    "category": "technology",
+    "summary": "금속활자와 인쇄 공정의 결합이 유럽에서 책의 대량 생산과 지식 확산을 촉진했다.",
+    "significance": "새 기술이 생산·정보·이동의 비용을 낮추며 사회 구조를 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "마인츠"
+    ],
+    "keyPoints": [
+      "금속활자와 인쇄 공정의 결합이 유럽에서 책의 대량 생산과 지식 확산을 촉진했다.",
+      "새 기술이 생산·정보·이동의 비용을 낮추며 사회 구조를 바꾸는 과정을 보여준다.",
+      "1450년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "구텐베르크 인쇄술 확산",
+    "wikiQueryEn": "구텐베르크 인쇄술 확산",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0082",
+    "title": "콘스탄티노폴리스 함락",
+    "year": 1453,
+    "place": "콘스탄티노폴리스",
+    "country": "튀르키예",
+    "region": "유럽/서아시아",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "category": "war",
+    "summary": "오스만군이 동로마 수도를 점령해 동지중해 권력 질서를 크게 바꾸었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "콘스탄티노폴리스"
+    ],
+    "keyPoints": [
+      "오스만군이 동로마 수도를 점령해 동지중해 권력 질서를 크게 바꾸었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1453년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "콘스탄티노폴리스 함락",
+    "wikiQueryEn": "콘스탄티노폴리스 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0083",
+    "title": "콜럼버스의 대서양 항해",
+    "year": 1492,
+    "place": "산살바도르",
+    "country": "바하마",
+    "region": "카리브해",
+    "lat": 24.06,
+    "lon": -74.52,
+    "category": "exploration",
+    "summary": "유럽과 아메리카의 지속적 접촉이 시작되며 세계 교역·질병·정복의 흐름이 급격히 바뀌었다.",
+    "significance": "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "산살바도르"
+    ],
+    "keyPoints": [
+      "유럽과 아메리카의 지속적 접촉이 시작되며 세계 교역·질병·정복의 흐름이 급격히 바뀌었다.",
+      "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+      "1492년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "콜럼버스의 대서양 항해",
+    "wikiQueryEn": "콜럼버스의 대서양 항해",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0084",
+    "title": "그라나다 함락",
+    "year": 1492,
+    "place": "그라나다",
+    "country": "스페인",
+    "region": "유럽",
+    "lat": 37.1773,
+    "lon": -3.5986,
+    "category": "war",
+    "summary": "이베리아 반도의 마지막 이슬람 왕국이 함락되어 레콩키스타가 마무리되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "그라나다"
+    ],
+    "keyPoints": [
+      "이베리아 반도의 마지막 이슬람 왕국이 함락되어 레콩키스타가 마무리되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1492년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "그라나다 함락",
+    "wikiQueryEn": "그라나다 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0085",
+    "title": "바스쿠 다 가마 인도 도착",
+    "year": 1498,
+    "place": "캘리컷",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 11.2588,
+    "lon": 75.7804,
+    "category": "exploration",
+    "summary": "유럽에서 희망봉을 돌아 인도양으로 연결되는 직항 해상로가 열렸다.",
+    "significance": "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "캘리컷"
+    ],
+    "keyPoints": [
+      "유럽에서 희망봉을 돌아 인도양으로 연결되는 직항 해상로가 열렸다.",
+      "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+      "1498년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "바스쿠 다 가마 인도 도착",
+    "wikiQueryEn": "바스쿠 다 가마 인도 도착",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0086",
+    "title": "사파비 왕조 성립",
+    "year": 1501,
+    "place": "타브리즈",
+    "country": "이란",
+    "region": "서아시아",
+    "lat": 38.0962,
+    "lon": 46.2738,
+    "category": "politics",
+    "summary": "사파비가 이란에 시아파 국가 정체성을 강화하며 오스만과 경쟁하는 강국이 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "타브리즈"
+    ],
+    "keyPoints": [
+      "사파비가 이란에 시아파 국가 정체성을 강화하며 오스만과 경쟁하는 강국이 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1501년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "사파비 왕조 성립",
+    "wikiQueryEn": "사파비 왕조 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0087",
+    "title": "테노치티틀란 함락",
+    "year": 1521,
+    "place": "멕시코시티",
+    "country": "멕시코",
+    "region": "북아메리카",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "category": "war",
+    "summary": "스페인-원주민 연합군이 아즈텍 수도를 점령하며 식민 통치가 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "멕시코시티"
+    ],
+    "keyPoints": [
+      "스페인-원주민 연합군이 아즈텍 수도를 점령하며 식민 통치가 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1521년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "테노치티틀란 함락",
+    "wikiQueryEn": "테노치티틀란 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0088",
+    "title": "루터 95개조",
+    "year": 1517,
+    "place": "비텐베르크",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 51.866,
+    "lon": 12.646,
+    "category": "religion",
+    "summary": "교회 비판과 구원 논쟁이 종교개혁의 폭넓은 운동으로 확산되는 계기가 되었다.",
+    "significance": "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "비텐베르크"
+    ],
+    "keyPoints": [
+      "교회 비판과 구원 논쟁이 종교개혁의 폭넓은 운동으로 확산되는 계기가 되었다.",
+      "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+      "1517년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "루터 95개조",
+    "wikiQueryEn": "루터 95개조",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0089",
+    "title": "마젤란-엘카노 세계일주",
+    "year": 1522,
+    "place": "세비야",
+    "country": "스페인",
+    "region": "유럽",
+    "lat": 37.3891,
+    "lon": -5.9845,
+    "category": "exploration",
+    "summary": "최초의 세계일주 항해가 지구 규모 해상 연결과 대양 항해 가능성을 입증했다.",
+    "significance": "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "세비야"
+    ],
+    "keyPoints": [
+      "최초의 세계일주 항해가 지구 규모 해상 연결과 대양 항해 가능성을 입증했다.",
+      "장거리 이동과 항해가 교역·제국·지식·질병의 세계적 연결을 어떻게 바꾸었는지 보여준다.",
+      "1522년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "마젤란-엘카노 세계일주",
+    "wikiQueryEn": "마젤란-엘카노 세계일주",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0090",
+    "title": "잉카 제국 쿠스코 함락",
+    "year": 1533,
+    "place": "쿠스코",
+    "country": "페루",
+    "region": "남아메리카",
+    "lat": -13.5319,
+    "lon": -71.9675,
+    "category": "war",
+    "summary": "스페인 정복자들이 잉카 정치 중심을 장악하며 안데스 식민 통치가 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "쿠스코"
+    ],
+    "keyPoints": [
+      "스페인 정복자들이 잉카 정치 중심을 장악하며 안데스 식민 통치가 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1533년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "잉카 제국 쿠스코 함락",
+    "wikiQueryEn": "잉카 제국 쿠스코 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0091",
+    "title": "무굴 제국 성립",
+    "year": 1526,
+    "place": "파니파트",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 29.3909,
+    "lon": 76.9635,
+    "category": "war",
+    "summary": "바부르가 파니파트 전투에서 승리해 북인도 무굴 제국의 기반을 세웠다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "파니파트"
+    ],
+    "keyPoints": [
+      "바부르가 파니파트 전투에서 승리해 북인도 무굴 제국의 기반을 세웠다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1526년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "무굴 제국 성립",
+    "wikiQueryEn": "무굴 제국 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0092",
+    "title": "코페르니쿠스 지동설 출판",
+    "year": 1543,
+    "place": "뉘른베르크",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 49.4521,
+    "lon": 11.0767,
+    "category": "science",
+    "summary": "태양 중심 우주모형이 출판되어 유럽 천문학의 장기적 패러다임 전환을 촉진했다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "뉘른베르크"
+    ],
+    "keyPoints": [
+      "태양 중심 우주모형이 출판되어 유럽 천문학의 장기적 패러다임 전환을 촉진했다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "1543년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "코페르니쿠스 지동설 출판",
+    "wikiQueryEn": "코페르니쿠스 지동설 출판",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0093",
+    "title": "트리엔트 공의회 시작",
+    "year": 1545,
+    "place": "트렌토",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 46.0748,
+    "lon": 11.1217,
+    "category": "religion",
+    "summary": "가톨릭 교회가 종교개혁에 대응해 교리와 제도 개혁을 정비했다.",
+    "significance": "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "트렌토"
+    ],
+    "keyPoints": [
+      "가톨릭 교회가 종교개혁에 대응해 교리와 제도 개혁을 정비했다.",
+      "신앙·제도·사상이 정치와 일상생활, 지역 간 문화 교류에 미친 영향을 보여준다.",
+      "1545년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "트리엔트 공의회 시작",
+    "wikiQueryEn": "트리엔트 공의회 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0094",
+    "title": "임진왜란 발발",
+    "year": 1592,
+    "place": "부산",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 35.1796,
+    "lon": 129.0756,
+    "category": "war",
+    "summary": "도요토미 정권의 조선 침공으로 동아시아 국제전이 시작되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "부산"
+    ],
+    "keyPoints": [
+      "도요토미 정권의 조선 침공으로 동아시아 국제전이 시작되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1592년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "임진왜란 발발",
+    "wikiQueryEn": "임진왜란 발발",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0095",
+    "title": "한산도 대첩",
+    "year": 1592,
+    "place": "한산도",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 34.767,
+    "lon": 128.5,
+    "category": "war",
+    "summary": "조선 수군이 일본 수군을 격파해 해상 보급로와 제해권에 큰 영향을 주었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "한산도"
+    ],
+    "keyPoints": [
+      "조선 수군이 일본 수군을 격파해 해상 보급로와 제해권에 큰 영향을 주었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1592년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "한산도 대첩",
+    "wikiQueryEn": "한산도 대첩",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0096",
+    "title": "세키가하라 전투",
+    "year": 1600,
+    "place": "세키가하라",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.3656,
+    "lon": 136.467,
+    "category": "war",
+    "summary": "도쿠가와 이에야스가 전국적 권력 경쟁에서 우위를 확보해 막부 수립의 길을 열었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "세키가하라"
+    ],
+    "keyPoints": [
+      "도쿠가와 이에야스가 전국적 권력 경쟁에서 우위를 확보해 막부 수립의 길을 열었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1600년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "세키가하라 전투",
+    "wikiQueryEn": "세키가하라 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0097",
+    "title": "동인도회사 VOC 설립",
+    "year": 1602,
+    "place": "암스테르담",
+    "country": "네덜란드",
+    "region": "유럽",
+    "lat": 52.3676,
+    "lon": 4.9041,
+    "category": "economy",
+    "summary": "주식회사·해외무역·군사력을 결합한 대규모 상업 조직이 아시아 무역에 진출했다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "암스테르담"
+    ],
+    "keyPoints": [
+      "주식회사·해외무역·군사력을 결합한 대규모 상업 조직이 아시아 무역에 진출했다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "1602년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "동인도회사 VOC 설립",
+    "wikiQueryEn": "동인도회사 VOC 설립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0098",
+    "title": "갈릴레이 망원경 관측",
+    "year": 1609,
+    "place": "파도바",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 45.4064,
+    "lon": 11.8768,
+    "category": "science",
+    "summary": "망원경 천문 관측이 기존 우주관 논쟁에 새로운 관측 증거를 제공했다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "파도바"
+    ],
+    "keyPoints": [
+      "망원경 천문 관측이 기존 우주관 논쟁에 새로운 관측 증거를 제공했다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "1609년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "갈릴레이 망원경 관측",
+    "wikiQueryEn": "갈릴레이 망원경 관측",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0099",
+    "title": "도쿠가와 막부 수립",
+    "year": 1603,
+    "place": "에도",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "category": "politics",
+    "summary": "도쿠가와 이에야스가 쇼군에 임명되며 에도 시대의 막번 체제가 시작되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "에도"
+    ],
+    "keyPoints": [
+      "도쿠가와 이에야스가 쇼군에 임명되며 에도 시대의 막번 체제가 시작되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1603년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "도쿠가와 막부 수립",
+    "wikiQueryEn": "도쿠가와 막부 수립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0100",
+    "title": "메이플라워 플리머스 정착",
+    "year": 1620,
+    "place": "플리머스",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 41.9584,
+    "lon": -70.6673,
+    "category": "society",
+    "summary": "영국계 정착민 사회가 뉴잉글랜드에서 형성되며 북미 식민화가 확대되었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "플리머스"
+    ],
+    "keyPoints": [
+      "영국계 정착민 사회가 뉴잉글랜드에서 형성되며 북미 식민화가 확대되었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1620년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "메이플라워 플리머스 정착",
+    "wikiQueryEn": "메이플라워 플리머스 정착",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0101",
+    "title": "30년 전쟁 시작",
+    "year": 1618,
+    "place": "프라하",
+    "country": "체코",
+    "region": "유럽",
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "category": "war",
+    "summary": "종교·왕조·영토 갈등이 중부유럽을 휩쓴 장기전으로 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "프라하"
+    ],
+    "keyPoints": [
+      "종교·왕조·영토 갈등이 중부유럽을 휩쓴 장기전으로 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1618년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "30년 전쟁 시작",
+    "wikiQueryEn": "30년 전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0102",
+    "title": "웨스트팔리아 조약",
+    "year": 1648,
+    "place": "뮌스터",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 51.9607,
+    "lon": 7.6261,
+    "category": "politics",
+    "summary": "30년 전쟁을 종결한 조약군이 유럽 국가 질서와 종교 문제의 새로운 균형을 만들었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "뮌스터"
+    ],
+    "keyPoints": [
+      "30년 전쟁을 종결한 조약군이 유럽 국가 질서와 종교 문제의 새로운 균형을 만들었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1648년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "웨스트팔리아 조약",
+    "wikiQueryEn": "웨스트팔리아 조약",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0103",
+    "title": "청의 베이징 입성",
+    "year": 1644,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "politics",
+    "summary": "명 붕괴 속에서 청군이 베이징에 들어와 중국 지배를 확대했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베이징"
+    ],
+    "keyPoints": [
+      "명 붕괴 속에서 청군이 베이징에 들어와 중국 지배를 확대했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1644년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "청의 베이징 입성",
+    "wikiQueryEn": "청의 베이징 입성",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0104",
+    "title": "영국 명예혁명",
+    "year": 1688,
+    "place": "런던",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "category": "politics",
+    "summary": "왕위 교체와 권리장전으로 의회 중심 입헌 체제가 강화되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "런던"
+    ],
+    "keyPoints": [
+      "왕위 교체와 권리장전으로 의회 중심 입헌 체제가 강화되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1688년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "영국 명예혁명",
+    "wikiQueryEn": "영국 명예혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0105",
+    "title": "뉴턴 프린키피아 출판",
+    "year": 1687,
+    "place": "런던",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "category": "science",
+    "summary": "운동 법칙과 만유인력 이론이 수학적 자연과학의 강력한 통합 모델을 제시했다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "런던"
+    ],
+    "keyPoints": [
+      "운동 법칙과 만유인력 이론이 수학적 자연과학의 강력한 통합 모델을 제시했다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "1687년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "뉴턴 프린키피아 출판",
+    "wikiQueryEn": "뉴턴 프린키피아 출판",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0106",
+    "title": "표트르 대제 상트페테르부르크 건설",
+    "year": 1703,
+    "place": "상트페테르부르크",
+    "country": "러시아",
+    "region": "유럽",
+    "lat": 59.9311,
+    "lon": 30.3609,
+    "category": "architecture",
+    "summary": "발트해를 향한 새 수도 건설이 러시아의 서구화·해양 진출 정책을 상징했다.",
+    "significance": "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+    "people": [],
+    "relatedPlaces": [
+      "상트페테르부르크"
+    ],
+    "keyPoints": [
+      "발트해를 향한 새 수도 건설이 러시아의 서구화·해양 진출 정책을 상징했다.",
+      "건축과 기반시설을 통해 당시 국가 역량, 기술, 종교·권력의 표현 방식을 볼 수 있다.",
+      "1703년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "표트르 대제 상트페테르부르크 건설",
+    "wikiQueryEn": "표트르 대제 상트페테르부르크 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0107",
+    "title": "대북방전쟁 종료",
+    "year": 1721,
+    "place": "니스타드",
+    "country": "핀란드",
+    "region": "유럽",
+    "lat": 60.8,
+    "lon": 21.4,
+    "category": "war",
+    "summary": "러시아가 발트해 강국으로 부상하고 스웨덴의 패권이 약화되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "니스타드"
+    ],
+    "keyPoints": [
+      "러시아가 발트해 강국으로 부상하고 스웨덴의 패권이 약화되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1721년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "대북방전쟁 종료",
+    "wikiQueryEn": "대북방전쟁 종료",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0108",
+    "title": "계몽사상 확산",
+    "year": 1751,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "culture",
+    "summary": "백과전서 출판을 비롯한 지식 운동이 이성·권리·진보에 관한 논의를 확산시켰다.",
+    "significance": "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "백과전서 출판을 비롯한 지식 운동이 이성·권리·진보에 관한 논의를 확산시켰다.",
+      "지식·문자·예술·교육이 사회의 장기 변화와 어떻게 연결되는지 보여준다.",
+      "1751년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "계몽사상 확산",
+    "wikiQueryEn": "계몽사상 확산",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0109",
+    "title": "플라시 전투",
+    "year": 1757,
+    "place": "플라시",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 23.783,
+    "lon": 88.25,
+    "category": "war",
+    "summary": "영국 동인도회사가 벵골 정치에 결정적 영향력을 확보하는 계기가 되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "플라시"
+    ],
+    "keyPoints": [
+      "영국 동인도회사가 벵골 정치에 결정적 영향력을 확보하는 계기가 되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1757년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "플라시 전투",
+    "wikiQueryEn": "플라시 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0110",
+    "title": "미국 독립선언",
+    "year": 1776,
+    "place": "필라델피아",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 39.9526,
+    "lon": -75.1652,
+    "category": "politics",
+    "summary": "13개 식민지가 영국으로부터의 독립을 선언하고 자연권·국민주권 언어를 제시했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "필라델피아"
+    ],
+    "keyPoints": [
+      "13개 식민지가 영국으로부터의 독립을 선언하고 자연권·국민주권 언어를 제시했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1776년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "미국 독립선언",
+    "wikiQueryEn": "미국 독립선언",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0111",
+    "title": "미국 헌법 제정",
+    "year": 1787,
+    "place": "필라델피아",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 39.9526,
+    "lon": -75.1652,
+    "category": "politics",
+    "summary": "연방제·권력분립을 갖춘 헌정 체제가 설계되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "필라델피아"
+    ],
+    "keyPoints": [
+      "연방제·권력분립을 갖춘 헌정 체제가 설계되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1787년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "미국 헌법 제정",
+    "wikiQueryEn": "미국 헌법 제정",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0112",
+    "title": "프랑스 혁명 시작",
+    "year": 1789,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "politics",
+    "summary": "바스티유 함락과 국민의회 활동으로 구체제의 정치·사회 질서가 흔들렸다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "바스티유 함락과 국민의회 활동으로 구체제의 정치·사회 질서가 흔들렸다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1789년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "프랑스 혁명 시작",
+    "wikiQueryEn": "프랑스 혁명 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0113",
+    "title": "아이티 혁명 시작",
+    "year": 1791,
+    "place": "생도맹그",
+    "country": "아이티",
+    "region": "카리브해",
+    "lat": 18.5944,
+    "lon": -72.3074,
+    "category": "society",
+    "summary": "노예 반란이 식민 지배와 노예제를 무너뜨리는 혁명으로 발전했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "생도맹그"
+    ],
+    "keyPoints": [
+      "노예 반란이 식민 지배와 노예제를 무너뜨리는 혁명으로 발전했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1791년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아이티 혁명 시작",
+    "wikiQueryEn": "아이티 혁명 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0114",
+    "title": "나폴레옹 황제 대관",
+    "year": 1804,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "politics",
+    "summary": "혁명 이후의 프랑스에서 나폴레옹이 황제로 즉위하며 새로운 제국 질서를 세웠다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "혁명 이후의 프랑스에서 나폴레옹이 황제로 즉위하며 새로운 제국 질서를 세웠다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1804년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "나폴레옹 황제 대관",
+    "wikiQueryEn": "나폴레옹 황제 대관",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0115",
+    "title": "아이티 독립",
+    "year": 1804,
+    "place": "고나이브",
+    "country": "아이티",
+    "region": "카리브해",
+    "lat": 19.45,
+    "lon": -72.683,
+    "category": "politics",
+    "summary": "노예제 기반 식민지를 무너뜨린 독립국이 탄생했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "고나이브"
+    ],
+    "keyPoints": [
+      "노예제 기반 식민지를 무너뜨린 독립국이 탄생했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1804년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아이티 독립",
+    "wikiQueryEn": "아이티 독립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0116",
+    "title": "빈 회의",
+    "year": 1815,
+    "place": "빈",
+    "country": "오스트리아",
+    "region": "유럽",
+    "lat": 48.2082,
+    "lon": 16.3738,
+    "category": "politics",
+    "summary": "나폴레옹 전쟁 이후 유럽 열강이 세력 균형과 왕정 복구를 중심으로 국제질서를 재편했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "빈"
+    ],
+    "keyPoints": [
+      "나폴레옹 전쟁 이후 유럽 열강이 세력 균형과 왕정 복구를 중심으로 국제질서를 재편했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1815년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "빈 회의",
+    "wikiQueryEn": "빈 회의",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0117",
+    "title": "워털루 전투",
+    "year": 1815,
+    "place": "워털루",
+    "country": "벨기에",
+    "region": "유럽",
+    "lat": 50.6806,
+    "lon": 4.412,
+    "category": "war",
+    "summary": "나폴레옹의 마지막 패배로 프랑스 제국의 복귀 시도가 끝났다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "워털루"
+    ],
+    "keyPoints": [
+      "나폴레옹의 마지막 패배로 프랑스 제국의 복귀 시도가 끝났다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1815년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "워털루 전투",
+    "wikiQueryEn": "워털루 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0118",
+    "title": "라틴아메리카 독립전쟁",
+    "year": 1819,
+    "place": "보고타",
+    "country": "콜롬비아",
+    "region": "남아메리카",
+    "lat": 4.711,
+    "lon": -74.0721,
+    "category": "politics",
+    "summary": "볼리바르를 비롯한 독립운동이 스페인 식민 지배를 무너뜨리고 새로운 공화국들을 만들었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "보고타"
+    ],
+    "keyPoints": [
+      "볼리바르를 비롯한 독립운동이 스페인 식민 지배를 무너뜨리고 새로운 공화국들을 만들었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1819년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "라틴아메리카 독립전쟁",
+    "wikiQueryEn": "라틴아메리카 독립전쟁",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0119",
+    "title": "그리스 독립전쟁 시작",
+    "year": 1821,
+    "place": "칼라마타",
+    "country": "그리스",
+    "region": "유럽",
+    "lat": 37.0389,
+    "lon": 22.1142,
+    "category": "war",
+    "summary": "오스만 제국으로부터의 독립 운동이 유럽 국제정치와 민족주의에 큰 반향을 일으켰다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "칼라마타"
+    ],
+    "keyPoints": [
+      "오스만 제국으로부터의 독립 운동이 유럽 국제정치와 민족주의에 큰 반향을 일으켰다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1821년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "그리스 독립전쟁 시작",
+    "wikiQueryEn": "그리스 독립전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0120",
+    "title": "증기기관차 철도 개통",
+    "year": 1825,
+    "place": "스톡턴-달링턴",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 54.57,
+    "lon": -1.32,
+    "category": "technology",
+    "summary": "공공 철도에서 증기 기관차가 활용되며 산업화의 운송 혁명이 가속되었다.",
+    "significance": "새 기술이 생산·정보·이동의 비용을 낮추며 사회 구조를 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "스톡턴-달링턴"
+    ],
+    "keyPoints": [
+      "공공 철도에서 증기 기관차가 활용되며 산업화의 운송 혁명이 가속되었다.",
+      "새 기술이 생산·정보·이동의 비용을 낮추며 사회 구조를 바꾸는 과정을 보여준다.",
+      "1825년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "증기기관차 철도 개통",
+    "wikiQueryEn": "증기기관차 철도 개통",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0121",
+    "title": "아편전쟁 시작",
+    "year": 1839,
+    "place": "광저우",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 23.1291,
+    "lon": 113.2644,
+    "category": "war",
+    "summary": "무역·아편·외교 갈등이 영국과 청의 전쟁으로 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "광저우"
+    ],
+    "keyPoints": [
+      "무역·아편·외교 갈등이 영국과 청의 전쟁으로 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1839년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아편전쟁 시작",
+    "wikiQueryEn": "아편전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0122",
+    "title": "난징조약",
+    "year": 1842,
+    "place": "난징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 32.0603,
+    "lon": 118.7969,
+    "category": "politics",
+    "summary": "아편전쟁 뒤 체결된 조약이 중국의 조약항 체제 확대와 주권 제약의 출발점이 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "난징"
+    ],
+    "keyPoints": [
+      "아편전쟁 뒤 체결된 조약이 중국의 조약항 체제 확대와 주권 제약의 출발점이 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1842년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "난징조약",
+    "wikiQueryEn": "난징조약",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0123",
+    "title": "1848년 혁명",
+    "year": 1848,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "politics",
+    "summary": "자유주의·민족주의·사회 개혁 요구가 유럽 여러 지역에서 연쇄 혁명으로 나타났다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "자유주의·민족주의·사회 개혁 요구가 유럽 여러 지역에서 연쇄 혁명으로 나타났다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1848년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "1848년 혁명",
+    "wikiQueryEn": "1848년 혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0124",
+    "title": "태평천국 운동 시작",
+    "year": 1851,
+    "place": "광시",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 23.7,
+    "lon": 108.3,
+    "category": "war",
+    "summary": "청 말 대규모 내전이 사회·재정·군사 구조에 막대한 충격을 주었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "광시"
+    ],
+    "keyPoints": [
+      "청 말 대규모 내전이 사회·재정·군사 구조에 막대한 충격을 주었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1851년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "태평천국 운동 시작",
+    "wikiQueryEn": "태평천국 운동 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0125",
+    "title": "인도 대반란",
+    "year": 1857,
+    "place": "메루트",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 28.9845,
+    "lon": 77.7064,
+    "category": "war",
+    "summary": "동인도회사 지배에 대한 광범위한 반란으로 이후 영국 왕실의 직접 통치가 시작되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "메루트"
+    ],
+    "keyPoints": [
+      "동인도회사 지배에 대한 광범위한 반란으로 이후 영국 왕실의 직접 통치가 시작되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1857년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "인도 대반란",
+    "wikiQueryEn": "인도 대반란",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0126",
+    "title": "다윈 종의 기원 출판",
+    "year": 1859,
+    "place": "런던",
+    "country": "영국",
+    "region": "유럽",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "category": "science",
+    "summary": "자연선택에 의한 진화 이론이 생물학과 인간관에 장기적 변화를 가져왔다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "런던"
+    ],
+    "keyPoints": [
+      "자연선택에 의한 진화 이론이 생물학과 인간관에 장기적 변화를 가져왔다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "1859년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "다윈 종의 기원 출판",
+    "wikiQueryEn": "다윈 종의 기원 출판",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0127",
+    "title": "이탈리아 왕국 성립",
+    "year": 1861,
+    "place": "토리노",
+    "country": "이탈리아",
+    "region": "유럽",
+    "lat": 45.0703,
+    "lon": 7.6869,
+    "category": "politics",
+    "summary": "분열되어 있던 이탈리아 지역의 상당 부분이 하나의 왕국으로 통합되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "토리노"
+    ],
+    "keyPoints": [
+      "분열되어 있던 이탈리아 지역의 상당 부분이 하나의 왕국으로 통합되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1861년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이탈리아 왕국 성립",
+    "wikiQueryEn": "이탈리아 왕국 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0128",
+    "title": "미국 남북전쟁 시작",
+    "year": 1861,
+    "place": "포트섬터",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 32.7523,
+    "lon": -79.8747,
+    "category": "war",
+    "summary": "노예제와 연방·주 권한 갈등이 대규모 내전으로 폭발했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "포트섬터"
+    ],
+    "keyPoints": [
+      "노예제와 연방·주 권한 갈등이 대규모 내전으로 폭발했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1861년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "미국 남북전쟁 시작",
+    "wikiQueryEn": "미국 남북전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0129",
+    "title": "노예해방선언",
+    "year": 1863,
+    "place": "워싱턴 D.C.",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "category": "society",
+    "summary": "링컨의 선언이 남부 반란지역 노예 해방을 전쟁 목표와 결합했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "워싱턴 D.C."
+    ],
+    "keyPoints": [
+      "링컨의 선언이 남부 반란지역 노예 해방을 전쟁 목표와 결합했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1863년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "노예해방선언",
+    "wikiQueryEn": "노예해방선언",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0130",
+    "title": "메이지 유신",
+    "year": 1868,
+    "place": "교토/도쿄",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "politics",
+    "summary": "막부 체제가 무너지고 중앙집권·산업화·군제 개혁이 추진되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "교토/도쿄"
+    ],
+    "keyPoints": [
+      "막부 체제가 무너지고 중앙집권·산업화·군제 개혁이 추진되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1868년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "메이지 유신",
+    "wikiQueryEn": "메이지 유신",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0131",
+    "title": "수에즈 운하 개통",
+    "year": 1869,
+    "place": "수에즈",
+    "country": "이집트",
+    "region": "북아프리카",
+    "lat": 29.9668,
+    "lon": 32.5498,
+    "category": "economy",
+    "summary": "지중해와 홍해를 직접 연결해 유럽-아시아 해상 운송 거리를 크게 줄였다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "수에즈"
+    ],
+    "keyPoints": [
+      "지중해와 홍해를 직접 연결해 유럽-아시아 해상 운송 거리를 크게 줄였다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "1869년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "수에즈 운하 개통",
+    "wikiQueryEn": "수에즈 운하 개통",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0132",
+    "title": "독일 제국 성립",
+    "year": 1871,
+    "place": "베르사유",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8049,
+    "lon": 2.1204,
+    "category": "politics",
+    "summary": "프로이센 주도의 통일로 중부유럽의 세력 균형이 크게 바뀌었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베르사유"
+    ],
+    "keyPoints": [
+      "프로이센 주도의 통일로 중부유럽의 세력 균형이 크게 바뀌었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1871년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "독일 제국 성립",
+    "wikiQueryEn": "독일 제국 성립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0133",
+    "title": "파리 코뮌",
+    "year": 1871,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "society",
+    "summary": "보불전쟁 직후 파리에서 급진적 자치정부가 등장해 노동·사회주의 운동의 상징이 되었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "보불전쟁 직후 파리에서 급진적 자치정부가 등장해 노동·사회주의 운동의 상징이 되었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1871년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "파리 코뮌",
+    "wikiQueryEn": "파리 코뮌",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0134",
+    "title": "베를린 회의",
+    "year": 1884,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽/아프리카",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "politics",
+    "summary": "유럽 열강이 아프리카 식민지 점유 규칙을 논의하며 제국주의 분할을 가속했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베를린"
+    ],
+    "keyPoints": [
+      "유럽 열강이 아프리카 식민지 점유 규칙을 논의하며 제국주의 분할을 가속했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1884년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "베를린 회의",
+    "wikiQueryEn": "베를린 회의",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0135",
+    "title": "청일전쟁 시작",
+    "year": 1894,
+    "place": "아산/평양",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 36.7898,
+    "lon": 127.0018,
+    "category": "war",
+    "summary": "조선을 둘러싼 청과 일본의 경쟁이 전쟁으로 확대되어 동아시아 세력 균형을 바꾸었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "아산/평양"
+    ],
+    "keyPoints": [
+      "조선을 둘러싼 청과 일본의 경쟁이 전쟁으로 확대되어 동아시아 세력 균형을 바꾸었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1894년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "청일전쟁 시작",
+    "wikiQueryEn": "청일전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0136",
+    "title": "아도와 전투",
+    "year": 1896,
+    "place": "아도와",
+    "country": "에티오피아",
+    "region": "동아프리카",
+    "lat": 14.164,
+    "lon": 38.895,
+    "category": "war",
+    "summary": "에티오피아군이 이탈리아 침공을 격퇴해 아프리카 반식민 저항의 상징이 되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "아도와"
+    ],
+    "keyPoints": [
+      "에티오피아군이 이탈리아 침공을 격퇴해 아프리카 반식민 저항의 상징이 되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1896년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아도와 전투",
+    "wikiQueryEn": "아도와 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0137",
+    "title": "의화단 운동",
+    "year": 1900,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "war",
+    "summary": "반외세 운동과 열강의 군사 개입이 청 말 국제 질서의 위기를 심화시켰다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "베이징"
+    ],
+    "keyPoints": [
+      "반외세 운동과 열강의 군사 개입이 청 말 국제 질서의 위기를 심화시켰다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1900년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "의화단 운동",
+    "wikiQueryEn": "의화단 운동",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0138",
+    "title": "러일전쟁 시작",
+    "year": 1904,
+    "place": "뤼순",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 38.812,
+    "lon": 121.242,
+    "category": "war",
+    "summary": "만주와 한반도 영향력을 둘러싼 러시아와 일본의 전쟁이 동아시아 국제질서를 재편했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "뤼순"
+    ],
+    "keyPoints": [
+      "만주와 한반도 영향력을 둘러싼 러시아와 일본의 전쟁이 동아시아 국제질서를 재편했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1904년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "러일전쟁 시작",
+    "wikiQueryEn": "러일전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0139",
+    "title": "러시아 1905년 혁명",
+    "year": 1905,
+    "place": "상트페테르부르크",
+    "country": "러시아",
+    "region": "유럽",
+    "lat": 59.9311,
+    "lon": 30.3609,
+    "category": "politics",
+    "summary": "전쟁·노동·농민 불만이 대규모 시위와 개혁 요구로 폭발했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "상트페테르부르크"
+    ],
+    "keyPoints": [
+      "전쟁·노동·농민 불만이 대규모 시위와 개혁 요구로 폭발했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1905년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "러시아 1905년 혁명",
+    "wikiQueryEn": "러시아 1905년 혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0140",
+    "title": "신해혁명",
+    "year": 1911,
+    "place": "우창",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 30.5833,
+    "lon": 114.2667,
+    "category": "politics",
+    "summary": "혁명이 청 왕조의 붕괴와 중화민국 수립으로 이어졌다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "우창"
+    ],
+    "keyPoints": [
+      "혁명이 청 왕조의 붕괴와 중화민국 수립으로 이어졌다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1911년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "신해혁명",
+    "wikiQueryEn": "신해혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0141",
+    "title": "타이타닉 침몰",
+    "year": 1912,
+    "place": "북대서양",
+    "country": "국제",
+    "region": "북대서양",
+    "lat": 41.7325,
+    "lon": -49.9469,
+    "category": "society",
+    "summary": "대형 여객선 참사가 해상 안전 규정과 무선통신 체계 개선을 촉진했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "북대서양"
+    ],
+    "keyPoints": [
+      "대형 여객선 참사가 해상 안전 규정과 무선통신 체계 개선을 촉진했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1912년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "타이타닉 침몰",
+    "wikiQueryEn": "타이타닉 침몰",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0142",
+    "title": "제1차 세계대전 시작",
+    "year": 1914,
+    "place": "사라예보/유럽",
+    "country": "보스니아 헤르체고비나",
+    "region": "유럽",
+    "lat": 43.8563,
+    "lon": 18.4131,
+    "category": "war",
+    "summary": "사라예보 암살과 동맹 체계의 연쇄 동원이 유럽 전쟁을 세계전쟁으로 확대했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "사라예보/유럽"
+    ],
+    "keyPoints": [
+      "사라예보 암살과 동맹 체계의 연쇄 동원이 유럽 전쟁을 세계전쟁으로 확대했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1914년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "제1차 세계대전 시작",
+    "wikiQueryEn": "제1차 세계대전 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0143",
+    "title": "갈리폴리 전투",
+    "year": 1915,
+    "place": "갈리폴리",
+    "country": "튀르키예",
+    "region": "유럽/서아시아",
+    "lat": 40.35,
+    "lon": 26.48,
+    "category": "war",
+    "summary": "협상국의 다르다넬스 돌파 시도가 실패해 오스만 전선과 호주·뉴질랜드 기억에 큰 영향을 남겼다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "갈리폴리"
+    ],
+    "keyPoints": [
+      "협상국의 다르다넬스 돌파 시도가 실패해 오스만 전선과 호주·뉴질랜드 기억에 큰 영향을 남겼다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1915년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "갈리폴리 전투",
+    "wikiQueryEn": "갈리폴리 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0144",
+    "title": "아르메니아인 대규모 추방과 학살",
+    "year": 1915,
+    "place": "오스만 제국",
+    "country": "튀르키예",
+    "region": "서아시아",
+    "lat": 39.0,
+    "lon": 35.0,
+    "category": "society",
+    "summary": "오스만 제국 내 아르메니아인에 대한 강제 이주와 대량 사망이 발생했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "오스만 제국"
+    ],
+    "keyPoints": [
+      "오스만 제국 내 아르메니아인에 대한 강제 이주와 대량 사망이 발생했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1915년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아르메니아인 대규모 추방과 학살",
+    "wikiQueryEn": "아르메니아인 대규모 추방과 학살",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0145",
+    "title": "러시아 2월혁명",
+    "year": 1917,
+    "place": "페트로그라드",
+    "country": "러시아",
+    "region": "유럽",
+    "lat": 59.9311,
+    "lon": 30.3609,
+    "category": "politics",
+    "summary": "전쟁과 생활고 속에서 차르 체제가 붕괴하고 임시정부가 수립되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "페트로그라드"
+    ],
+    "keyPoints": [
+      "전쟁과 생활고 속에서 차르 체제가 붕괴하고 임시정부가 수립되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1917년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "러시아 2월혁명",
+    "wikiQueryEn": "러시아 2월혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0146",
+    "title": "러시아 10월혁명",
+    "year": 1917,
+    "place": "페트로그라드",
+    "country": "러시아",
+    "region": "유럽",
+    "lat": 59.9311,
+    "lon": 30.3609,
+    "category": "politics",
+    "summary": "볼셰비키가 권력을 장악하며 세계 최초의 사회주의 국가 건설 과정이 시작되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "페트로그라드"
+    ],
+    "keyPoints": [
+      "볼셰비키가 권력을 장악하며 세계 최초의 사회주의 국가 건설 과정이 시작되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1917년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "러시아 10월혁명",
+    "wikiQueryEn": "러시아 10월혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0147",
+    "title": "제1차 세계대전 종전",
+    "year": 1918,
+    "place": "콩피에뉴",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 49.4179,
+    "lon": 2.8261,
+    "category": "war",
+    "summary": "서부전선 정전으로 4년간의 세계대전이 종료되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "콩피에뉴"
+    ],
+    "keyPoints": [
+      "서부전선 정전으로 4년간의 세계대전이 종료되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1918년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "제1차 세계대전 종전",
+    "wikiQueryEn": "제1차 세계대전 종전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0148",
+    "title": "3·1 운동",
+    "year": 1919,
+    "place": "서울",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "category": "society",
+    "summary": "전국적인 독립 만세운동이 식민지 지배에 대한 대중적 저항과 독립운동 조직화에 영향을 주었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "서울"
+    ],
+    "keyPoints": [
+      "전국적인 독립 만세운동이 식민지 지배에 대한 대중적 저항과 독립운동 조직화에 영향을 주었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1919년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "3·1 운동",
+    "wikiQueryEn": "3·1 운동",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0149",
+    "title": "베르사유 조약",
+    "year": 1919,
+    "place": "베르사유",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8049,
+    "lon": 2.1204,
+    "category": "politics",
+    "summary": "독일과 연합국의 평화조약이 전후 국경·배상·국제연맹 체제를 규정했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베르사유"
+    ],
+    "keyPoints": [
+      "독일과 연합국의 평화조약이 전후 국경·배상·국제연맹 체제를 규정했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1919년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "베르사유 조약",
+    "wikiQueryEn": "베르사유 조약",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0150",
+    "title": "국제연맹 출범",
+    "year": 1920,
+    "place": "제네바",
+    "country": "스위스",
+    "region": "유럽",
+    "lat": 46.2044,
+    "lon": 6.1432,
+    "category": "politics",
+    "summary": "집단안보와 국제 협력을 제도화하려는 최초의 광범위한 국제기구가 출범했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "제네바"
+    ],
+    "keyPoints": [
+      "집단안보와 국제 협력을 제도화하려는 최초의 광범위한 국제기구가 출범했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1920년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "국제연맹 출범",
+    "wikiQueryEn": "국제연맹 출범",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0151",
+    "title": "터키 공화국 수립",
+    "year": 1923,
+    "place": "앙카라",
+    "country": "튀르키예",
+    "region": "서아시아",
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "category": "politics",
+    "summary": "오스만 제국 해체 뒤 공화국이 수립되고 대규모 세속화·국가 개혁이 추진되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "앙카라"
+    ],
+    "keyPoints": [
+      "오스만 제국 해체 뒤 공화국이 수립되고 대규모 세속화·국가 개혁이 추진되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1923년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "터키 공화국 수립",
+    "wikiQueryEn": "터키 공화국 수립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0152",
+    "title": "대공황 시작",
+    "year": 1929,
+    "place": "뉴욕",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "category": "economy",
+    "summary": "주가 폭락과 금융 위기가 세계적 실업·무역 축소·정치 불안으로 확산되었다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "뉴욕"
+    ],
+    "keyPoints": [
+      "주가 폭락과 금융 위기가 세계적 실업·무역 축소·정치 불안으로 확산되었다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "1929년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "대공황 시작",
+    "wikiQueryEn": "대공황 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0153",
+    "title": "간디 소금 행진",
+    "year": 1930,
+    "place": "단디",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 20.884,
+    "lon": 72.8,
+    "category": "society",
+    "summary": "영국의 소금세에 대한 비폭력 저항이 인도 독립운동의 대중성을 크게 확대했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "단디"
+    ],
+    "keyPoints": [
+      "영국의 소금세에 대한 비폭력 저항이 인도 독립운동의 대중성을 크게 확대했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1930년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "간디 소금 행진",
+    "wikiQueryEn": "간디 소금 행진",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0154",
+    "title": "만주사변",
+    "year": 1931,
+    "place": "선양",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 41.8057,
+    "lon": 123.4315,
+    "category": "war",
+    "summary": "일본군의 만주 점령이 동아시아 전쟁 확대와 국제연맹 위기를 심화시켰다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "선양"
+    ],
+    "keyPoints": [
+      "일본군의 만주 점령이 동아시아 전쟁 확대와 국제연맹 위기를 심화시켰다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1931년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "만주사변",
+    "wikiQueryEn": "만주사변",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0155",
+    "title": "나치 독일 정권 장악",
+    "year": 1933,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "politics",
+    "summary": "히틀러가 총리에 임명된 뒤 민주제도를 해체하고 독재 체제를 구축했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베를린"
+    ],
+    "keyPoints": [
+      "히틀러가 총리에 임명된 뒤 민주제도를 해체하고 독재 체제를 구축했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1933년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "나치 독일 정권 장악",
+    "wikiQueryEn": "나치 독일 정권 장악",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0156",
+    "title": "스페인 내전 시작",
+    "year": 1936,
+    "place": "스페인",
+    "country": "스페인",
+    "region": "유럽",
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "category": "war",
+    "summary": "공화파와 국민파의 내전이 국제 이념 대립의 격전장이 되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "스페인"
+    ],
+    "keyPoints": [
+      "공화파와 국민파의 내전이 국제 이념 대립의 격전장이 되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1936년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "스페인 내전 시작",
+    "wikiQueryEn": "스페인 내전 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0157",
+    "title": "중일전쟁 전면화",
+    "year": 1937,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "war",
+    "summary": "루거우차오 사건 이후 중국과 일본의 전쟁이 전면전으로 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "베이징"
+    ],
+    "keyPoints": [
+      "루거우차오 사건 이후 중국과 일본의 전쟁이 전면전으로 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1937년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "중일전쟁 전면화",
+    "wikiQueryEn": "중일전쟁 전면화",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0158",
+    "title": "제2차 세계대전 시작",
+    "year": 1939,
+    "place": "바르샤바",
+    "country": "폴란드",
+    "region": "유럽",
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "category": "war",
+    "summary": "독일의 폴란드 침공으로 유럽 전쟁이 시작되어 곧 전 세계적 충돌로 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "바르샤바"
+    ],
+    "keyPoints": [
+      "독일의 폴란드 침공으로 유럽 전쟁이 시작되어 곧 전 세계적 충돌로 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1939년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "제2차 세계대전 시작",
+    "wikiQueryEn": "제2차 세계대전 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0159",
+    "title": "프랑스 함락",
+    "year": 1940,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "war",
+    "summary": "독일군의 서부 공세로 프랑스가 빠르게 패배하고 비시 정권이 수립되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "독일군의 서부 공세로 프랑스가 빠르게 패배하고 비시 정권이 수립되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1940년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "프랑스 함락",
+    "wikiQueryEn": "프랑스 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0160",
+    "title": "진주만 공격",
+    "year": 1941,
+    "place": "진주만",
+    "country": "미국",
+    "region": "태평양",
+    "lat": 21.3649,
+    "lon": -157.9504,
+    "category": "war",
+    "summary": "일본의 공격으로 미국이 제2차 세계대전에 본격 참전했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "진주만"
+    ],
+    "keyPoints": [
+      "일본의 공격으로 미국이 제2차 세계대전에 본격 참전했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1941년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "진주만 공격",
+    "wikiQueryEn": "진주만 공격",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0161",
+    "title": "미드웨이 해전",
+    "year": 1942,
+    "place": "미드웨이",
+    "country": "미국",
+    "region": "태평양",
+    "lat": 28.2072,
+    "lon": -177.3735,
+    "category": "war",
+    "summary": "미 해군의 승리가 태평양 전쟁의 해상 전략 균형을 바꾸는 전환점이 되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "미드웨이"
+    ],
+    "keyPoints": [
+      "미 해군의 승리가 태평양 전쟁의 해상 전략 균형을 바꾸는 전환점이 되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1942년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "미드웨이 해전",
+    "wikiQueryEn": "미드웨이 해전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0162",
+    "title": "스탈린그라드 전투",
+    "year": 1942,
+    "place": "스탈린그라드",
+    "country": "러시아",
+    "region": "유럽",
+    "lat": 48.708,
+    "lon": 44.5133,
+    "category": "war",
+    "summary": "독일군이 대규모 패배를 겪으며 동부전선의 전략적 주도권이 소련 쪽으로 이동했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "스탈린그라드"
+    ],
+    "keyPoints": [
+      "독일군이 대규모 패배를 겪으며 동부전선의 전략적 주도권이 소련 쪽으로 이동했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1942년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "스탈린그라드 전투",
+    "wikiQueryEn": "스탈린그라드 전투",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0163",
+    "title": "노르망디 상륙작전",
+    "year": 1944,
+    "place": "노르망디",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 49.4144,
+    "lon": -0.8322,
+    "category": "war",
+    "summary": "연합군이 서유럽에 대규모 교두보를 확보해 독일 본토 진격을 시작했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "노르망디"
+    ],
+    "keyPoints": [
+      "연합군이 서유럽에 대규모 교두보를 확보해 독일 본토 진격을 시작했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1944년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "노르망디 상륙작전",
+    "wikiQueryEn": "노르망디 상륙작전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0164",
+    "title": "아우슈비츠 해방",
+    "year": 1945,
+    "place": "오시비엥침",
+    "country": "폴란드",
+    "region": "유럽",
+    "lat": 50.0344,
+    "lon": 19.1783,
+    "category": "society",
+    "summary": "강제수용소 해방은 홀로코스트 범죄의 규모가 세계에 알려지는 중요한 계기가 되었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "오시비엥침"
+    ],
+    "keyPoints": [
+      "강제수용소 해방은 홀로코스트 범죄의 규모가 세계에 알려지는 중요한 계기가 되었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1945년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아우슈비츠 해방",
+    "wikiQueryEn": "아우슈비츠 해방",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0165",
+    "title": "유럽 전쟁 종결",
+    "year": 1945,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "war",
+    "summary": "나치 독일의 항복으로 유럽에서 제2차 세계대전이 끝났다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "베를린"
+    ],
+    "keyPoints": [
+      "나치 독일의 항복으로 유럽에서 제2차 세계대전이 끝났다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1945년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "유럽 전쟁 종결",
+    "wikiQueryEn": "유럽 전쟁 종결",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0166",
+    "title": "히로시마 원자폭탄 투하",
+    "year": 1945,
+    "place": "히로시마",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 34.3853,
+    "lon": 132.4553,
+    "category": "war",
+    "summary": "핵무기가 전쟁에서 처음 사용되어 막대한 민간 피해와 핵시대의 윤리·안보 문제를 남겼다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "히로시마"
+    ],
+    "keyPoints": [
+      "핵무기가 전쟁에서 처음 사용되어 막대한 민간 피해와 핵시대의 윤리·안보 문제를 남겼다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1945년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "히로시마 원자폭탄 투하",
+    "wikiQueryEn": "히로시마 원자폭탄 투하",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0167",
+    "title": "일본 항복과 제2차 세계대전 종결",
+    "year": 1945,
+    "place": "도쿄만",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 35.45,
+    "lon": 139.75,
+    "category": "war",
+    "summary": "일본의 항복 문서 서명으로 제2차 세계대전이 공식적으로 종료되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "도쿄만"
+    ],
+    "keyPoints": [
+      "일본의 항복 문서 서명으로 제2차 세계대전이 공식적으로 종료되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1945년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "일본 항복과 제2차 세계대전 종결",
+    "wikiQueryEn": "일본 항복과 제2차 세계대전 종결",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0168",
+    "title": "유엔 창설",
+    "year": 1945,
+    "place": "샌프란시스코",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "category": "politics",
+    "summary": "국제평화·안보·협력을 목표로 유엔 헌장 체제가 출범했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "샌프란시스코"
+    ],
+    "keyPoints": [
+      "국제평화·안보·협력을 목표로 유엔 헌장 체제가 출범했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1945년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "유엔 창설",
+    "wikiQueryEn": "유엔 창설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0169",
+    "title": "인도 독립",
+    "year": 1947,
+    "place": "뉴델리",
+    "country": "인도",
+    "region": "남아시아",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "category": "politics",
+    "summary": "영국 식민 지배가 끝나며 인도와 파키스탄이 독립했지만 대규모 분할 폭력과 이주가 뒤따랐다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "뉴델리"
+    ],
+    "keyPoints": [
+      "영국 식민 지배가 끝나며 인도와 파키스탄이 독립했지만 대규모 분할 폭력과 이주가 뒤따랐다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1947년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "인도 독립",
+    "wikiQueryEn": "인도 독립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0170",
+    "title": "이스라엘 건국과 1차 중동전쟁",
+    "year": 1948,
+    "place": "텔아비브/예루살렘",
+    "country": "이스라엘/팔레스타인",
+    "region": "서아시아",
+    "lat": 32.0853,
+    "lon": 34.7818,
+    "category": "war",
+    "summary": "이스라엘 국가 수립과 주변 아랍국과의 전쟁이 팔레스타인 난민 문제와 장기 분쟁의 핵심 배경이 되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "텔아비브/예루살렘"
+    ],
+    "keyPoints": [
+      "이스라엘 국가 수립과 주변 아랍국과의 전쟁이 팔레스타인 난민 문제와 장기 분쟁의 핵심 배경이 되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1948년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이스라엘 건국과 1차 중동전쟁",
+    "wikiQueryEn": "이스라엘 건국과 1차 중동전쟁",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0171",
+    "title": "중화인민공화국 수립",
+    "year": 1949,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "politics",
+    "summary": "국공내전에서 승리한 중국공산당이 중화인민공화국 수립을 선언했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베이징"
+    ],
+    "keyPoints": [
+      "국공내전에서 승리한 중국공산당이 중화인민공화국 수립을 선언했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1949년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "중화인민공화국 수립",
+    "wikiQueryEn": "중화인민공화국 수립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0172",
+    "title": "NATO 창설",
+    "year": 1949,
+    "place": "워싱턴 D.C.",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "category": "politics",
+    "summary": "북대서양 집단방위 체제가 만들어져 냉전 군사동맹 구조가 강화되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "워싱턴 D.C."
+    ],
+    "keyPoints": [
+      "북대서양 집단방위 체제가 만들어져 냉전 군사동맹 구조가 강화되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1949년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "NATO 창설",
+    "wikiQueryEn": "NATO 창설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0173",
+    "title": "한국전쟁 발발",
+    "year": 1950,
+    "place": "한반도",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "category": "war",
+    "summary": "북한의 남침으로 전쟁이 시작되어 국제전 성격으로 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "한반도"
+    ],
+    "keyPoints": [
+      "북한의 남침으로 전쟁이 시작되어 국제전 성격으로 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1950년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "한국전쟁 발발",
+    "wikiQueryEn": "한국전쟁 발발",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0174",
+    "title": "한국전쟁 정전",
+    "year": 1953,
+    "place": "판문점",
+    "country": "한국",
+    "region": "동아시아",
+    "lat": 37.9619,
+    "lon": 126.6769,
+    "category": "war",
+    "summary": "정전협정으로 대규모 전투가 중단됐지만 평화조약 없이 군사분계선이 남았다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "판문점"
+    ],
+    "keyPoints": [
+      "정전협정으로 대규모 전투가 중단됐지만 평화조약 없이 군사분계선이 남았다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1953년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "한국전쟁 정전",
+    "wikiQueryEn": "한국전쟁 정전",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0175",
+    "title": "반둥회의",
+    "year": 1955,
+    "place": "반둥",
+    "country": "인도네시아",
+    "region": "동남아시아",
+    "lat": -6.9175,
+    "lon": 107.6191,
+    "category": "politics",
+    "summary": "아시아·아프리카 신생국들이 반식민주의와 비동맹 협력을 논의했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "반둥"
+    ],
+    "keyPoints": [
+      "아시아·아프리카 신생국들이 반식민주의와 비동맹 협력을 논의했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1955년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "반둥회의",
+    "wikiQueryEn": "반둥회의",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0176",
+    "title": "수에즈 위기",
+    "year": 1956,
+    "place": "수에즈 운하",
+    "country": "이집트",
+    "region": "북아프리카",
+    "lat": 30.5852,
+    "lon": 32.2654,
+    "category": "war",
+    "summary": "운하 국유화 뒤 영국·프랑스·이스라엘이 개입했으나 국제 압력으로 철수했다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "수에즈 운하"
+    ],
+    "keyPoints": [
+      "운하 국유화 뒤 영국·프랑스·이스라엘이 개입했으나 국제 압력으로 철수했다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1956년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "수에즈 위기",
+    "wikiQueryEn": "수에즈 위기",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0177",
+    "title": "가나 독립",
+    "year": 1957,
+    "place": "아크라",
+    "country": "가나",
+    "region": "서아프리카",
+    "lat": 5.6037,
+    "lon": -0.187,
+    "category": "politics",
+    "summary": "사하라 이남 아프리카 탈식민화의 상징적 독립 사례가 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "아크라"
+    ],
+    "keyPoints": [
+      "사하라 이남 아프리카 탈식민화의 상징적 독립 사례가 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1957년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "가나 독립",
+    "wikiQueryEn": "가나 독립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0178",
+    "title": "쿠바 혁명",
+    "year": 1959,
+    "place": "아바나",
+    "country": "쿠바",
+    "region": "카리브해",
+    "lat": 23.1136,
+    "lon": -82.3666,
+    "category": "politics",
+    "summary": "카스트로가 이끄는 혁명 세력이 바티스타 정권을 무너뜨리고 사회주의 혁명으로 발전했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "아바나"
+    ],
+    "keyPoints": [
+      "카스트로가 이끄는 혁명 세력이 바티스타 정권을 무너뜨리고 사회주의 혁명으로 발전했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1959년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "쿠바 혁명",
+    "wikiQueryEn": "쿠바 혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0179",
+    "title": "콩고 독립",
+    "year": 1960,
+    "place": "레오폴드빌(킨샤사)",
+    "country": "콩고민주공화국",
+    "region": "중앙아프리카",
+    "lat": -4.4419,
+    "lon": 15.2663,
+    "category": "politics",
+    "summary": "벨기에 식민지에서 독립했지만 곧 정치 위기와 국제 개입이 이어졌다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "레오폴드빌(킨샤사)"
+    ],
+    "keyPoints": [
+      "벨기에 식민지에서 독립했지만 곧 정치 위기와 국제 개입이 이어졌다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1960년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "콩고 독립",
+    "wikiQueryEn": "콩고 독립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0180",
+    "title": "베를린 장벽 건설",
+    "year": 1961,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "politics",
+    "summary": "동독이 서베를린을 봉쇄하는 장벽을 건설해 냉전 분단의 상징이 되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베를린"
+    ],
+    "keyPoints": [
+      "동독이 서베를린을 봉쇄하는 장벽을 건설해 냉전 분단의 상징이 되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1961년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "베를린 장벽 건설",
+    "wikiQueryEn": "베를린 장벽 건설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0181",
+    "title": "쿠바 미사일 위기",
+    "year": 1962,
+    "place": "아바나",
+    "country": "쿠바",
+    "region": "카리브해",
+    "lat": 23.1136,
+    "lon": -82.3666,
+    "category": "politics",
+    "summary": "미국과 소련이 핵전쟁 직전까지 대치한 냉전의 최대 위기 중 하나였다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "아바나"
+    ],
+    "keyPoints": [
+      "미국과 소련이 핵전쟁 직전까지 대치한 냉전의 최대 위기 중 하나였다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1962년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "쿠바 미사일 위기",
+    "wikiQueryEn": "쿠바 미사일 위기",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0182",
+    "title": "워싱턴 대행진",
+    "year": 1963,
+    "place": "워싱턴 D.C.",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "category": "society",
+    "summary": "시민권과 경제적 평등을 요구한 대규모 시위가 미국 민권운동의 상징이 되었다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "워싱턴 D.C."
+    ],
+    "keyPoints": [
+      "시민권과 경제적 평등을 요구한 대규모 시위가 미국 민권운동의 상징이 되었다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1963년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "워싱턴 대행진",
+    "wikiQueryEn": "워싱턴 대행진",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0183",
+    "title": "아프리카연합기구 OAU 창설",
+    "year": 1963,
+    "place": "아디스아바바",
+    "country": "에티오피아",
+    "region": "동아프리카",
+    "lat": 8.9806,
+    "lon": 38.7578,
+    "category": "politics",
+    "summary": "독립 아프리카 국가들이 범아프리카 협력과 식민지 해방을 제도화했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "아디스아바바"
+    ],
+    "keyPoints": [
+      "독립 아프리카 국가들이 범아프리카 협력과 식민지 해방을 제도화했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1963년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아프리카연합기구 OAU 창설",
+    "wikiQueryEn": "아프리카연합기구 OAU 창설",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0184",
+    "title": "베트남전 미국 전투병 파병 확대",
+    "year": 1965,
+    "place": "다낭",
+    "country": "베트남",
+    "region": "동남아시아",
+    "lat": 16.0544,
+    "lon": 108.2022,
+    "category": "war",
+    "summary": "미국 지상군의 본격 투입으로 베트남전이 크게 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "다낭"
+    ],
+    "keyPoints": [
+      "미국 지상군의 본격 투입으로 베트남전이 크게 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1965년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "베트남전 미국 전투병 파병 확대",
+    "wikiQueryEn": "베트남전 미국 전투병 파병 확대",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0185",
+    "title": "문화대혁명 시작",
+    "year": 1966,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "society",
+    "summary": "마오쩌둥이 주도한 정치운동이 교육·문화·당 조직과 사회 전반에 큰 혼란을 초래했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베이징"
+    ],
+    "keyPoints": [
+      "마오쩌둥이 주도한 정치운동이 교육·문화·당 조직과 사회 전반에 큰 혼란을 초래했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1966년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "문화대혁명 시작",
+    "wikiQueryEn": "문화대혁명 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0186",
+    "title": "아폴로 11호 달 착륙",
+    "year": 1969,
+    "place": "달/휴스턴",
+    "country": "미국",
+    "region": "우주",
+    "lat": 29.7604,
+    "lon": -95.3698,
+    "category": "science",
+    "summary": "인류가 처음으로 달 표면에 착륙해 냉전 우주경쟁의 상징적 정점을 만들었다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "달/휴스턴"
+    ],
+    "keyPoints": [
+      "인류가 처음으로 달 표면에 착륙해 냉전 우주경쟁의 상징적 정점을 만들었다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "1969년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아폴로 11호 달 착륙",
+    "wikiQueryEn": "아폴로 11호 달 착륙",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0187",
+    "title": "방글라데시 독립",
+    "year": 1971,
+    "place": "다카",
+    "country": "방글라데시",
+    "region": "남아시아",
+    "lat": 23.8103,
+    "lon": 90.4125,
+    "category": "politics",
+    "summary": "동파키스탄의 독립전쟁과 인도 개입을 거쳐 방글라데시가 탄생했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "다카"
+    ],
+    "keyPoints": [
+      "동파키스탄의 독립전쟁과 인도 개입을 거쳐 방글라데시가 탄생했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1971년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "방글라데시 독립",
+    "wikiQueryEn": "방글라데시 독립",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0188",
+    "title": "닉슨 중국 방문",
+    "year": 1972,
+    "place": "베이징",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "category": "politics",
+    "summary": "미중 관계 정상화의 전환점으로 냉전 국제질서의 삼각관계가 재편되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베이징"
+    ],
+    "keyPoints": [
+      "미중 관계 정상화의 전환점으로 냉전 국제질서의 삼각관계가 재편되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1972년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "닉슨 중국 방문",
+    "wikiQueryEn": "닉슨 중국 방문",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0189",
+    "title": "석유파동",
+    "year": 1973,
+    "place": "리야드/세계",
+    "country": "사우디아라비아",
+    "region": "서아시아",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "category": "economy",
+    "summary": "중동 전쟁과 산유국 정책으로 유가가 급등해 세계 경제와 에너지 정책에 큰 충격을 주었다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "리야드/세계"
+    ],
+    "keyPoints": [
+      "중동 전쟁과 산유국 정책으로 유가가 급등해 세계 경제와 에너지 정책에 큰 충격을 주었다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "1973년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "석유파동",
+    "wikiQueryEn": "석유파동",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0190",
+    "title": "사이공 함락",
+    "year": 1975,
+    "place": "사이공(호찌민시)",
+    "country": "베트남",
+    "region": "동남아시아",
+    "lat": 10.8231,
+    "lon": 106.6297,
+    "category": "war",
+    "summary": "북베트남군의 사이공 점령으로 베트남전이 종료되고 베트남 통일이 이어졌다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "사이공(호찌민시)"
+    ],
+    "keyPoints": [
+      "북베트남군의 사이공 점령으로 베트남전이 종료되고 베트남 통일이 이어졌다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1975년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "사이공 함락",
+    "wikiQueryEn": "사이공 함락",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0191",
+    "title": "이란 혁명",
+    "year": 1979,
+    "place": "테헤란",
+    "country": "이란",
+    "region": "서아시아",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "category": "politics",
+    "summary": "팔레비 왕정이 무너지고 이슬람 공화국이 수립되어 중동 정치에 큰 변화를 가져왔다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "테헤란"
+    ],
+    "keyPoints": [
+      "팔레비 왕정이 무너지고 이슬람 공화국이 수립되어 중동 정치에 큰 변화를 가져왔다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1979년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이란 혁명",
+    "wikiQueryEn": "이란 혁명",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0192",
+    "title": "소련의 아프가니스탄 침공",
+    "year": 1979,
+    "place": "카불",
+    "country": "아프가니스탄",
+    "region": "중앙/남아시아",
+    "lat": 34.5553,
+    "lon": 69.2075,
+    "category": "war",
+    "summary": "소련군 개입이 장기전과 국제적 냉전 대리전으로 확대되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "카불"
+    ],
+    "keyPoints": [
+      "소련군 개입이 장기전과 국제적 냉전 대리전으로 확대되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "1979년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "소련의 아프가니스탄 침공",
+    "wikiQueryEn": "소련의 아프가니스탄 침공",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0193",
+    "title": "폴란드 연대노조 등장",
+    "year": 1980,
+    "place": "그단스크",
+    "country": "폴란드",
+    "region": "유럽",
+    "lat": 54.352,
+    "lon": 18.6466,
+    "category": "society",
+    "summary": "독립 노동조합 운동이 동유럽 공산권의 정치 변화에 중요한 역할을 했다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "그단스크"
+    ],
+    "keyPoints": [
+      "독립 노동조합 운동이 동유럽 공산권의 정치 변화에 중요한 역할을 했다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "1980년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "폴란드 연대노조 등장",
+    "wikiQueryEn": "폴란드 연대노조 등장",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0194",
+    "title": "체르노빌 원전 사고",
+    "year": 1986,
+    "place": "체르노빌",
+    "country": "우크라이나",
+    "region": "유럽",
+    "lat": 51.2763,
+    "lon": 30.2219,
+    "category": "science",
+    "summary": "원전 폭발과 방사능 확산이 대규모 피폭·이주와 원자력 안전 정책 변화로 이어졌다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "체르노빌"
+    ],
+    "keyPoints": [
+      "원전 폭발과 방사능 확산이 대규모 피폭·이주와 원자력 안전 정책 변화로 이어졌다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "1986년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "체르노빌 원전 사고",
+    "wikiQueryEn": "체르노빌 원전 사고",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0195",
+    "title": "베를린 장벽 붕괴",
+    "year": 1989,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "politics",
+    "summary": "동독의 국경 개방과 시민 이동이 독일 통일과 동유럽 냉전 질서 붕괴를 상징했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베를린"
+    ],
+    "keyPoints": [
+      "동독의 국경 개방과 시민 이동이 독일 통일과 동유럽 냉전 질서 붕괴를 상징했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1989년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "베를린 장벽 붕괴",
+    "wikiQueryEn": "베를린 장벽 붕괴",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0196",
+    "title": "독일 통일",
+    "year": 1990,
+    "place": "베를린",
+    "country": "독일",
+    "region": "유럽",
+    "lat": 52.52,
+    "lon": 13.405,
+    "category": "politics",
+    "summary": "동서독이 하나의 국가로 통합되며 전후 유럽 분단의 핵심 구조가 해체되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "베를린"
+    ],
+    "keyPoints": [
+      "동서독이 하나의 국가로 통합되며 전후 유럽 분단의 핵심 구조가 해체되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1990년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "독일 통일",
+    "wikiQueryEn": "독일 통일",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0197",
+    "title": "소련 해체",
+    "year": 1991,
+    "place": "모스크바",
+    "country": "러시아",
+    "region": "유럽/아시아",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "category": "politics",
+    "summary": "소련이 공식 해체되고 15개 공화국이 독립 국가로 분리되며 냉전이 종결되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "모스크바"
+    ],
+    "keyPoints": [
+      "소련이 공식 해체되고 15개 공화국이 독립 국가로 분리되며 냉전이 종결되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1991년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "소련 해체",
+    "wikiQueryEn": "소련 해체",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0198",
+    "title": "남아프리카공화국 첫 다인종 총선",
+    "year": 1994,
+    "place": "프리토리아",
+    "country": "남아프리카공화국",
+    "region": "남아프리카",
+    "lat": -25.7479,
+    "lon": 28.2293,
+    "category": "politics",
+    "summary": "아파르트헤이트 체제가 종식되고 넬슨 만델라가 대통령이 되는 민주적 전환이 이루어졌다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "프리토리아"
+    ],
+    "keyPoints": [
+      "아파르트헤이트 체제가 종식되고 넬슨 만델라가 대통령이 되는 민주적 전환이 이루어졌다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1994년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "남아프리카공화국 첫 다인종 총선",
+    "wikiQueryEn": "남아프리카공화국 첫 다인종 총선",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0199",
+    "title": "유럽연합 출범",
+    "year": 1993,
+    "place": "브뤼셀",
+    "country": "벨기에",
+    "region": "유럽",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "category": "politics",
+    "summary": "마스트리흐트 조약 발효로 유럽 통합이 경제 공동체를 넘어 정치연합의 성격을 강화했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "브뤼셀"
+    ],
+    "keyPoints": [
+      "마스트리흐트 조약 발효로 유럽 통합이 경제 공동체를 넘어 정치연합의 성격을 강화했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1993년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "유럽연합 출범",
+    "wikiQueryEn": "유럽연합 출범",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0200",
+    "title": "세계무역기구 WTO 출범",
+    "year": 1995,
+    "place": "제네바",
+    "country": "스위스",
+    "region": "유럽",
+    "lat": 46.2044,
+    "lon": 6.1432,
+    "category": "economy",
+    "summary": "다자간 무역 규범과 분쟁해결을 담당하는 국제기구가 출범했다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "제네바"
+    ],
+    "keyPoints": [
+      "다자간 무역 규범과 분쟁해결을 담당하는 국제기구가 출범했다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "1995년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "세계무역기구 WTO 출범",
+    "wikiQueryEn": "세계무역기구 WTO 출범",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0201",
+    "title": "홍콩 반환",
+    "year": 1997,
+    "place": "홍콩",
+    "country": "중국",
+    "region": "동아시아",
+    "lat": 22.3193,
+    "lon": 114.1694,
+    "category": "politics",
+    "summary": "영국 식민통치가 종료되고 홍콩이 중국에 반환되며 일국양제 체제가 시작되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "홍콩"
+    ],
+    "keyPoints": [
+      "영국 식민통치가 종료되고 홍콩이 중국에 반환되며 일국양제 체제가 시작되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "1997년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "홍콩 반환",
+    "wikiQueryEn": "홍콩 반환",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0202",
+    "title": "9·11 테러",
+    "year": 2001,
+    "place": "뉴욕",
+    "country": "미국",
+    "region": "북아메리카",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "category": "war",
+    "summary": "알카에다의 대규모 테러가 미국의 대테러전과 국제 안보정책을 장기간 변화시켰다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "뉴욕"
+    ],
+    "keyPoints": [
+      "알카에다의 대규모 테러가 미국의 대테러전과 국제 안보정책을 장기간 변화시켰다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "2001년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "9·11 테러",
+    "wikiQueryEn": "9·11 테러",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0203",
+    "title": "아프가니스탄 전쟁 시작",
+    "year": 2001,
+    "place": "카불",
+    "country": "아프가니스탄",
+    "region": "중앙/남아시아",
+    "lat": 34.5553,
+    "lon": 69.2075,
+    "category": "war",
+    "summary": "미국 주도 연합군이 탈레반 정권을 공격하며 장기 전쟁이 시작되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "카불"
+    ],
+    "keyPoints": [
+      "미국 주도 연합군이 탈레반 정권을 공격하며 장기 전쟁이 시작되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "2001년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아프가니스탄 전쟁 시작",
+    "wikiQueryEn": "아프가니스탄 전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0204",
+    "title": "이라크 전쟁 시작",
+    "year": 2003,
+    "place": "바그다드",
+    "country": "이라크",
+    "region": "서아시아",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "category": "war",
+    "summary": "미국 주도 연합군이 이라크를 침공해 사담 후세인 정권을 무너뜨렸고 장기적 불안정이 이어졌다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "바그다드"
+    ],
+    "keyPoints": [
+      "미국 주도 연합군이 이라크를 침공해 사담 후세인 정권을 무너뜨렸고 장기적 불안정이 이어졌다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "2003년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "이라크 전쟁 시작",
+    "wikiQueryEn": "이라크 전쟁 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0205",
+    "title": "글로벌 금융위기",
+    "year": 2008,
+    "place": "뉴욕/세계",
+    "country": "미국",
+    "region": "세계",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "category": "economy",
+    "summary": "주택·신용시장 붕괴가 금융기관 위기와 세계적 경기침체로 확산되었다.",
+    "significance": "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "뉴욕/세계"
+    ],
+    "keyPoints": [
+      "주택·신용시장 붕괴가 금융기관 위기와 세계적 경기침체로 확산되었다.",
+      "교역망·금융·에너지·산업 구조가 지역과 세계의 권력 관계에 미치는 영향을 보여준다.",
+      "2008년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "글로벌 금융위기",
+    "wikiQueryEn": "글로벌 금융위기",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0206",
+    "title": "아랍의 봄 시작",
+    "year": 2010,
+    "place": "시디부지드",
+    "country": "튀니지",
+    "region": "북아프리카",
+    "lat": 35.0382,
+    "lon": 9.4849,
+    "category": "politics",
+    "summary": "튀니지 시위가 중동·북아프리카 여러 국가의 반정부 운동으로 확산되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "시디부지드"
+    ],
+    "keyPoints": [
+      "튀니지 시위가 중동·북아프리카 여러 국가의 반정부 운동으로 확산되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "2010년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "아랍의 봄 시작",
+    "wikiQueryEn": "아랍의 봄 시작",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0207",
+    "title": "후쿠시마 원전 사고",
+    "year": 2011,
+    "place": "후쿠시마",
+    "country": "일본",
+    "region": "동아시아",
+    "lat": 37.4213,
+    "lon": 141.0327,
+    "category": "science",
+    "summary": "대지진과 쓰나미로 원전 사고가 발생해 에너지·재난 정책 논쟁에 큰 영향을 주었다.",
+    "significance": "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+    "people": [],
+    "relatedPlaces": [
+      "후쿠시마"
+    ],
+    "keyPoints": [
+      "대지진과 쓰나미로 원전 사고가 발생해 에너지·재난 정책 논쟁에 큰 영향을 주었다.",
+      "관측·실험·이론·기술이 인간의 자연 이해와 사회 시스템을 바꾸는 과정을 보여준다.",
+      "2011년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "후쿠시마 원전 사고",
+    "wikiQueryEn": "후쿠시마 원전 사고",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0208",
+    "title": "크림반도 병합",
+    "year": 2014,
+    "place": "크림반도",
+    "country": "우크라이나",
+    "region": "유럽",
+    "lat": 44.9521,
+    "lon": 34.1024,
+    "category": "politics",
+    "summary": "러시아가 크림반도를 병합하면서 유럽 안보질서와 러시아-우크라이나 갈등이 심화되었다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "크림반도"
+    ],
+    "keyPoints": [
+      "러시아가 크림반도를 병합하면서 유럽 안보질서와 러시아-우크라이나 갈등이 심화되었다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "2014년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "크림반도 병합",
+    "wikiQueryEn": "크림반도 병합",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0209",
+    "title": "파리기후협정 채택",
+    "year": 2015,
+    "place": "파리",
+    "country": "프랑스",
+    "region": "유럽",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "category": "politics",
+    "summary": "세계 각국이 기후변화 대응과 온실가스 감축을 위한 국제적 틀에 합의했다.",
+    "significance": "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+    "people": [],
+    "relatedPlaces": [
+      "파리"
+    ],
+    "keyPoints": [
+      "세계 각국이 기후변화 대응과 온실가스 감축을 위한 국제적 틀에 합의했다.",
+      "권력의 정당성, 제도, 국가 형성과 국제질서의 변화를 이해하는 기준점이다.",
+      "2015년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "파리기후협정 채택",
+    "wikiQueryEn": "파리기후협정 채택",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0210",
+    "title": "코로나19 세계적 대유행",
+    "year": 2020,
+    "place": "우한/세계",
+    "country": "중국",
+    "region": "세계",
+    "lat": 30.5928,
+    "lon": 114.3055,
+    "category": "society",
+    "summary": "신종 감염병이 세계적으로 확산되어 보건·경제·교육·이동 체계에 대규모 변화를 일으켰다.",
+    "significance": "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+    "people": [],
+    "relatedPlaces": [
+      "우한/세계"
+    ],
+    "keyPoints": [
+      "신종 감염병이 세계적으로 확산되어 보건·경제·교육·이동 체계에 대규모 변화를 일으켰다.",
+      "인구·권리·질병·사회운동 등 일상과 제도의 변화를 함께 살펴볼 수 있는 사건이다.",
+      "2020년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "코로나19 세계적 대유행",
+    "wikiQueryEn": "코로나19 세계적 대유행",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  },
+  {
+    "id": "backbone-0211",
+    "title": "러시아의 우크라이나 전면 침공",
+    "year": 2022,
+    "place": "우크라이나",
+    "country": "우크라이나",
+    "region": "유럽",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "category": "war",
+    "summary": "러시아의 전면 침공으로 유럽에서 대규모 국가간 전쟁이 발생하고 국제 안보·에너지·난민 문제가 심화되었다.",
+    "significance": "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+    "people": [],
+    "relatedPlaces": [
+      "우크라이나"
+    ],
+    "keyPoints": [
+      "러시아의 전면 침공으로 유럽에서 대규모 국가간 전쟁이 발생하고 국제 안보·에너지·난민 문제가 심화되었다.",
+      "군사 기술과 지형, 보급, 동맹이 정치 질서를 어떻게 바꾸는지 보여주는 사례다.",
+      "2022년 전후의 동시대 다른 지역 사건과 비교해 보세요."
+    ],
+    "wikiQuery": "러시아의 우크라이나 전면 침공",
+    "wikiQueryEn": "러시아의 우크라이나 전면 침공",
+    "recordType": "event",
+    "sourceTier": "editorial-backbone",
+    "coordinatePrecision": "city-or-region",
+    "reviewStatus": "editorial-seed"
+  }
+]

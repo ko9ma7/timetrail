@@ -1,0 +1,16 @@
+{
+  "endpoint": "https://query.wikidata.org/sparql",
+  "maxRecords": 45000,
+  "pageSize": 500,
+  "queries": [
+    {"qid":"Q13418847","label":"historical event","category":"politics","recordType":"event","limit":7000},
+    {"qid":"Q178561","label":"battle","category":"war","recordType":"event","limit":9000},
+    {"qid":"Q198","label":"war","category":"war","recordType":"event","limit":4000},
+    {"qid":"Q10931","label":"revolution","category":"politics","recordType":"event","limit":4000},
+    {"qid":"Q131569","label":"treaty","category":"politics","recordType":"event","limit":5000},
+    {"qid":"Q7944","label":"earthquake","category":"society","recordType":"event","limit":5000},
+    {"qid":"Q839954","label":"archaeological site","category":"architecture","recordType":"place","limit":5000},
+    {"qid":"Q23413","label":"castle","category":"architecture","recordType":"place","limit":3000},
+    {"qid":"Q16560","label":"palace","category":"architecture","recordType":"place","limit":3000}
+  ]
+}

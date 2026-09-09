@@ -3,7 +3,7 @@ $ProgressPreference = 'SilentlyContinue'
 Set-Location (Split-Path -Parent $PSScriptRoot)
 
 # ============================================================
-# TimeTrail GitHub Bootstrap v1.1.4
+# TimeTrail GitHub Bootstrap (version read from package.json)
 # ASCII-only script text for Windows PowerShell 5.1 compatibility.
 # Project JSON/HTML files are still read explicitly as UTF-8.
 # ============================================================
@@ -13,16 +13,18 @@ $RepoVisibility = if ($env:TT_REPO_VISIBILITY) { $env:TT_REPO_VISIBILITY.Trim() 
 $RepoDescription = if ($env:TT_REPO_DESCRIPTION) { $env:TT_REPO_DESCRIPTION } else { 'Interactive historical map for exploring places, people and events through time.' }
 $RepoTopics = if ($env:TT_REPO_TOPICS) { @($env:TT_REPO_TOPICS -split ',' | ForEach-Object { $_.Trim() } | Where-Object { $_ }) } else { @('history','maplibre','javascript','openstreetmap','github-pages','education','timeline') }
 $DefaultBranch = 'main'
-$ReleaseTag = if ($env:TT_INITIAL_TAG) { $env:TT_INITIAL_TAG } else { 'v1.1.4' }
-$CommitMessage = 'fix: make Windows bootstrap reliable and deploy expanded history data'
+$CommitMessage = 'feat: expand TimeTrail historical data pipeline and learning content'
 $WorkflowFile = 'deploy.yml'
 $ApiVersion = '2022-11-28'
-$ExpectedBuild = if ($env:TT_EXPECTED_BUILD) { $env:TT_EXPECTED_BUILD } else { '2026-09-09.7' }
 $MinimumEvents = 80
-$MinimumStories = 9
+$MinimumBackbone = 200
+$MinimumStories = 30
 $MinimumCities = 24
 
 $ProjectRoot = (Get-Location).Path
+$ProjectVersion = 'unknown'
+$ReleaseTag = ''
+$ExpectedBuild = ''
 $LogFile = Join-Path $ProjectRoot 'github-bootstrap.log'
 $TranscriptStarted = $false
 
@@ -117,14 +119,13 @@ try {
     }
 
     Write-Host '============================================================'
-    Write-Host 'TimeTrail deployment diagnostic bootstrap v1.1.4'
+    Write-Host 'TimeTrail deployment diagnostic bootstrap'
     Write-Host '============================================================'
     Write-Stage "Project folder: $ProjectRoot"
-    Write-Stage "Expected build: $ExpectedBuild"
 
     $required = @(
         'index.html','app.js','styles.css','package.json','package-lock.json',
-        'data/history-events.json','data/story-packs.json','data/cities.json',
+        'data/history-events.json','data/history-backbone.json','data/story-packs.json','data/cities.json',
         'scripts/build.mjs','scripts/configure-repo.mjs',
         ".github/workflows/$WorkflowFile"
     )
@@ -135,24 +136,48 @@ try {
     }
     Write-Ok 'Complete project folder detected'
 
+    $PackageInfo = Get-Content 'package.json' -Raw -Encoding UTF8 | ConvertFrom-Json
+    $ProjectVersion = if ($PackageInfo.version) { [string]$PackageInfo.version } else { 'unknown' }
+    $ReleaseTag = if ($env:TT_INITIAL_TAG) { $env:TT_INITIAL_TAG } else { "v$ProjectVersion" }
+    $IndexForBuild = Get-Content 'index.html' -Raw -Encoding UTF8
+    $BuildMatch = [regex]::Match($IndexForBuild, 'timetrail-build" content="([^"]+)"')
+    if (-not $BuildMatch.Success) {
+        Stop-WithError 'index.html is missing the timetrail-build meta tag.' 'Use a complete TimeTrail package.'
+    }
+    $ExpectedBuild = $BuildMatch.Groups[1].Value
+    Write-Ok "Release metadata: v$ProjectVersion / build $ExpectedBuild"
+
     Write-Stage 'Checking local TimeTrail dataset'
     $indexHtml = Get-Content 'index.html' -Raw -Encoding UTF8
-    if ($indexHtml -notmatch [regex]::Escape($ExpectedBuild)) {
-        Stop-WithError "index.html does not contain expected build $ExpectedBuild." 'Use the latest TimeTrail v1.1.4 package in a newly extracted folder.'
+    $appJs = Get-Content 'app.js' -Raw -Encoding UTF8
+    $appBuildMatch = [regex]::Match($appJs, "DATA_VERSION='([^']+)'")
+    if (-not $appBuildMatch.Success) {
+        Stop-WithError 'app.js does not contain DATA_VERSION.' 'Use a complete package or restore app.js.'
     }
+    if ($appBuildMatch.Groups[1].Value -ne $ExpectedBuild) {
+        Stop-WithError "Release files disagree: index.html=$ExpectedBuild / app.js=$($appBuildMatch.Groups[1].Value)." 'Do not mix files from different TimeTrail ZIP releases.'
+    }
+    Write-Ok "Release consistency: v$ProjectVersion / build $ExpectedBuild"
     # Windows PowerShell 5.1 may preserve a top-level JSON array as one pipeline
     # object when ConvertFrom-Json is wrapped directly in @(...). Read first, then
     # inspect the actual CLR array length so 80 items are never misreported as 1.
     $events = Get-Content 'data/history-events.json' -Raw -Encoding UTF8 | ConvertFrom-Json
+    $backbone = Get-Content 'data/history-backbone.json' -Raw -Encoding UTF8 | ConvertFrom-Json
     $stories = Get-Content 'data/story-packs.json' -Raw -Encoding UTF8 | ConvertFrom-Json
     $cities = Get-Content 'data/cities.json' -Raw -Encoding UTF8 | ConvertFrom-Json
     $eventCount = if ($null -eq $events) { 0 } elseif ($events -is [System.Array]) { $events.Length } else { 1 }
+    $backboneCount = if ($null -eq $backbone) { 0 } elseif ($backbone -is [System.Array]) { $backbone.Length } else { 1 }
     $storyCount = if ($null -eq $stories) { 0 } elseif ($stories -is [System.Array]) { $stories.Length } else { 1 }
     $cityCount = if ($null -eq $cities) { 0 } elseif ($cities -is [System.Array]) { $cities.Length } else { 1 }
-    $countryCount = @($events.country | Sort-Object -Unique).Count
-    Write-Host "[DATA] Events: $eventCount / Countries-regions: $countryCount / Story packs: $storyCount / Duel cities: $cityCount"
-    if ($eventCount -lt $MinimumEvents -or $storyCount -lt $MinimumStories -or $cityCount -lt $MinimumCities) {
-        Stop-WithError 'The local dataset is older/smaller than the expanded release.' 'Extract the latest TimeTrail v1.1.4 ZIP into a new folder.'
+    $countryCount = @($events.country + $backbone.country | Sort-Object -Unique).Count
+    $indexCount = 0
+    if (Test-Path 'data/history-events-index.json') {
+        $idx = Get-Content 'data/history-events-index.json' -Raw -Encoding UTF8 | ConvertFrom-Json
+        $indexCount = if ($null -eq $idx) { 0 } elseif ($idx -is [System.Array]) { $idx.Length } else { 1 }
+    }
+    Write-Host "[DATA] Curated: $eventCount / Backbone: $backboneCount / Auto-index: $indexCount / Countries-regions: $countryCount / Story packs: $storyCount / Duel cities: $cityCount"
+    if ($eventCount -lt $MinimumEvents -or $backboneCount -lt $MinimumBackbone -or $storyCount -lt $MinimumStories -or $cityCount -lt $MinimumCities) {
+        Stop-WithError 'The local dataset is older/smaller than the expanded release.' "Extract the complete TimeTrail v$ProjectVersion ZIP into a new folder."
     }
     Write-Ok 'Expanded dataset is present locally'
 

@@ -1,14 +1,16 @@
-# TimeTrail 역사 데이터
+# TimeTrail data directory
 
-TimeTrail의 브라우저 내장 교육용 역사 데이터입니다.
+- `history-events.json`: 상세 교육 큐레이션
+- `history-backbone.json`: 고대~현대 세계사 Backbone
+- `history-events-index.json`: `npm run data:refresh`가 생성하는 Wikidata 자동 인덱스
+- `history-events-index.meta.json`: 마지막 자동 수집 메타데이터
+- `history-imported.json`: CSV 등 사용자 가져오기 데이터
+- `history-schema.json`: 권장 레코드 스키마
+- `source-policy.json`: 자료 계층·좌표 정확도 정의
+- `harvest-config.json`: 자동 수집 대상/한도 설정
+- `history-template.csv`: 사용자 대량 입력 템플릿
+- `story-packs.json`: 교육용 경로
+- `cities.json`: Time Duel 도시
+- `history-data.js`: 네트워크/JSON 로딩 실패 시 최소 fallback 데이터
 
-- `history-data.js`: 웹앱에서 직접 사용하는 데이터 모듈
-- `history-events.json`: 사건 데이터 JSON 사본
-- `story-packs.json`: 교육용 스토리 경로
-- `cities.json`: Time Duel 도시 목록
-
-각 사건에는 연도, 좌표, 국가/지역, 간단한 사실 요약, 역사적 의미, 관련 인물·장소, 핵심 학습 포인트, Wikipedia 검색어가 들어 있습니다.
-
-상세 설명과 이미지는 브라우저에서 Wikimedia/MediaWiki 공개 API를 조회하여 보강합니다. 네트워크 요청이 실패해도 정적 교육용 요약과 학습 포인트는 그대로 표시됩니다.
-
-외부 문서 링크는 한국어/영어 Wikipedia, Wikidata, 나무위키 검색, Wikimedia Commons 이미지 검색으로 연결합니다. 외부 문서와 이미지는 각 사이트의 최신 내용 및 해당 라이선스를 따릅니다.
+자세한 추가·좌표화 절차는 `../docs/DATA-GUIDE-KO.md`를 참고하세요.

@@ -9,3 +9,6 @@
 @media(max-width:430px){.detail-panel{max-height:45vh}.timeline-card{bottom:calc(45vh + 22px)}.history-image img{height:105px}.why-card{display:none}.learning-section ol li:nth-child(n+3){display:none}.source-link:nth-of-type(n+3){display:none}}
 
 .dataset-badge{margin:14px 0 16px;padding:11px 12px;border:1px solid color-mix(in srgb,var(--accent) 40%,var(--line));border-radius:12px;background:color-mix(in srgb,var(--accent) 9%,var(--surface));display:flex;flex-direction:column;gap:4px}.dataset-badge b{font-size:11px;letter-spacing:.08em;color:var(--accent);font-weight:800}.dataset-badge span{font-size:12px;line-height:1.45;color:var(--text)}
+
+.provenance{display:grid;gap:4px;margin:18px 0;padding:12px 14px;border:1px solid var(--border);border-radius:12px;background:color-mix(in srgb,var(--surface) 88%,transparent)}
+.provenance small,.provenance span{color:var(--muted);font-size:12px}.provenance b{font-size:14px}

@@ -1,0 +1,5 @@
+{
+  "generatedAt": null,
+  "recordCount": 0,
+  "note": "Run npm run data:refresh or the Refresh historical data index GitHub Action to populate this file."
+}

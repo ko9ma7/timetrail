@@ -1,0 +1,2 @@
+id,title,year,place,country,region,lat,lon,category,summary,significance,wikiQuery,wikiQueryEn,coordinatePrecision,sourceUrl
+my-event-001,사건 이름,1592,한산도,한국,동아시아,34.767,128.5,war,한 줄 사실 요약,왜 중요한지 설명,한산도 대첩,Battle of Hansan Island,site,https://www.wikidata.org/

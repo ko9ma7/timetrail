@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TimeTrail History Record",
+  "type": "object",
+  "required": ["id", "title", "year", "place", "lat", "lon", "category"],
+  "properties": {
+    "id": {"type": "string"},
+    "title": {"type": "string"},
+    "year": {"type": "integer", "minimum": -10000, "maximum": 2100},
+    "place": {"type": "string"},
+    "country": {"type": "string"},
+    "region": {"type": "string"},
+    "lat": {"type": "number", "minimum": -90, "maximum": 90},
+    "lon": {"type": "number", "minimum": -180, "maximum": 180},
+    "category": {"type": "string"},
+    "recordType": {"enum": ["event", "place", "person-route"]},
+    "summary": {"type": "string"},
+    "significance": {"type": "string"},
+    "people": {"type": "array", "items": {"type": "string"}},
+    "relatedPlaces": {"type": "array", "items": {"type": "string"}},
+    "keyPoints": {"type": "array", "items": {"type": "string"}},
+    "wikiQuery": {"type": "string"},
+    "wikiQueryEn": {"type": "string"},
+    "wikidataId": {"type": "string"},
+    "wikipediaUrl": {"type": "string"},
+    "sourceUrl": {"type": "string"},
+    "sourceTier": {"enum": ["curated", "editorial-backbone", "wikidata-index", "imported"]},
+    "coordinatePrecision": {"enum": ["site", "city", "city-or-region", "region", "approximate", "unknown"]},
+    "reviewStatus": {"enum": ["verified", "editorial-seed", "machine-imported", "needs-review"]}
+  }
+}

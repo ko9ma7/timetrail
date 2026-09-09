@@ -6,7 +6,7 @@
   <title>TimeTrail — 지도를 클릭하면 그 장소의 과거로</title>
   <meta name="description" content="시간 슬라이더와 세계지도로 같은 시대의 도시, 인물의 여정, 역사 사건을 탐험하는 인터랙티브 역사 지도." />
   <meta name="theme-color" content="#07101d" />
-  <meta name="timetrail-build" content="2026-09-09.7" />
+  <meta name="timetrail-build" content="2026-09-10.2" />
   <link rel="canonical" href="https://ko9ma7.github.io/timetrail/" />
   <meta name="color-scheme" content="dark light" />
   <link rel="icon" href="./favicon.ico" sizes="any" />
@@ -15,7 +15,7 @@
   <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
   <link rel="manifest" href="./site.webmanifest" />
   <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@6.8.0/dist/maplibre-gl.css" />
-  <link rel="stylesheet" href="./styles.css?v=2026-09-09.7" />
+  <link rel="stylesheet" href="./styles.css?v=2026-09-10.2" />
   <meta property="og:title" content="TimeTrail — 지도를 클릭하면 그 장소의 과거로" />
   <meta property="og:description" content="연도를 움직이고 도시를 클릭해 그 장소의 역사와 인물의 여정을 탐험하세요." />
   <meta property="og:type" content="website" />
@@ -55,14 +55,14 @@
         <div class="map-shell"><div id="map" class="map"></div><div class="map-hint">지도의 아무 곳이나 클릭해 당시의 가장 가까운 사건을 찾아보세요.</div></div>
         <div class="timeline-card">
           <div class="timeline-value"><span id="yearLabel">1592년</span><small id="yearSubtitle">조선 · 임진왜란 원년</small></div>
-          <input id="yearSlider" aria-label="연도 선택" type="range" min="400" max="2026" value="1592" />
-          <div class="ticks"><span>400</span><span>1000</span><span>1500</span><span>1800</span><span>2026</span></div>
+          <input id="yearSlider" aria-label="연도 선택" type="range" min="-3500" max="2026" value="1592" />
+          <div class="ticks"><span>기원전 3500</span><span>1</span><span>1000</span><span>1800</span><span>2026</span></div>
         </div>
       </section>
       <aside class="detail-panel" id="detailPanel"></aside>
     </section>
     <div class="toast" id="toast" hidden><span></span><button aria-label="닫기">×</button></div>
   </main>
-  <script type="module" src="./app.js?v=2026-09-09.7"></script>
+  <script type="module" src="./app.js?v=2026-09-10.2"></script>
 </body>
 </html>
