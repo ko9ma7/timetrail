@@ -1,4 +1,4 @@
-TimeTrail v1.2.1
+TimeTrail v1.2.2
 
 1. Extract the ZIP completely. Do NOT run github-bootstrap.cmd inside the ZIP viewer.
 2. Double-click github-bootstrap.cmd from the extracted project folder.

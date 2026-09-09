@@ -361,17 +361,15 @@ try {
     Write-Ok 'Pages source is GitHub Actions'
 
     Write-Stage 'Triggering a fresh deployment workflow'
-    $before = Get-Date
+    $previousRunId = (& gh run list --repo $FullRepo --workflow $WorkflowFile --event workflow_dispatch --branch $DefaultBranch --limit 1 --json databaseId --jq '.[0].databaseId' 2>$null).Trim()
     Invoke-Native 'gh' @('workflow','run',$WorkflowFile,'--repo',$FullRepo,'--ref',$DefaultBranch)
 
     $runId = $null
     for ($i = 0; $i -lt 30 -and -not $runId; $i++) {
         Start-Sleep -Seconds 2
-        $json = & gh run list --repo $FullRepo --workflow $WorkflowFile --event workflow_dispatch --branch $DefaultBranch --limit 10 --json databaseId,createdAt
-        if ($LASTEXITCODE -eq 0 -and $json) {
-            $runs = @($json | ConvertFrom-Json)
-            $candidate = $runs | Where-Object { ([datetime]$_.createdAt) -ge $before.AddMinutes(-1) } | Sort-Object { [datetime]$_.createdAt } -Descending | Select-Object -First 1
-            if ($candidate) { $runId = [string]$candidate.databaseId }
+        $latestRunId = (& gh run list --repo $FullRepo --workflow $WorkflowFile --event workflow_dispatch --branch $DefaultBranch --limit 1 --json databaseId --jq '.[0].databaseId' 2>$null).Trim()
+        if ($latestRunId -and $latestRunId -ne $previousRunId) {
+            $runId = $latestRunId
         }
     }
     if (-not $runId) {

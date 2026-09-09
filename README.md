@@ -4,11 +4,11 @@
 
 TimeTrail은 역사 사실을 LLM이 임의로 만들어내는 대신, **내장 교육 데이터 + 세계사 Backbone + Wikidata 구조화 데이터 + Wikipedia/Wikimedia 원문**을 결합합니다. GitHub Pages에서 정적으로 동작하며 별도 DB가 필요하지 않습니다.
 
-### v1.2.1 bootstrap consistency fix
+### v1.2.2 bootstrap consistency fix
 
 The Windows bootstrap no longer hard-codes a second build marker in `github-bootstrap.cmd`. The PowerShell deployment engine reads the release version from `package.json` and the build marker from `index.html`, then verifies that `app.js` uses the same cache/data version. `npm run check` also runs `scripts/verify-release.mjs`, so mixed files from different releases fail during local/CI checks instead of during deployment.
 
-## Current data scale (v1.2.1)
+## Current data scale (v1.2.2)
 
 - 상세 교육 큐레이션: **80개 사건**
 - 내장 세계사 Backbone: **211개 사건/기준점**
