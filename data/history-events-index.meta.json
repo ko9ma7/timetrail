@@ -1,5 +1,54 @@
 {
-  "generatedAt": null,
-  "recordCount": 0,
-  "note": "Run npm run data:refresh or the Refresh historical data index GitHub Action to populate this file."
+  "generatedAt": "2026-09-14T09:19:08.659Z",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "maxRecords": 45000,
+  "recordCount": 11646,
+  "stats": [
+    {
+      "qid": "Q13418847",
+      "label": "historical event",
+      "rawRows": 10
+    },
+    {
+      "qid": "Q178561",
+      "label": "battle",
+      "rawRows": 7727
+    },
+    {
+      "qid": "Q198",
+      "label": "war",
+      "rawRows": 32
+    },
+    {
+      "qid": "Q10931",
+      "label": "revolution",
+      "rawRows": 7
+    },
+    {
+      "qid": "Q131569",
+      "label": "treaty",
+      "rawRows": 104
+    },
+    {
+      "qid": "Q7944",
+      "label": "earthquake",
+      "rawRows": 2607
+    },
+    {
+      "qid": "Q839954",
+      "label": "archaeological site",
+      "rawRows": 2541
+    },
+    {
+      "qid": "Q23413",
+      "label": "castle",
+      "rawRows": 3000
+    },
+    {
+      "qid": "Q16560",
+      "label": "palace",
+      "rawRows": 3000
+    }
+  ],
+  "note": "Machine-generated from Wikidata Query Service. Review individual records through sourceUrl/wikidataId before high-stakes use."
 }
