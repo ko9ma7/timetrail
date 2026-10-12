@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-05T10:44:39.587Z",
+  "generatedAt": "2026-10-12T11:23:44.514Z",
   "endpoint": "https://query.wikidata.org/sparql",
   "maxRecords": 45000,
-  "recordCount": 11788,
+  "recordCount": 9586,
   "stats": [
     {
       "qid": "Q13418847",
@@ -12,7 +12,7 @@
     {
       "qid": "Q178561",
       "label": "battle",
-      "rawRows": 7744
+      "rawRows": 5000
     },
     {
       "qid": "Q198",
@@ -32,7 +32,7 @@
     {
       "qid": "Q7944",
       "label": "earthquake",
-      "rawRows": 2608
+      "rawRows": 2609
     },
     {
       "qid": "Q839954",
@@ -42,7 +42,7 @@
     {
       "qid": "Q23413",
       "label": "castle",
-      "rawRows": 3000
+      "rawRows": 1500
     },
     {
       "qid": "Q16560",
