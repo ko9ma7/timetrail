@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T09:39:51.831Z",
+  "generatedAt": "2026-11-02T11:51:36.376Z",
   "endpoint": "https://query.wikidata.org/sparql",
   "maxRecords": 45000,
-  "recordCount": 11581,
+  "recordCount": 8796,
   "stats": [
     {
       "qid": "Q13418847",
@@ -12,7 +12,7 @@
     {
       "qid": "Q178561",
       "label": "battle",
-      "rawRows": 6500
+      "rawRows": 2000
     },
     {
       "qid": "Q198",
@@ -27,7 +27,7 @@
     {
       "qid": "Q131569",
       "label": "treaty",
-      "rawRows": 104
+      "rawRows": 105
     },
     {
       "qid": "Q7944",
@@ -37,7 +37,7 @@
     {
       "qid": "Q839954",
       "label": "archaeological site",
-      "rawRows": 2576
+      "rawRows": 2582
     },
     {
       "qid": "Q23413",
