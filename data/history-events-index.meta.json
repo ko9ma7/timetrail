@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T11:51:36.376Z",
+  "generatedAt": "2026-11-09T12:08:20.486Z",
   "endpoint": "https://query.wikidata.org/sparql",
   "maxRecords": 45000,
-  "recordCount": 8796,
+  "recordCount": 9909,
   "stats": [
     {
       "qid": "Q13418847",
@@ -12,7 +12,7 @@
     {
       "qid": "Q178561",
       "label": "battle",
-      "rawRows": 2000
+      "rawRows": 3500
     },
     {
       "qid": "Q198",
@@ -37,7 +37,7 @@
     {
       "qid": "Q839954",
       "label": "archaeological site",
-      "rawRows": 2582
+      "rawRows": 2589
     },
     {
       "qid": "Q23413",
