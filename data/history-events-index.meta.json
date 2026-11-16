@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-09T12:08:20.486Z",
+  "generatedAt": "2026-11-16T11:52:15.560Z",
   "endpoint": "https://query.wikidata.org/sparql",
   "maxRecords": 45000,
-  "recordCount": 9909,
+  "recordCount": 10165,
   "stats": [
     {
       "qid": "Q13418847",
@@ -32,12 +32,12 @@
     {
       "qid": "Q7944",
       "label": "earthquake",
-      "rawRows": 2610
+      "rawRows": 2611
     },
     {
       "qid": "Q839954",
       "label": "archaeological site",
-      "rawRows": 2589
+      "rawRows": 2594
     },
     {
       "qid": "Q23413",
